@@ -1,0 +1,4102 @@
+{
+  "tema": "Sinais de indicação",
+  "slug": "sinais-indicacao",
+  "total": 166,
+  "questoes": [
+    {
+      "numero": "2138",
+      "url": "https://www.bomcondutor.pt/questao/2138",
+      "pergunta": "A cor verde do sinal à minha direita indica-me que circulo:",
+      "imagem": "2138.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2138.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Num itinerário principal.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Numa auto-estrada.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Numa estrada nacional.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2139",
+      "url": "https://www.bomcondutor.pt/questao/2139",
+      "pergunta": "À distância de 300 metros vou encontrar um posto de abastecimento de combustível onde poderei abastecer o meu automóvel com GPL. A afirmação é:",
+      "imagem": "2139.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2139.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Falsa.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Verdadeira.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2140",
+      "url": "https://www.bomcondutor.pt/questao/2140",
+      "pergunta": "A distância indicada no sinal de aproximação de saída é relativa:",
+      "imagem": "2140.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2140.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ao início da próxima localidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Ao início da via de abrandamento ou de saída.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Ao próximo sinal de indicação de saída.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2141",
+      "url": "https://www.bomcondutor.pt/questao/2141",
+      "pergunta": "A paragem assinalada destina-se à imobilização de:",
+      "imagem": "2141.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2141.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis pesados.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Veículos afectos ao transporte de crianças.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Veículos que transitem sobre carris.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2142",
+      "url": "https://www.bomcondutor.pt/questao/2142",
+      "pergunta": "A partir da sinalização existente na via sei que:",
+      "imagem": "2142.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2142.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não posso inverter o sentido de marcha.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Posso inverter o sentido de marcha porque a linha descontínua permite.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2143",
+      "url": "https://www.bomcondutor.pt/questao/2143",
+      "pergunta": "A partir deste sinal sei que:",
+      "imagem": "2143.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2143.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A via em que circulo tem prioridade de passagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Existe uma via de trânsito em cada sentido.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O trânsito se passa a fazer apenas num sentido.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2144",
+      "url": "https://www.bomcondutor.pt/questao/2144",
+      "pergunta": "A partir do sinal vertical circulo numa via em que não é permitido:",
+      "imagem": "2144.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2144.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aos quadriciclos ultrapassar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Mudar de direcção à esquerda.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2145",
+      "url": "https://www.bomcondutor.pt/questao/2145",
+      "pergunta": "A que distância posso encontrar repetida esta demarcação miriamétrica da via?",
+      "imagem": "2145.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2145.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Em cada 10 quilómetros percorridos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Em cada 100 metros percorridos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Em cada quilómetro percorrido.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2146",
+      "url": "https://www.bomcondutor.pt/questao/2146",
+      "pergunta": "A que tipo de sinais correspondem estas demarcações com identificação da via em que circulo?",
+      "imagem": "2146.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2146.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sinais de confirmação.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sinais de indicação.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sinais de informação.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2147",
+      "url": "https://www.bomcondutor.pt/questao/2147",
+      "pergunta": "A sinalização complementar existente neste local, indica:",
+      "imagem": "2147.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2147.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A posição e limites de obstáculos existentes.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O desenvolvimento de um troço em curva.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O ponto de divergência de uma saída.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2148",
+      "url": "https://www.bomcondutor.pt/questao/2148",
+      "pergunta": "A sinalização de cor azul que se encontra na via de trânsito onde circulo chama-se:",
+      "imagem": "2148.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2148.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sinal de confirmação.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sinal de direcção.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sinal de pré-aviso gráfico.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2149",
+      "url": "https://www.bomcondutor.pt/questao/2149",
+      "pergunta": "A sinalização desta via indica-me a aproximação de:",
+      "imagem": "2149.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2149.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Uma passagem de nível a 150 metros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Uma passagem de nível com guarda a 300 metros.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Uma saída a 300 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2150",
+      "url": "https://www.bomcondutor.pt/questao/2150",
+      "pergunta": "A sinalização existente obriga-me a seguir em frente?",
+      "imagem": "2150.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2150.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2151",
+      "url": "https://www.bomcondutor.pt/questao/2151",
+      "pergunta": "A sinalização vertical encontrada na via informa que:",
+      "imagem": "2151.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2151.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A próxima saída da via onde circulo se encontra a 2000 metros.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "As localidades indicadas no sinal estão a uma distância de 13 Km.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "As localidades indicadas no sinal estão a uma distância de 2000 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2152",
+      "url": "https://www.bomcondutor.pt/questao/2152",
+      "pergunta": "A sinalização vertical informa-me:",
+      "imagem": "2152.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2152.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Que do lado direito existe um parque de estacionamento autorizado para todos os automóveis.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Que posso estacionar paralelamente à via, sobre o passeio.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Que, do lado direito da via existe um parque de estacionamento restritivo.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2153",
+      "url": "https://www.bomcondutor.pt/questao/2153",
+      "pergunta": "A via indicada pelo sinal passa a ser:",
+      "imagem": "2153.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2153.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Auto-estrada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Via de acesso a uma oficina de reparações para automóveis.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Via reservada a automóveis e motociclos.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2154",
+      "url": "https://www.bomcondutor.pt/questao/2154",
+      "pergunta": "Antes da saída desta auto-estrada vou encontrar outros sinais complementares?",
+      "imagem": "2154.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2154.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque este sinal se encontra a 750 metros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim vou encontrar, mas apenas a 200 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, pelo menos mais dois sinais.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2155",
+      "url": "https://www.bomcondutor.pt/questao/2155",
+      "pergunta": "Ao circular nesta via e perante este sinal, fico a saber que:",
+      "imagem": "2155.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2155.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A 500 metros, vou ter informação sobre onde se encontra um posto de abastecimento de combustível.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Se encontra a 500 metros um posto de abastecimento de combustível com GPL.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Se encontra a 500 metros um posto de abastecimento de combustível.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2156",
+      "url": "https://www.bomcondutor.pt/questao/2156",
+      "pergunta": "Ao encontrar este sinal devo:",
+      "imagem": "2156.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2156.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Adaptar a condução às características da via em que passo a circular.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Reduzir a velocidade pois vou encontrar um desvio na via.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tomar precauções especiais, pois a via não tem saída.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2157",
+      "url": "https://www.bomcondutor.pt/questao/2157",
+      "pergunta": "Ao encontrar o sinal de informação, devo:",
+      "imagem": "2157.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2157.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ceder a passagem a quaisquer veículos que saiam do local assinalado.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Evitar fazer ruídos.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Parar obrigatoriamente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2158",
+      "url": "https://www.bomcondutor.pt/questao/2158",
+      "pergunta": "Após o sinal de indicação, os veículos circulam:",
+      "imagem": "2158.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2158.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas no sentido contrário ao meu.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas no sentido em que me encontro.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Nos dois sentidos.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2159",
+      "url": "https://www.bomcondutor.pt/questao/2159",
+      "pergunta": "Após o sinal de indicação:",
+      "imagem": "2159.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2159.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Deixa de haver limite para a velocidade máxima.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Transito numa auto-estrada.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Transito numa via com acessos condicionados.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2160",
+      "url": "https://www.bomcondutor.pt/questao/2160",
+      "pergunta": "Após o sinal vertical, os limites de velocidade mínima:",
+      "imagem": "2160.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2160.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Diminuem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não existem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "São obrigatórios.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2161",
+      "url": "https://www.bomcondutor.pt/questao/2161",
+      "pergunta": "Após o sinal, o estacionamento é:",
+      "imagem": "2161.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2161.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Autorizado.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Limitado.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Proibido.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2162",
+      "url": "https://www.bomcondutor.pt/questao/2162",
+      "pergunta": "Até à próxima saída desta auto-estrada irei encontrar mais dois sinais complementares, nomeadamente a 500 e a 750 metros da saída. Concorda com esta afirmação?",
+      "imagem": "2162.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2162.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2163",
+      "url": "https://www.bomcondutor.pt/questao/2163",
+      "pergunta": "Até à próxima saída desta auto-estrada irei encontrar outros sinais complementares de aproximação de saída?",
+      "imagem": "2163.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2163.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque este já está a 750 metros da saída.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mais dois.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, mais um.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2164",
+      "url": "https://www.bomcondutor.pt/questao/2164",
+      "pergunta": "De acordo com o sinal vertical, o que vou encontrar à distância de 500 metros?",
+      "imagem": "2164.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2164.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Obras ou obstáculos na via.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Um posto de abastecimento de combustível.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma saída da auto-estrada.",
+          "correta": true
+        },
+        {
+          "letra": "D",
+          "texto": "Uma via de saída para a área de serviço.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2165",
+      "url": "https://www.bomcondutor.pt/questao/2165",
+      "pergunta": "Devo saber que os dois sinais verticais de fundo azul existentes na via, são:",
+      "imagem": "2165.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2165.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "De confirmação e direcção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "De informação.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "De pré-sinalização e confirmação.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2166",
+      "url": "https://www.bomcondutor.pt/questao/2166",
+      "pergunta": "Este sinal complementar está colocado numa via reservada a automóveis e motociclos a 500 metros de uma saída.",
+      "imagem": "2166.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2166.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2167",
+      "url": "https://www.bomcondutor.pt/questao/2167",
+      "pergunta": "Este sinal dá indicação aos condutores de:",
+      "imagem": "2167.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2167.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aproximação de saída a 150 metros.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Fim de todas as proibições a 150 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Túnel a 150 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2168",
+      "url": "https://www.bomcondutor.pt/questao/2168",
+      "pergunta": "Este sinal de informação indica-me:",
+      "imagem": "2168.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2168.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fim de auto-estrada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Fim de localidade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Fim de via reservada a automóveis e motociclos.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2169",
+      "url": "https://www.bomcondutor.pt/questao/2169",
+      "pergunta": "Este sinal é de:",
+      "imagem": "2169.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2169.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Indicação.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Perigo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pré-sinalização.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2170",
+      "url": "https://www.bomcondutor.pt/questao/2170",
+      "pergunta": "Este sinal é de:",
+      "imagem": "2170.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2170.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Indicação.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Proibição.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Regulamentação.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2171",
+      "url": "https://www.bomcondutor.pt/questao/2171",
+      "pergunta": "Este sinal indica que a 300 metros existe:",
+      "imagem": "2171.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2171.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Um telefone de utilização pública.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Um telefone para utilização em caso de emergência.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Uma área de serviço.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2172",
+      "url": "https://www.bomcondutor.pt/questao/2172",
+      "pergunta": "Este sinal indica que à distância de 1000 metros só posso seguir:",
+      "imagem": "2172.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2172.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Em frente ou para a direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Em frente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Para a direita.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2173",
+      "url": "https://www.bomcondutor.pt/questao/2173",
+      "pergunta": "Este sinal indica-me a proximidade de um local:",
+      "imagem": "2173.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2173.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Para estacionar o veículo em caso de situações atmosféricas adversas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Para estacionar o veículo se quiser descansar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Para imobilizar o veículo em caso de falha do sistema de travagem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2174",
+      "url": "https://www.bomcondutor.pt/questao/2174",
+      "pergunta": "Este sinal indica-me que vou:",
+      "imagem": "2174.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2174.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Entrar numa auto-estrada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sair de uma auto-estrada.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sair de uma via reservada a automóveis e motociclos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2175",
+      "url": "https://www.bomcondutor.pt/questao/2175",
+      "pergunta": "Este sinal indica-me:",
+      "imagem": "2175.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2175.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Auto-estrada.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Fim de auto-estrada.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Via reservada a automóveis e motociclos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2176",
+      "url": "https://www.bomcondutor.pt/questao/2176",
+      "pergunta": "Este sinal indica:",
+      "imagem": "2176.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2176.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A aproximação da passagem assinalada para a travessia de peões.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A aproximação de um local frequentado por peões.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O local exacto da passagem de peões.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2177",
+      "url": "https://www.bomcondutor.pt/questao/2177",
+      "pergunta": "Este sinal indica:",
+      "imagem": "2177.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2177.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionamento autorizado.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionamento para táxis.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Parque de campismo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2178",
+      "url": "https://www.bomcondutor.pt/questao/2178",
+      "pergunta": "Este sinal obriga os condutores a seguir em direcção ao estádio?",
+      "imagem": "2178.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2178.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque o sinal obriga a seguir em direcção à auto-estrada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque estou perante um sinal de regulamentação.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2179",
+      "url": "https://www.bomcondutor.pt/questao/2179",
+      "pergunta": "Este sinal vertical indica:",
+      "imagem": "2179.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2179.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Trânsito de sentido obrigatório.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Via com trânsito de sentido único.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Via onde só é possível formar uma fila de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2180",
+      "url": "https://www.bomcondutor.pt/questao/2180",
+      "pergunta": "Estou perante um sinal de indicação.",
+      "imagem": "2180.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2180.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2181",
+      "url": "https://www.bomcondutor.pt/questao/2181",
+      "pergunta": "Nesta situação posso efectuar a inversão de sentido de marcha?",
+      "imagem": "2181.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2181.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, pois a sinalização existente não mo permite.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mudando à direita na próxima intersecção.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, no exacto local onde me encontro.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2182",
+      "url": "https://www.bomcondutor.pt/questao/2182",
+      "pergunta": "Nesta via de trânsito e perante a sinalização vertical:",
+      "imagem": "2182.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2182.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estou obrigado a circular a mais de 50 Km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Estou obrigado a circular a uma velocidade máxima de 50 Km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sou aconselhado a circular a uma velocidade máxima de 50 Km/h.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2183",
+      "url": "https://www.bomcondutor.pt/questao/2183",
+      "pergunta": "Neste local devo:",
+      "imagem": "2183.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2183.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aguardar pela abertura da cancela da ponte móvel.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Inverter o sentido de marcha, pois a ponte termina num precipício.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Inverter o sentido de marcha, porque a via não tem saída.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2184",
+      "url": "https://www.bomcondutor.pt/questao/2184",
+      "pergunta": "No preciso local em que me encontro circulo:",
+      "imagem": "2184.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2184.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ainda numa localidade.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Fora de uma localidade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Numa via reservada a automóveis e motociclos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2185",
+      "url": "https://www.bomcondutor.pt/questao/2185",
+      "pergunta": "O equipamento identificador é atribuído:",
+      "imagem": "2185.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2185.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A um determinado veículo, independentemente do condutor.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ao condutor ou ao veículo, consoante a opção pretendida.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ao condutor, independentemente do veículo que conduz.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2186",
+      "url": "https://www.bomcondutor.pt/questao/2186",
+      "pergunta": "O espaço que separa os dois sinais de indicação, do lado direito da via, serve para parar ou estacionar:",
+      "imagem": "2186.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2186.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Qualquer veículo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Somente o veículo do deficiente residente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Veículos adaptados a deficientes.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2187",
+      "url": "https://www.bomcondutor.pt/questao/2187",
+      "pergunta": "O primeiro sinal, de fundo verde, colocado à minha esquerda é de:",
+      "imagem": "2187.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2187.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Informação.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Obrigação.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Selecção de vias.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2188",
+      "url": "https://www.bomcondutor.pt/questao/2188",
+      "pergunta": "O que devo fazer nesta situação?",
+      "imagem": "2188.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2188.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Mudar de direcção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Seguir em frente, se tencionar passar na portagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Seguir obrigatoriamente na direcção do estádio.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2189",
+      "url": "https://www.bomcondutor.pt/questao/2189",
+      "pergunta": "O que devo fazer neste local?",
+      "imagem": "2189.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2189.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Moderar a velocidade.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Parar obrigatoriamente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar os sinais sonoros ou luminosos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2190",
+      "url": "https://www.bomcondutor.pt/questao/2190",
+      "pergunta": "O que me indica o sinal vertical?",
+      "imagem": "2190.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2190.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O número de faixas de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O número de pistas especiais.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O número e sentido das vias de trânsito.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2191",
+      "url": "https://www.bomcondutor.pt/questao/2191",
+      "pergunta": "O que me indica o sinal vertical?",
+      "imagem": "2191.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2191.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A existência de bermas em ambos os sentidos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "As diferentes direcções das faixas de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O número e sentido das vias de trânsito.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2192",
+      "url": "https://www.bomcondutor.pt/questao/2192",
+      "pergunta": "O que se verifica após a passagem pelo sinal vertical?",
+      "imagem": "2192.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2192.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Deixa de ser obrigatória a distância de segurança máxima de 60m face ao veículo da frente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Deixa de ser obrigatória a velocidade mínima de 60 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Deixa de ser recomendada a distância de segurança mínima de 60m face ao veículo da frente.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Deixa de ser recomendada a velocidade máxima de 60 km/h.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "D"
+    },
+    {
+      "numero": "2193",
+      "url": "https://www.bomcondutor.pt/questao/2193",
+      "pergunta": "O que significa o sinal vertical?",
+      "imagem": "2193.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2193.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Que o trânsito nos dois sentidos passa a fazer-se apenas numa só via.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Que vou encontrar uma curva e contracurva à direita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Supressão de via de trânsito.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2194",
+      "url": "https://www.bomcondutor.pt/questao/2194",
+      "pergunta": "O que significa o sinal vertical?",
+      "imagem": "2194.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2194.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alargamento da via de trânsito mais à direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Escapatória.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Via obstruída.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2195",
+      "url": "https://www.bomcondutor.pt/questao/2195",
+      "pergunta": "O que significa o sinal vertical?",
+      "imagem": "2195.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2195.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fim da obrigação de circular a 50 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Fim da velocidade recomendada de 50 km/h.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Obrigação de circular a 50 km/h.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2196",
+      "url": "https://www.bomcondutor.pt/questao/2196",
+      "pergunta": "O que significa o sinal vertical?",
+      "imagem": "2196.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2196.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Auto-estrada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Via reservada a automóveis e motociclos.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Via reservada apenas a automóveis ligeiros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2197",
+      "url": "https://www.bomcondutor.pt/questao/2197",
+      "pergunta": "O que significa o sinal vertical?",
+      "imagem": "2197.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2197.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Passagem aérea destinada ao trânsito de peões.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Passagem desnivelada para peões.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Passagem em rampa para peões.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Passagem para peões.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2198",
+      "url": "https://www.bomcondutor.pt/questao/2198",
+      "pergunta": "O que significa o sinal vertical?",
+      "imagem": "2198.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2198.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fim da obrigação de usar correntes de neve.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Fim da recomendação de usar correntes de neve.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Obrigação de retirar as correntes de neve.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2199",
+      "url": "https://www.bomcondutor.pt/questao/2199",
+      "pergunta": "O segundo sinal de indicação, informa que terminou:",
+      "imagem": "2199.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2199.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A obrigação de transitarem veículos com dístico de deficientes.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A proibição de pararem veículos com dístico de deficiente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O local de estacionamento para veículos com dístico de deficiente.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2200",
+      "url": "https://www.bomcondutor.pt/questao/2200",
+      "pergunta": "O sinal colocado mais à direita é de:",
+      "imagem": "2200.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2200.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Indicação.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Obrigação.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Perigo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2201",
+      "url": "https://www.bomcondutor.pt/questao/2201",
+      "pergunta": "O sinal complementar indica-me a aproximação de uma saída em auto-estrada.",
+      "imagem": "2201.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2201.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2202",
+      "url": "https://www.bomcondutor.pt/questao/2202",
+      "pergunta": "O sinal de fundo amarelo é utilizado em situações em que a sinalização tem um carácter:",
+      "imagem": "2202.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2202.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Definitivo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Temporário.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2203",
+      "url": "https://www.bomcondutor.pt/questao/2203",
+      "pergunta": "O sinal de fundo azul indica-me:",
+      "imagem": "2203.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2203.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Que a via passa de um para dois sentidos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Trânsito de sentido único.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Via pública sem saída.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2204",
+      "url": "https://www.bomcondutor.pt/questao/2204",
+      "pergunta": "O sinal de fundo azul obriga-me a inverter o sentido de marcha?",
+      "imagem": "2204.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2204.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque se trata de um sinal de informação.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque se trata de um sinal de informação.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque se trata de um sinal de obrigação.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2205",
+      "url": "https://www.bomcondutor.pt/questao/2205",
+      "pergunta": "O sinal de fundo azul, indica-me a existência de:",
+      "imagem": "2205.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2205.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Um local onde devo ceder a passagem aos veículos que saiam de um posto de abastecimento.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Um posto de abastecimento de combustível com GPL.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Um posto de abastecimento de combustível sem GPL.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2206",
+      "url": "https://www.bomcondutor.pt/questao/2206",
+      "pergunta": "O sinal de fundo branco indica aproximação de uma saída a 150 metros. Concorda com esta afirmação?",
+      "imagem": "2206.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2206.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, a próxima saída nesta auto-estrada é a 150 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2207",
+      "url": "https://www.bomcondutor.pt/questao/2207",
+      "pergunta": "O sinal de indicação destina-se:",
+      "imagem": "2207.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2207.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "À paragem de veículos afectos ao transporte de crianças.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "À paragem de veículos de transporte colectivo de passageiros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ao estacionamento de veículos que transportam crianças.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2208",
+      "url": "https://www.bomcondutor.pt/questao/2208",
+      "pergunta": "O sinal de indicação está colocado no local exacto da escapatória?",
+      "imagem": "2208.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2208.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2209",
+      "url": "https://www.bomcondutor.pt/questao/2209",
+      "pergunta": "O sinal de indicação, deverá estar colocado:",
+      "imagem": "2209.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2209.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "No início da auto-estrada e duma via reservada a automóveis e motociclos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "No início de uma via reservada a automóveis e motociclos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Nos locais em que os condutores iniciam a circulação em auto-estrada.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2210",
+      "url": "https://www.bomcondutor.pt/questao/2210",
+      "pergunta": "O sinal de indicação, mais próximo, indica:",
+      "imagem": "2210.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2210.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Um local para estacionamento de veículos com o dístico de deficiente.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Um parque interdito a veículos com dístico de deficiente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Um parque para cadeiras de rodas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2211",
+      "url": "https://www.bomcondutor.pt/questao/2211",
+      "pergunta": "O sinal de indicação, mais próximo, informa que:",
+      "imagem": "2211.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2211.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A via é destinada ao trânsito de veículos com o dístico de deficiente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A via é proibida a veículos com o dístico de deficiente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "É permitido o estacionamento de veículos com o dístico de deficiente.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2212",
+      "url": "https://www.bomcondutor.pt/questao/2212",
+      "pergunta": "O sinal de informação dá indicação aos condutores de:",
+      "imagem": "2212.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2212.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fim de auto estrada.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Fim de todas as proibições anteriormente impostas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Fim de via reservada a automóveis e motociclos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2213",
+      "url": "https://www.bomcondutor.pt/questao/2213",
+      "pergunta": "O sinal de informação indica-me:",
+      "imagem": "2213.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2213.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A velocidade máxima autorizada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A velocidade máxima recomendada.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "A velocidade mínima autorizada.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "O fim de limitação de velocidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2214",
+      "url": "https://www.bomcondutor.pt/questao/2214",
+      "pergunta": "O sinal de informação indica-me:",
+      "imagem": "2214.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2214.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fim de auto-estrada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Fim de via reservada a automóveis e motociclos.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Trânsito proibido a automóveis.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2215",
+      "url": "https://www.bomcondutor.pt/questao/2215",
+      "pergunta": "O sinal de informação indica-me:",
+      "imagem": "2215.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2215.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A velocidade mínima a que sou obrigado a circular.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A velocidade recomendada.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Curva à direita e contracurva numa extensão de 600 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2216",
+      "url": "https://www.bomcondutor.pt/questao/2216",
+      "pergunta": "O sinal de informação indica:",
+      "imagem": "2216.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2216.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fim de auto-estrada a 750 metros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Fim de corredor de transportes públicos a 750 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Fim de via reservada a automóveis e motociclos a 750 metros.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2217",
+      "url": "https://www.bomcondutor.pt/questao/2217",
+      "pergunta": "O sinal de informação indica:",
+      "imagem": "2217.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2217.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Caminho obrigatório para peões.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Passagem para peões.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Travessia de peões.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2218",
+      "url": "https://www.bomcondutor.pt/questao/2218",
+      "pergunta": "O sinal de informação indica:",
+      "imagem": "2218.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2218.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Uma passagem para peões.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Uma pista obrigatória para peões.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma via em que é proibido o trânsito de peões.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2219",
+      "url": "https://www.bomcondutor.pt/questao/2219",
+      "pergunta": "O sinal de informação indica:",
+      "imagem": "2219.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2219.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Entreposto comercial de campismo e reboques de campismo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Oficina de reparações de caravanas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Parque misto para campismo e reboques de campismo.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2220",
+      "url": "https://www.bomcondutor.pt/questao/2220",
+      "pergunta": "O sinal de informação significa:",
+      "imagem": "2220.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2220.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionamento autorizado.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Paragem proibida.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Praça de táxis.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Proibição de estacionar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2221",
+      "url": "https://www.bomcondutor.pt/questao/2221",
+      "pergunta": "O sinal de informação, indica-me que vai terminar a via reservada a:",
+      "imagem": "2221.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2221.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis e motociclos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Táxis.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Veículos de transporte público.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2222",
+      "url": "https://www.bomcondutor.pt/questao/2222",
+      "pergunta": "O sinal de paragem de transporte colectivo, deverá estar colocado:",
+      "imagem": "2222.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2222.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A 15 metros do local de paragem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A 3 metros do local de paragem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "No local exacto do local de paragem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2223",
+      "url": "https://www.bomcondutor.pt/questao/2223",
+      "pergunta": "O sinal de pré-sinalização indica que:",
+      "imagem": "2223.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2223.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "À distância de 1500 metros há uma saída para as localidades identificadas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "À distância de 1500 metros têm inicio as localidades identificadas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "É proibido ultrapassar numa distância de 1500 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2224",
+      "url": "https://www.bomcondutor.pt/questao/2224",
+      "pergunta": "O sinal existente na via de trânsito é de:",
+      "imagem": "2224.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2224.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Confirmação.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Direcção.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pré-sinalização.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2225",
+      "url": "https://www.bomcondutor.pt/questao/2225",
+      "pergunta": "O sinal existente nesta via de trânsito indica-me a localização de:",
+      "imagem": "2225.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2225.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Uma passagem para peões.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Uma pista obrigatória para peões à minha direita.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2226",
+      "url": "https://www.bomcondutor.pt/questao/2226",
+      "pergunta": "O sinal indica a demarcação miriamétrica, de:",
+      "imagem": "2226.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2226.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Um itinerário complementar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Um itinerário principal.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma auto-estrada.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2227",
+      "url": "https://www.bomcondutor.pt/questao/2227",
+      "pergunta": "O sinal indica a entrada:",
+      "imagem": "2227.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2227.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Num itinerário complementar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Numa via onde vigoram regras especiais, como por exemplo a separação física de faixas de rodagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Numa via reservada a automóveis.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2228",
+      "url": "https://www.bomcondutor.pt/questao/2228",
+      "pergunta": "O sinal indica que é permitido:",
+      "imagem": "2228.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2228.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionar em cima do passeio.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionar em segunda fila.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Estacionar.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2229",
+      "url": "https://www.bomcondutor.pt/questao/2229",
+      "pergunta": "O sinal indica uma zona destinada à imobilização em caso de falha de travões. Esta escapatória deve estar:",
+      "imagem": "2229.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2229.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fora da faixa de rodagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Na faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Na via de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2230",
+      "url": "https://www.bomcondutor.pt/questao/2230",
+      "pergunta": "O sinal indica-me a existência:",
+      "imagem": "2230.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2230.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "De um cais ou precipício a seguir à ponte.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "De um teleférico a seguir à ponte.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "De uma ponte móvel.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2231",
+      "url": "https://www.bomcondutor.pt/questao/2231",
+      "pergunta": "O sinal indica-me que 200 metros à frente vou encontrar:",
+      "imagem": "2231.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2231.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Um local adequado para inverter o sentido de marcha.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Um local adequado para virar à esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma via de aceleração à esquerda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2232",
+      "url": "https://www.bomcondutor.pt/questao/2232",
+      "pergunta": "O sinal indica-me que:",
+      "imagem": "2232.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2232.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A estrada não tem saída.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Terminou a auto-estrada.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Vou entrar numa auto-estrada",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2233",
+      "url": "https://www.bomcondutor.pt/questao/2233",
+      "pergunta": "O sinal indica-me:",
+      "imagem": "2233.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2233.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O local onde posso inverter o sentido de marcha.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Que não posso inverter o sentido de marcha.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Que sou obrigado a inverter o sentido de marcha.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2234",
+      "url": "https://www.bomcondutor.pt/questao/2234",
+      "pergunta": "O sinal indica-me:",
+      "imagem": "2234.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2234.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Cais ou precipício.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Ponte móvel.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Subida de inclinação acentuada.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2235",
+      "url": "https://www.bomcondutor.pt/questao/2235",
+      "pergunta": "O sinal indica:",
+      "imagem": "2235.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2235.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Paragem de transportes colectivos de passageiros que transitam sobre carris.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Paragem de veículos afectos ao transporte de crianças.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Paragem de veículos de transporte colectivo de passageiros.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2236",
+      "url": "https://www.bomcondutor.pt/questao/2236",
+      "pergunta": "O sinal indica:",
+      "imagem": "2236.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2236.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O fim de uma via com acessos condicionados.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O início de uma auto-estrada.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma via reservada a automóveis e motociclos.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2237",
+      "url": "https://www.bomcondutor.pt/questao/2237",
+      "pergunta": "O sinal indica:",
+      "imagem": "2237.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2237.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A distância a que me encontro da próxima saída.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A distância em km, para a primeira saída da auto-estrada.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A distância para o fim da auto-estrada.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2238",
+      "url": "https://www.bomcondutor.pt/questao/2238",
+      "pergunta": "O sinal indica:",
+      "imagem": "2238.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2238.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionamento autorizado.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionamento proibido.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Paragem e estacionamento não autorizado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2239",
+      "url": "https://www.bomcondutor.pt/questao/2239",
+      "pergunta": "O sinal indica:",
+      "imagem": "2239.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2239.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionamento autorizado.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Paragem de transportes públicos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Paragem de veículos afectos ao transporte de crianças.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2240",
+      "url": "https://www.bomcondutor.pt/questao/2240",
+      "pergunta": "O sinal indica:",
+      "imagem": "2240.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2240.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A aproximação de uma área de serviço.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A aproximação de via de saída para a área de serviço.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Aproximação de uma saída.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2241",
+      "url": "https://www.bomcondutor.pt/questao/2241",
+      "pergunta": "O sinal indica:",
+      "imagem": "2241.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2241.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A existência de um túnel.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A existência de uma passagem inferior.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O fim de um túnel.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2242",
+      "url": "https://www.bomcondutor.pt/questao/2242",
+      "pergunta": "O sinal informa-me da existência de uma via destinada apenas ao trânsito:",
+      "imagem": "2242.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2242.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "De automóveis e motociclos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "De automóveis ligeiros de passageiros e mistos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "De transporte público.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2243",
+      "url": "https://www.bomcondutor.pt/questao/2243",
+      "pergunta": "O sinal quadrangular é de:",
+      "imagem": "2243.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2243.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Informação.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Obrigação.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Perigo.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Proibição.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2244",
+      "url": "https://www.bomcondutor.pt/questao/2244",
+      "pergunta": "O sinal rectangular é de:",
+      "imagem": "2244.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2244.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Informação.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Pré-sinalização.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Zona.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2245",
+      "url": "https://www.bomcondutor.pt/questao/2245",
+      "pergunta": "O sinal representa a existência:",
+      "imagem": "2245.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2245.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "De um estreitamento da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "De um local onde devo ligar as luzes de estrada.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "De um túnel.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2246",
+      "url": "https://www.bomcondutor.pt/questao/2246",
+      "pergunta": "O sinal representa:",
+      "imagem": "2246.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2246.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Um local onde se deve inverter o sentido de marcha.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Um precipício.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma escapatória.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2247",
+      "url": "https://www.bomcondutor.pt/questao/2247",
+      "pergunta": "O sinal turístico-cultural indica-me:",
+      "imagem": "2247.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2247.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A entrada numa região.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Património cultural.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Património natural.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2248",
+      "url": "https://www.bomcondutor.pt/questao/2248",
+      "pergunta": "O sinal turístico-cultural indica-me:",
+      "imagem": "2248.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2248.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Património natural.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ponto de entrada ou início de uma rota turística.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Zona de pesca desportiva.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2249",
+      "url": "https://www.bomcondutor.pt/questao/2249",
+      "pergunta": "O sinal vertical de fundo azul dá indicação aos condutores que vão passar a circular na auto-estrada A25.",
+      "imagem": "2249.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2249.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2250",
+      "url": "https://www.bomcondutor.pt/questao/2250",
+      "pergunta": "O sinal vertical de fundo azul indica-me:",
+      "imagem": "2250.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2250.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A proximidade de uma curva à direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Os destinos da próxima saída.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Que a localidade mais próxima é Pero Negro.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2251",
+      "url": "https://www.bomcondutor.pt/questao/2251",
+      "pergunta": "O sinal vertical de fundo azul indica-me:",
+      "imagem": "2251.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2251.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A existência de uma descida perigosa para peões.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A localização de uma passagem desnivelada para peões.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Que no fim da próxima descida se podem encontrar peões a atravessar a via.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2252",
+      "url": "https://www.bomcondutor.pt/questao/2252",
+      "pergunta": "O sinal vertical indica a existência de:",
+      "imagem": "2252.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2252.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Dois sentidos de trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Duas faixas de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Duas vias de trânsito no mesmo sentido.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2253",
+      "url": "https://www.bomcondutor.pt/questao/2253",
+      "pergunta": "O sinal vertical indica aos condutores:",
+      "imagem": "2253.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2253.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionamento autorizado.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Passagem desnivelada para peões.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Pista especial para peões e velocípedes.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2254",
+      "url": "https://www.bomcondutor.pt/questao/2254",
+      "pergunta": "O sinal vertical indica-me fim de velocidade:",
+      "imagem": "2254.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2254.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Obrigatória.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Permitida.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Proibida.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Recomendada.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "D"
+    },
+    {
+      "numero": "2255",
+      "url": "https://www.bomcondutor.pt/questao/2255",
+      "pergunta": "O sinal vertical indica-me o número e sentido das faixas de rodagem.",
+      "imagem": "2255.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2255.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2256",
+      "url": "https://www.bomcondutor.pt/questao/2256",
+      "pergunta": "O sinal vertical indica-me que a 250 metros existe:",
+      "imagem": "2256.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2256.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Uma entrada para a via reservada a automóveis e motociclos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Uma estação de serviço.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma saída da auto-estrada em que circulo.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2257",
+      "url": "https://www.bomcondutor.pt/questao/2257",
+      "pergunta": "O sinal vertical indica-me que à distância de 300 metros vou encontrar:",
+      "imagem": "2257.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2257.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Um posto de abastecimento de combustível com GPL.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Um posto de abastecimento de combustível.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Uma oficina com bomba de combustível.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2258",
+      "url": "https://www.bomcondutor.pt/questao/2258",
+      "pergunta": "O sinal vertical indica-me que deixa de ser obrigatória a utilização de correntes de neve nas rodas motoras.",
+      "imagem": "2258.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2258.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2259",
+      "url": "https://www.bomcondutor.pt/questao/2259",
+      "pergunta": "O sinal vertical indica-me:",
+      "imagem": "2259.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2259.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Passagem desnivelada e passagem para peões.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Passagem desnivelada para peões.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Passagem para peões.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2260",
+      "url": "https://www.bomcondutor.pt/questao/2260",
+      "pergunta": "O sinal vertical indica-me:",
+      "imagem": "2260.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2260.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A existência de uma rampa que permite a travessia de peões em cadeira de rodas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Uma passagem desnivelada para peões.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Uma passagem superior para peões.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2261",
+      "url": "https://www.bomcondutor.pt/questao/2261",
+      "pergunta": "O sinal vertical indica:",
+      "imagem": "2261.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2261.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sentido obrigatório.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Via com trânsito de sentido único.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Via onde só é possível formar uma fila de trânsito em cada sentido.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2262",
+      "url": "https://www.bomcondutor.pt/questao/2262",
+      "pergunta": "O sinal vertical indica:",
+      "imagem": "2262.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2262.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Obrigação de seguir em frente na próxima intersecção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Via com trânsito de sentido único.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Via com uma só fila de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2263",
+      "url": "https://www.bomcondutor.pt/questao/2263",
+      "pergunta": "O sinal vertical informa-me que vou encontrar um local onde posso inverter o sentido de marcha.",
+      "imagem": "2263.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2263.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2264",
+      "url": "https://www.bomcondutor.pt/questao/2264",
+      "pergunta": "O sinal vertical recomenda:",
+      "imagem": "2264.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2264.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A circulação a velocidade moderada para não danificar os pneus.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O uso de correntes de neve.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O uso de pneus especiais para a circulação no gelo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2265",
+      "url": "https://www.bomcondutor.pt/questao/2265",
+      "pergunta": "O telefone disponível nesta via deve ser utilizado:",
+      "imagem": "2265.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2265.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Em caso de acidente ou avaria.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Em qualquer situação.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Quando existe congestionamento de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2266",
+      "url": "https://www.bomcondutor.pt/questao/2266",
+      "pergunta": "Os sinais colocados neste local têm a designação de:",
+      "imagem": "2266.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2266.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Baias direccionais.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Setas de desvio.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Setas de direcção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2267",
+      "url": "https://www.bomcondutor.pt/questao/2267",
+      "pergunta": "Os sinais de pré-aviso gráfico devem conter os destinos referentes a cada uma das direcções bem como a identificação das estradas que lhe estão associadas. Concorda com a afirmação?",
+      "imagem": "2267.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2267.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2268",
+      "url": "https://www.bomcondutor.pt/questao/2268",
+      "pergunta": "Para circular nesta via de trânsito devo:",
+      "imagem": "2268.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2268.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ser portador de equipamento identificador ou pagar com cartão multibanco.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Ser portador de equipamento identificador.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Transitar a velocidade inferior a 40 km/h.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2269",
+      "url": "https://www.bomcondutor.pt/questao/2269",
+      "pergunta": "Perante a sinalização que se encontra na via fico a saber qual a distância até à passagem de nível?",
+      "imagem": "2269.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2269.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2270",
+      "url": "https://www.bomcondutor.pt/questao/2270",
+      "pergunta": "Perante a sinalização vertical sou informado que a 250 metros vou encontrar:",
+      "imagem": "2270.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2270.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Um atalho.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Uma escapatória.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Uma subida perigosa à direita.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2271",
+      "url": "https://www.bomcondutor.pt/questao/2271",
+      "pergunta": "Perante este sinal devo saber:",
+      "imagem": "2271.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2271.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Que a via pública à minha frente não tem saída.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Que não tenho prioridade no próximo entroncamento.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Que tenho prioridade no próximo entroncamento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2272",
+      "url": "https://www.bomcondutor.pt/questao/2272",
+      "pergunta": "Perante este sinal fico a saber que a faixa de rodagem em que circulo tem:",
+      "imagem": "2272.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2272.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Dois sentidos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Quatro sentidos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma via de trânsito em cada sentido.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2273",
+      "url": "https://www.bomcondutor.pt/questao/2273",
+      "pergunta": "Perante este sinal fico a saber que circulo:",
+      "imagem": "2273.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2273.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Na auto-estrada A25.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Na estrada nacional E80.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Num itinerário principal.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2274",
+      "url": "https://www.bomcondutor.pt/questao/2274",
+      "pergunta": "Perante este sinal fico obrigado a seguir em direcção a Lisboa?",
+      "imagem": "2274.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2274.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque fico obrigado a seguir em direcção a Coimbra.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, essa é a função do sinal.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2275",
+      "url": "https://www.bomcondutor.pt/questao/2275",
+      "pergunta": "Perante este sinal não podem transitar:",
+      "imagem": "2275.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2275.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis de mercadorias.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Automóveis ligeiros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Quadriciclos.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2276",
+      "url": "https://www.bomcondutor.pt/questao/2276",
+      "pergunta": "Perante este sinal vertical de fundo azul fico a saber que:",
+      "imagem": "2276.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2276.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Terminou a auto-estrada.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Vou entrar numa auto-estrada.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2277",
+      "url": "https://www.bomcondutor.pt/questao/2277",
+      "pergunta": "Perante este sinal vertical sou aconselhado a usar correntes de neve. Concorda com esta afirmação?",
+      "imagem": "2277.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2277.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, excepto nas rodas motoras.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2278",
+      "url": "https://www.bomcondutor.pt/questao/2278",
+      "pergunta": "Perante este sinal, devo adoptar algumas precauções?",
+      "imagem": "2278.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2278.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, o sinal informa a proximidade de um hotel.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, o sinal informa a proximidade de uma via reservada.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, devo evitar fazer ruído.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2279",
+      "url": "https://www.bomcondutor.pt/questao/2279",
+      "pergunta": "Perante este sinal, sei que circulo:",
+      "imagem": "2279.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2279.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Num IC.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Num IP.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Numa auto-estrada.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2280",
+      "url": "https://www.bomcondutor.pt/questao/2280",
+      "pergunta": "Perante este sinal, um condutor deve saber que:",
+      "imagem": "2280.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2280.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A 300 metros situa-se um posto de abastecimento de combustível com GPL.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A próxima saída desta via situa-se a menos de 300 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tem prioridade de passagem sobre os veículos que transitem em serviço urgente e que saiam do posto de abastecimento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2281",
+      "url": "https://www.bomcondutor.pt/questao/2281",
+      "pergunta": "Perante o local indicado pelo sinal, não posso estacionar a menos de:",
+      "imagem": "2281.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2281.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "25 metros antes da paragem",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "30 metros",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "5 metros para a frente e 25 metros para trás .",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2282",
+      "url": "https://www.bomcondutor.pt/questao/2282",
+      "pergunta": "Perante o sinal complementar do lado direito da via fico a saber que:",
+      "imagem": "2282.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2282.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A via em que circulo termina a 150 metros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Estou a 150 metros da próxima localidade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Estou a 150 metros da próxima saída.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2283",
+      "url": "https://www.bomcondutor.pt/questao/2283",
+      "pergunta": "Perante o sinal de cor verde à minha direita, fico a saber que:",
+      "imagem": "2283.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2283.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A próxima saída se situa a uma distância de 300 metros.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A próxima saída se situa a uma distância de 900 metros, uma vez que cada barra inclinada corresponde a uma distância de 300 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Me aproximo de um troço em que as duas vias de trânsito se encontram em obras na extensão indicada pelo sinal.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2284",
+      "url": "https://www.bomcondutor.pt/questao/2284",
+      "pergunta": "Perante o sinal de fundo amarelo fico a saber que:",
+      "imagem": "2284.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2284.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A circulação de veículos passa de três para duas vias de trânsito no mesmo sentido.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A via de trânsito onde circulo está temporariamente sem berma a 1300 metros.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Se verifica supressão de uma via de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2285",
+      "url": "https://www.bomcondutor.pt/questao/2285",
+      "pergunta": "Perante o sinal de fundo azul, fico a saber que:",
+      "imagem": "2285.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2285.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Há duas vias de trânsito no sentido em que circulo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Há duas vias de trânsito no sentido oposto àquele em que circulo.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2286",
+      "url": "https://www.bomcondutor.pt/questao/2286",
+      "pergunta": "Perante o sinal de indicação devo:",
+      "imagem": "2286.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2286.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ligar as luzes de cruzamento.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ligar as luzes de perigo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ligar o indicador de mudança de direcção para entrar no túnel.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2287",
+      "url": "https://www.bomcondutor.pt/questao/2287",
+      "pergunta": "Perante o sinal de indicação:",
+      "imagem": "2287.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2287.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A auto-estrada termina a 750m.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Devo mudar de via de trânsito, se a minha intenção for continuar em frente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Estou a 750m da próxima saída da auto-estrada.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2288",
+      "url": "https://www.bomcondutor.pt/questao/2288",
+      "pergunta": "Perante o sinal de informação que se encontra nesta via pública, devo saber que:",
+      "imagem": "2288.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2288.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não posso exceder a velocidade indicada no sinal.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sou aconselhado a transitar à velocidade máxima de 50 Km/h.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sou aconselhado a transitar à velocidade mínima de 50 Km/h.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2289",
+      "url": "https://www.bomcondutor.pt/questao/2289",
+      "pergunta": "Perante o sinal devo:",
+      "imagem": "2289.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2289.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Parar obrigatoriamente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Reduzir a velocidade porque pode surgir uma criança.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar os sinais sonoros de forma intermitente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2290",
+      "url": "https://www.bomcondutor.pt/questao/2290",
+      "pergunta": "Perante o sinal existente na via de trânsito, fico a saber:",
+      "imagem": "2290.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2290.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A distância até à saída mais próxima.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A distância até às localidades descritas no sinal.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Que faltam 2000 metros para entrar em Sobral de Monte Agraço.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Que faltam 2000 metros para terminar a via.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2291",
+      "url": "https://www.bomcondutor.pt/questao/2291",
+      "pergunta": "Perante o sinal sei que posso encontrar crianças a circular:",
+      "imagem": "2291.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2291.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Após ter percorrido 100 metros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Numa extensão de 100 metros.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Nunca a menos de 100 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2292",
+      "url": "https://www.bomcondutor.pt/questao/2292",
+      "pergunta": "Perante o sinal sou informado do local adequado:",
+      "imagem": "2292.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2292.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Para fazer a manobra de marcha-atrás.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Para fazer inversão de sentido de marcha.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Para fazer uma mudança de direcção para a esquerda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2293",
+      "url": "https://www.bomcondutor.pt/questao/2293",
+      "pergunta": "Perante o sinal vertical:",
+      "imagem": "2293.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2293.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estou proibido de parar a uma distância de 30 km.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Fico obrigado a parar na próxima área de serviço.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sou informado da distância a que me encontro da próxima área de serviço.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2294",
+      "url": "https://www.bomcondutor.pt/questao/2294",
+      "pergunta": "Posso circular nesta via pública a uma velocidade de 50 Km/h?",
+      "imagem": "2294.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2294.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, estou proibido de exceder a velocidade máxima de 50 Km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, o sinal obriga-me a circular a uma velocidade superior a 50 Km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, é esta a velocidade máxima recomendada.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2295",
+      "url": "https://www.bomcondutor.pt/questao/2295",
+      "pergunta": "Posso encontrar este sinal, num itinerário complementar?",
+      "imagem": "2295.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2295.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, este sinal indica que circulo num IP.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, este sinal indica que circulo num IC.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2296",
+      "url": "https://www.bomcondutor.pt/questao/2296",
+      "pergunta": "Qual a indicação que a sinalização vertical dá aos condutores?",
+      "imagem": "2296.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2296.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fim de todas as proibições impostas aos veículos automóveis.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Fim de via reservada exclusivamente a automóveis.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Que terminou a via reservada a automóveis e motociclos.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2297",
+      "url": "https://www.bomcondutor.pt/questao/2297",
+      "pergunta": "Qual a indicação que este sinal dá aos condutores?",
+      "imagem": "2297.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2297.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A existência de um hospital.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A existência de um posto de primeiros socorros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Proximidade de um heliporto.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2298",
+      "url": "https://www.bomcondutor.pt/questao/2298",
+      "pergunta": "Qual das seguintes afirmações está correcta para o sinal de informação?",
+      "imagem": "2298.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2298.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Localização de uma passagem para peões.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Passagem proibida a peões.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pista obrigatória para peões.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2299",
+      "url": "https://www.bomcondutor.pt/questao/2299",
+      "pergunta": "Qual deve ser o meu comportamento, perante o sinal vertical?",
+      "imagem": "2299.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2299.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Parar para interpretar a sua indicação.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Seguir atentamente.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sinalizar a intenção de parar na área de serviço indicada pelo sinal.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2300",
+      "url": "https://www.bomcondutor.pt/questao/2300",
+      "pergunta": "Qual o significado do sinal vertical?",
+      "imagem": "2300.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2300.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Abertura de nova via de trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Aproximação de via sem saída para veículos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Supressão de via de trânsito.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2301",
+      "url": "https://www.bomcondutor.pt/questao/2301",
+      "pergunta": "Que indica o sinal de informação?",
+      "imagem": "2301.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2301.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Parque autorizado para o estacionamento de reboques de campismo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Parque misto para campismo e reboques de campismo.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Pousada ou estalagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2302",
+      "url": "https://www.bomcondutor.pt/questao/2302",
+      "pergunta": "Que indicação me é dada pelo sinal vertical?",
+      "imagem": "2302.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2302.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O ponto de saída de um circuito ou o final de uma rota turística.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O ponto onde tem início a localidade identificada.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O ponto onde termina a localidade identificada.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2303",
+      "url": "https://www.bomcondutor.pt/questao/2303",
+      "pergunta": "Se quiser ir por Lisboa, o sinal vertical informa-me que:",
+      "imagem": "2303.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2303.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estou a 197 km de Lisboa.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Já percorri 197 km para chegar a Lisboa.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tenho que apanhar a estrada nacional 197.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    }
+  ]
+}

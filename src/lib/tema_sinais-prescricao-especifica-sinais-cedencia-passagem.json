@@ -1,0 +1,2802 @@
+{
+  "tema": "Sinais de prescrição específica, sinais de cedência de passagem",
+  "slug": "sinais-prescricao-especifica-sinais-cedencia-passagem",
+  "total": 115,
+  "questoes": [
+    {
+      "numero": "2023",
+      "url": "https://www.bomcondutor.pt/questao/2023",
+      "pergunta": "A referência IC 17, colocada na sinalização indica:",
+      "imagem": "2023.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2023.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Que circulo no itinerário complementar nº 17.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Que faltam 17 kms para o início da A1.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Que me encontro no km 17, da via em que circulo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2024",
+      "url": "https://www.bomcondutor.pt/questao/2024",
+      "pergunta": "A sinalização com fundo azul que se encontra nesta via indica-me que circulo numa auto-estrada. Concorda com a afirmação?",
+      "imagem": "2024.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2024.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, embora me transmita outras informações.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2025",
+      "url": "https://www.bomcondutor.pt/questao/2025",
+      "pergunta": "A sinalização desta via pública, informa-me que circulo:",
+      "imagem": "2025.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2025.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Na auto-estrada A25.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Na estrada nacional A25.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Na estrada nacional N16.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2026",
+      "url": "https://www.bomcondutor.pt/questao/2026",
+      "pergunta": "A sinalização presente indica:",
+      "imagem": "2026.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2026.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fim da estrada com prioridade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Mudança de direcção da via com prioridade.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Proximidade de um cruzamento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2027",
+      "url": "https://www.bomcondutor.pt/questao/2027",
+      "pergunta": "A sinalização vertical que se encontra mais próxima indica-me:",
+      "imagem": "2027.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2027.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aproximação de uma rotunda.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Que tenho prioridade no próximo entroncamento.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Rotunda com via sem prioridade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2028",
+      "url": "https://www.bomcondutor.pt/questao/2028",
+      "pergunta": "A sinalização vertical que se encontra mais próxima, indica-me:",
+      "imagem": "2028.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2028.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aproximação de uma rotunda.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Curva perigosa à esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O local exacto onde posso inverter o sentido de marcha.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2029",
+      "url": "https://www.bomcondutor.pt/questao/2029",
+      "pergunta": "A via de trânsito em que circulo vai terminar. Devo:",
+      "imagem": "2029.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2029.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ceder passagem a todos os veículos que circulam na via da esquerda.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Inverter o sentido de marcha porque a via não tem continuação.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Parar e ceder passagem a todos os veículos com que vou cruzar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2030",
+      "url": "https://www.bomcondutor.pt/questao/2030",
+      "pergunta": "Ao circular nesta via de trânsito, devo saber que:",
+      "imagem": "2030.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2030.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A velocidade máxima recomendada para esta via é de 60 Km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não posso exceder a velocidade máxima de 60 Km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sou obrigado a transitar a uma velocidade não inferior à indicada no sinal.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2031",
+      "url": "https://www.bomcondutor.pt/questao/2031",
+      "pergunta": "Ao circular nesta via pública, devo saber que:",
+      "imagem": "2031.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2031.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Devo ceder a passagem a todos e quaisquer veículos que transitem na via que se aproxima.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "No próximo entroncamento, estou obrigado a ceder a passagem apenas aos automóveis.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tenho prioridade de passagem sobre os veículos sem motor que circulam na via que se aproxima.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2032",
+      "url": "https://www.bomcondutor.pt/questao/2032",
+      "pergunta": "Ao passar por este sinal vertical posso concluir que circulo:",
+      "imagem": "2032.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2032.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Numa auto-estrada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Numa via não urbana.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Numa via urbana.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2033",
+      "url": "https://www.bomcondutor.pt/questao/2033",
+      "pergunta": "Circulo numa via com prioridade:",
+      "imagem": "2033.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2033.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Se seguir em frente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Se voltar à direita.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Se voltar à esquerda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2034",
+      "url": "https://www.bomcondutor.pt/questao/2034",
+      "pergunta": "Como devem proceder os condutores que circulam na via de trânsito mais à direita?",
+      "imagem": "2034.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2034.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ceder a passagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Parar obrigatoriamente antes de mudar de via de trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Passar para o lado esquerdo da faixa de rodagem porque têm prioridade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2035",
+      "url": "https://www.bomcondutor.pt/questao/2035",
+      "pergunta": "Como devo proceder face ao sinal vertical triangular?",
+      "imagem": "2035.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2035.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Avançar com cuidado, apesar de ter prioridade de passagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ceder a passagem a todos os veículos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ceder a passagem aos veículos que se apresentem pela direita.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2036",
+      "url": "https://www.bomcondutor.pt/questao/2036",
+      "pergunta": "Como devo proceder no entroncamento de que me aproximo?",
+      "imagem": "2036.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2036.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Avançar sem precauções dado ter o direito de passar em primeiro lugar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Avançar, verificando se os condutores que circulam na via com que me cruzo me cedem a passagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Ceder a passagem a todos os veículos motorizados.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Ceder a passagem aos veículos que se apresentem pela direita.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2037",
+      "url": "https://www.bomcondutor.pt/questao/2037",
+      "pergunta": "Como devo proceder perante o sinal vertical de cedência de passagem?",
+      "imagem": "2037.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2037.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ceder a passagem a todos os veículos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ceder a passagem apenas aos veículos vindos da direita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ceder a passagem apenas aos veículos vindos da esquerda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2038",
+      "url": "https://www.bomcondutor.pt/questao/2038",
+      "pergunta": "Como devo proceder perante o sinal vertical?",
+      "imagem": "2038.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2038.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Manter a velocidade porque o trânsito passa a fazer-se apenas num só sentido.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Manter a velocidade porque tenho prioridade no próximo estreitamento da via pública.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Moderar a velocidade porque a circulação passa a ser feita nos dois sentidos.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2039",
+      "url": "https://www.bomcondutor.pt/questao/2039",
+      "pergunta": "Conduzo um automóvel ligeiro de passageiros, de uso particular. Perante o sinal circular de fundo azul, devo:",
+      "imagem": "2039.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2039.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Mudar de direcção à esquerda.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Mudar para a via de trânsito à direita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Seguir em frente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2040",
+      "url": "https://www.bomcondutor.pt/questao/2040",
+      "pergunta": "Continuando a circular nesta via de trânsito, na próxima intersecção, devo:",
+      "imagem": "2040.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2040.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Mudar de direcção para a direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Mudar de direcção para a esquerda.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Seguir em frente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2041",
+      "url": "https://www.bomcondutor.pt/questao/2041",
+      "pergunta": "De acordo com a sinalização vertical, devem ceder a passagem os condutores que circulam na via de trânsito:",
+      "imagem": "2041.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2041.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Da direita.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Da esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Do centro.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2042",
+      "url": "https://www.bomcondutor.pt/questao/2042",
+      "pergunta": "Devido à sinalização vertical que se encontra nesta via, na via de trânsito mais à direita não tenho obrigação de circular a velocidade mínima. Concorda com a afirmação?",
+      "imagem": "2042.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2042.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, não posso transitar a velocidade instantânea inferior a 50 km/h.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, apenas nas duas vias de trânsito mais à esquerda estou obrigado a circular a velocidade mínima.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque se trata de uma via de abrandamento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2043",
+      "url": "https://www.bomcondutor.pt/questao/2043",
+      "pergunta": "Devo circular nesta via de trânsito?",
+      "imagem": "2043.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2043.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, se circular a 70 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, se circular a 90 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, excepto para ultrapassar.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2044",
+      "url": "https://www.bomcondutor.pt/questao/2044",
+      "pergunta": "Esta via de trânsito destina-se a:",
+      "imagem": "2044.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2044.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Inversão de sentido de marcha.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Mudança de direcção para a esquerda.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Ultrapassagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2045",
+      "url": "https://www.bomcondutor.pt/questao/2045",
+      "pergunta": "Esta via é uma auto-estrada.",
+      "imagem": "2045.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2045.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2046",
+      "url": "https://www.bomcondutor.pt/questao/2046",
+      "pergunta": "Este sinal adverte-me para:",
+      "imagem": "2046.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2046.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A aproximação de um cruzamento ou entroncamento.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A aproximação de uma passagem de nível sem guarda.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A proximidade de uma estrada com prioridade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2047",
+      "url": "https://www.bomcondutor.pt/questao/2047",
+      "pergunta": "Este sinal é de:",
+      "imagem": "2047.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2047.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Cedência de passagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Informação.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Selecção de vias.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2048",
+      "url": "https://www.bomcondutor.pt/questao/2048",
+      "pergunta": "Este sinal indica a aproximação de:",
+      "imagem": "2048.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2048.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Um cruzamento com via sem prioridade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Um entroncamento com via sem prioridade.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2049",
+      "url": "https://www.bomcondutor.pt/questao/2049",
+      "pergunta": "Este sinal indica a proibição de ultrapassar:",
+      "imagem": "2049.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2049.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Para automóveis ligeiros e pesados.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Somente para automóveis ligeiros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Somente para automóveis pesados.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2050",
+      "url": "https://www.bomcondutor.pt/questao/2050",
+      "pergunta": "Este sinal indica que os condutores:",
+      "imagem": "2050.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2050.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Têm prioridade de passagem na próxima intersecção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Têm prioridade de passagem na próxima passagem estreita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Têm prioridade de passagem nos sucessivos cruzamentos e entroncamentos.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2051",
+      "url": "https://www.bomcondutor.pt/questao/2051",
+      "pergunta": "Este sinal indica:",
+      "imagem": "2051.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2051.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aproximação de um cruzamento com via com prioridade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Fim de via com prioridade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Prioridade de passagem nas sucessivas intersecções.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2052",
+      "url": "https://www.bomcondutor.pt/questao/2052",
+      "pergunta": "Este sinal indica:",
+      "imagem": "2052.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2052.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Obrigação de ceder a passagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Que existe um cruzamento com via com prioridade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Que existe um cruzamento com via sem prioridade.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2053",
+      "url": "https://www.bomcondutor.pt/questao/2053",
+      "pergunta": "Este sinal informa-me que:",
+      "imagem": "2053.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2053.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não posso mudar de direcção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "No sentido em que circulo existe apenas uma via de trânsito e duas em sentido oposto.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Posso utilizar qualquer das três vias de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2054",
+      "url": "https://www.bomcondutor.pt/questao/2054",
+      "pergunta": "Este sinal obriga a:",
+      "imagem": "2054.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2054.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Cedência de passagem a todos os veículos que circulem na via de que me aproximo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Cedência de passagem nos sucessivos entroncamentos e cruzamentos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Paragem no próximo cruzamento ou entroncamento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2055",
+      "url": "https://www.bomcondutor.pt/questao/2055",
+      "pergunta": "Este sinal proíbe-me ultrapassar qualquer automóvel?",
+      "imagem": "2055.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2055.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2056",
+      "url": "https://www.bomcondutor.pt/questao/2056",
+      "pergunta": "Este sinal proíbe-me:",
+      "imagem": "2056.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2056.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A paragem e o estacionamento.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A paragem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O estacionamento.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2057",
+      "url": "https://www.bomcondutor.pt/questao/2057",
+      "pergunta": "Este sinal significa:",
+      "imagem": "2057.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2057.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Paragem obrigatória.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Via com prioridade.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Via sem prioridade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2058",
+      "url": "https://www.bomcondutor.pt/questao/2058",
+      "pergunta": "Este sinal significa:",
+      "imagem": "2058.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2058.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Prioridade temporária.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Via com prioridade.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Via sem prioridade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2059",
+      "url": "https://www.bomcondutor.pt/questao/2059",
+      "pergunta": "Na presença destes sinais verticais, sou sempre obrigado a parar o meu veículo. A afirmação é:",
+      "imagem": "2059.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2059.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Falsa.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Verdadeira.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2060",
+      "url": "https://www.bomcondutor.pt/questao/2060",
+      "pergunta": "Na via de trânsito em que circulo, estou correctamente posicionado para seguir para o Porto.",
+      "imagem": "2060.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2060.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2061",
+      "url": "https://www.bomcondutor.pt/questao/2061",
+      "pergunta": "Na via em que está colocado o sinal circular azul, a que automóveis é permitida a circulação?",
+      "imagem": "2061.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2061.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "De transporte público de passageiros.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ligeiros e pesados de passageiros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pesados de passageiros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2062",
+      "url": "https://www.bomcondutor.pt/questao/2062",
+      "pergunta": "Nesta faixa de rodagem:",
+      "imagem": "2062.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2062.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Como regra geral, não devo circular na via de trânsito mais á direita.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não circulam veículos em sentido contrário.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Não posso ultrapassar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2063",
+      "url": "https://www.bomcondutor.pt/questao/2063",
+      "pergunta": "Nesta situação ao seguir em frente devo optar:",
+      "imagem": "2063.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2063.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Pela via de trânsito em que circulo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Pela via de trânsito mais à direita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pela via de trânsito mais à esquerda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2064",
+      "url": "https://www.bomcondutor.pt/questao/2064",
+      "pergunta": "Nesta situação devo utilizar a via de trânsito mais à esquerda se pretender tomar a direcção:",
+      "imagem": "2064.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2064.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A1 Norte.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Aeroporto.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Ponte Vasco da Gama.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2065",
+      "url": "https://www.bomcondutor.pt/questao/2065",
+      "pergunta": "Nesta situação devo utilizar:",
+      "imagem": "2065.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2065.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A via de trânsito da direita, excepto para ultrapassar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A via de trânsito mais conveniente ao meu destino.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sempre a via de trânsito da direita.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2066",
+      "url": "https://www.bomcondutor.pt/questao/2066",
+      "pergunta": "Nesta situação sou informado de que:",
+      "imagem": "2066.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2066.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A orientação da via com prioridade muda de direcção.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Tenho de ceder passagem aos veículos vindos da esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tenho de respeitar a regra geral da prioridade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2067",
+      "url": "https://www.bomcondutor.pt/questao/2067",
+      "pergunta": "Nesta situação, para seguir em direcção à IC2, posso utilizar:",
+      "imagem": "2067.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2067.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A via mais à direita.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A via mais à esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Indistintamente a via em que circulo ou outra mais à direita.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2068",
+      "url": "https://www.bomcondutor.pt/questao/2068",
+      "pergunta": "Nesta situação, posso ultrapassar?",
+      "imagem": "2068.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2068.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2069",
+      "url": "https://www.bomcondutor.pt/questao/2069",
+      "pergunta": "Nesta via sou sempre obrigado a transitar na via de trânsito mais à direita.",
+      "imagem": "2069.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2069.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2070",
+      "url": "https://www.bomcondutor.pt/questao/2070",
+      "pergunta": "Neste local devo:",
+      "imagem": "2070.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2070.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Mudar de via de trânsito se transitar na via mais à esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Parar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Transitar com precaução.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2071",
+      "url": "https://www.bomcondutor.pt/questao/2071",
+      "pergunta": "Neste local, ainda posso seguir em frente?",
+      "imagem": "2071.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2071.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque a seta me proíbe a mudança de direcção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que tome as devidas precauções e mude de via.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2072",
+      "url": "https://www.bomcondutor.pt/questao/2072",
+      "pergunta": "Neste local, os condutores que circulam em sentido contrário, encontram no início da ponte um sinal de:",
+      "imagem": "2072.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2072.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Cedência de passagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Informação.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Proibição.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2073",
+      "url": "https://www.bomcondutor.pt/questao/2073",
+      "pergunta": "O que indica este sinal?",
+      "imagem": "2073.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2073.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Cruzamento com via com prioridade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Cruzamento com via sem prioridade.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Cruzamento de vias desniveladas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2074",
+      "url": "https://www.bomcondutor.pt/questao/2074",
+      "pergunta": "O que me indica o sinal vertical?",
+      "imagem": "2074.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2074.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Que na zona em que me encontro é aconselhável circular a 40 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Que na zona em que vou entrar a velocidade máxima está limitada a 40 km/h.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Que na zona em que vou entrar a velocidade mínima permitida é de 40 km/h.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2075",
+      "url": "https://www.bomcondutor.pt/questao/2075",
+      "pergunta": "O que significa este sinal?",
+      "imagem": "2075.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2075.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Cedência de passagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Entroncamento com via sem prioridade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Outros perigos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2076",
+      "url": "https://www.bomcondutor.pt/questao/2076",
+      "pergunta": "O que significa o sinal vertical de forma triangular?",
+      "imagem": "2076.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2076.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aproximação de rotunda.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Obrigação de contornar placa ou obstáculo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Rotunda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2077",
+      "url": "https://www.bomcondutor.pt/questao/2077",
+      "pergunta": "O que significa o sinal vertical triangular?",
+      "imagem": "2077.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2077.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Cruzamento com via com prioridade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Cruzamento com via sem prioridade.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Entroncamento com via com prioridade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2078",
+      "url": "https://www.bomcondutor.pt/questao/2078",
+      "pergunta": "O que significa o sinal vertical?",
+      "imagem": "2078.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2078.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Entrada numa zona em que a paragem e o estacionamento são proibidos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Entrada numa zona em que apenas a paragem é proibida.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Entrada numa zona em que apenas o estacionamento é proibido.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2079",
+      "url": "https://www.bomcondutor.pt/questao/2079",
+      "pergunta": "O sinal circular de fundo azul, permite o trânsito a todos os:",
+      "imagem": "2079.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2079.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis de passageiros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Veículos de transporte público.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Veículos pesados.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2080",
+      "url": "https://www.bomcondutor.pt/questao/2080",
+      "pergunta": "O sinal de afectação de vias adverte-me para:",
+      "imagem": "2080.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2080.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aproximação de entroncamento com estrada sem prioridade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Aproximação de passagem estreita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Supressão da via de trânsito.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2081",
+      "url": "https://www.bomcondutor.pt/questao/2081",
+      "pergunta": "O sinal de cedência de passagem indica:",
+      "imagem": "2081.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2081.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Paragem obrigatória.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Perigos vários.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sentido proibido.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Trânsito proibido.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2082",
+      "url": "https://www.bomcondutor.pt/questao/2082",
+      "pergunta": "O sinal de formato triangular indica:",
+      "imagem": "2082.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2082.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Entroncamento com via com prioridade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Entroncamento com via sem prioridade.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2083",
+      "url": "https://www.bomcondutor.pt/questao/2083",
+      "pergunta": "O sinal de zona indica:",
+      "imagem": "2083.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2083.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fim de zona de estacionamento autorizado.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Fim de zona de paragem e estacionamento proibidos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Fim de zona de paragem proibida.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2084",
+      "url": "https://www.bomcondutor.pt/questao/2084",
+      "pergunta": "O sinal indica que na próxima intersecção:",
+      "imagem": "2084.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2084.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Devem ceder-me a passagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Devo ceder a passagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Devo parar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2085",
+      "url": "https://www.bomcondutor.pt/questao/2085",
+      "pergunta": "O sinal indica que nesta zona o estacionamento é permitido das:",
+      "imagem": "2085.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2085.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "20 às 20 horas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "20 às 8 horas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "8 às 20 horas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2086",
+      "url": "https://www.bomcondutor.pt/questao/2086",
+      "pergunta": "O sinal indica que os automóveis de mercadorias não podem transitar:",
+      "imagem": "2086.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2086.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas naquela via de trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Após o sinal.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Até encontrar o sinal.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2087",
+      "url": "https://www.bomcondutor.pt/questao/2087",
+      "pergunta": "O sinal indica:",
+      "imagem": "2087.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2087.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fim de uma zona com um limite mínimo de velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Fim do limite de velocidade imposto por sinalização.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Início de uma zona com um limite máximo de velocidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2088",
+      "url": "https://www.bomcondutor.pt/questao/2088",
+      "pergunta": "O sinal indica:",
+      "imagem": "2088.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2088.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Um local de estacionamento autorizado.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Uma zona de estacionamento proibido.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Uma zona de paragem proibida.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2089",
+      "url": "https://www.bomcondutor.pt/questao/2089",
+      "pergunta": "O sinal informa-me que na via de trânsito central devo:",
+      "imagem": "2089.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2089.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Circular a menos de 70 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Circular à velocidade constante de 70 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Circular à velocidade mínima de 70 km/h.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2090",
+      "url": "https://www.bomcondutor.pt/questao/2090",
+      "pergunta": "O sinal informa-me que na via de trânsito mais à esquerda devo:",
+      "imagem": "2090.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2090.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Circular a menos de 90 Km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Circular à velocidade constante de 90 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Circular à velocidade mínima de 90 km/h.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2091",
+      "url": "https://www.bomcondutor.pt/questao/2091",
+      "pergunta": "O sinal proíbe o trânsito:",
+      "imagem": "2091.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2091.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A todos os automóveis pesados.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Aos automóveis ligeiros de mercadorias.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas aos automóveis pesados de mercadorias.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2092",
+      "url": "https://www.bomcondutor.pt/questao/2092",
+      "pergunta": "O sinal que se encontra na via pública:",
+      "imagem": "2092.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2092.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Proíbe a paragem e o estacionamento.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Proíbe apenas a paragem a todos os veículos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Proíbe apenas o estacionamento a veículos pesados de mercadorias.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2093",
+      "url": "https://www.bomcondutor.pt/questao/2093",
+      "pergunta": "O sinal significa:",
+      "imagem": "2093.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2093.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Cedência de passagem nos estreitamentos da faixa de rodagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Proibição de inverter o sentido de marcha.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Trânsito simultâneo nos dois sentidos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2094",
+      "url": "https://www.bomcondutor.pt/questao/2094",
+      "pergunta": "O sinal triangular indica:",
+      "imagem": "2094.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2094.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Entroncamento com via sem prioridade.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Entroncamento onde devo ceder passagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Prioridade nos sucessivos cruzamentos e entroncamentos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2095",
+      "url": "https://www.bomcondutor.pt/questao/2095",
+      "pergunta": "O sinal vertical de fundo branco, indica-me que:",
+      "imagem": "2095.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2095.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A circulação passa a ser feita apenas numa via de trânsito e que devo ceder passagem a todos os veículos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Devo ceder a passagem aos veículos que circulem na via da esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Os veículos que transitem na via mais à esquerda devem ceder a passagem a todos os que circulem na via da direita.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2096",
+      "url": "https://www.bomcondutor.pt/questao/2096",
+      "pergunta": "O sinal vertical indica aos condutores que circulam na via mais à direita que:",
+      "imagem": "2096.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2096.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Devem ceder a passagem aos veículos que transitem na via à sua esquerda e que se aproxima.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Têm prioridade de passagem sobre os veículos que circulem à sua esquerda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2097",
+      "url": "https://www.bomcondutor.pt/questao/2097",
+      "pergunta": "O sinal vertical indica que no troço de via onde o mesmo se aplica, o trânsito se faz simultaneamente nos dois sentidos.",
+      "imagem": "2097.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2097.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2098",
+      "url": "https://www.bomcondutor.pt/questao/2098",
+      "pergunta": "O sinal vertical indica-me que vou entrar numa zona em que:",
+      "imagem": "2098.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2098.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A paragem e o estacionamento são permitidos do lado direito da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A paragem e o estacionamento são proibidos.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas a paragem é permitida.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2099",
+      "url": "https://www.bomcondutor.pt/questao/2099",
+      "pergunta": "O sinal vertical indica-me que:",
+      "imagem": "2099.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2099.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A via pública passa a ter trânsito nos dois sentidos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não tenho prioridade no próximo estreitamento da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O trânsito passa a fazer-se apenas num sentido.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2100",
+      "url": "https://www.bomcondutor.pt/questao/2100",
+      "pergunta": "O sinal vertical indica-me:",
+      "imagem": "2100.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2100.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Curva perigosa à direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Entroncamento com via com prioridade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Entroncamento com via sem prioridade.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2101",
+      "url": "https://www.bomcondutor.pt/questao/2101",
+      "pergunta": "O sinal vertical indica-me:",
+      "imagem": "2101.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2101.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Zona de estacionamento permitido do lado direito da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Zona de estacionamento proibido.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Zona de paragem e estacionamento proibidos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2102",
+      "url": "https://www.bomcondutor.pt/questao/2102",
+      "pergunta": "O sinal vertical indica:",
+      "imagem": "2102.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2102.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O fim do limite máximo de velocidade.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O limite de velocidade recomendado para toda a faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O limite mínimo de velocidade, para aquela zona.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2103",
+      "url": "https://www.bomcondutor.pt/questao/2103",
+      "pergunta": "O sinal vertical indica:",
+      "imagem": "2103.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2103.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionamento proibido.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Local de paragem proibida.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Zona de paragem e estacionamento limitado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2104",
+      "url": "https://www.bomcondutor.pt/questao/2104",
+      "pergunta": "O sinal vertical proíbe o trânsito:",
+      "imagem": "2104.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2104.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A todos os automóveis pesados.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Aos automóveis ligeiros e pesados de mercadorias.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas aos automóveis pesados de mercadorias.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2105",
+      "url": "https://www.bomcondutor.pt/questao/2105",
+      "pergunta": "O sinal vertical que se encontra nesta via pública indica-me que:",
+      "imagem": "2105.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2105.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A via pública tem dois sentidos de trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Devo ceder a passagem ao veículo que transita em sentido contrário.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Tenho prioridade de passagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2106",
+      "url": "https://www.bomcondutor.pt/questao/2106",
+      "pergunta": "O sinal vertical, de afectação de vias, indica:",
+      "imagem": "2106.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2106.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A aproximação de um entroncamento.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A supressão de uma via de trânsito com obrigatoriedade de cedência de passagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Que no sentido em que transito passam a existir duas vias de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2107",
+      "url": "https://www.bomcondutor.pt/questao/2107",
+      "pergunta": "Os condutores que circulam na via de trânsito da direita devem:",
+      "imagem": "2107.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2107.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ceder a passagem e mudar de via de trânsito.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Mudar para a faixa de rodagem da esquerda, antes do sinal.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Parar antes de mudar de via de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2108",
+      "url": "https://www.bomcondutor.pt/questao/2108",
+      "pergunta": "Os sinais colocados no pórtico são:",
+      "imagem": "2108.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2108.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "De afectação de vias.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "De pré-sinalização.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "De selecção de vias.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2109",
+      "url": "https://www.bomcondutor.pt/questao/2109",
+      "pergunta": "Para ir para o Carregado:",
+      "imagem": "2109.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2109.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Devo mudar para a via de trânsito central ou da direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Devo mudar para a via de trânsito central.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Posso manter-me na via de trânsito em que circulo.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2110",
+      "url": "https://www.bomcondutor.pt/questao/2110",
+      "pergunta": "Para me dirigir à A1 NORTE:",
+      "imagem": "2110.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2110.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Disponho de quatro vias de trânsito, devendo utilizar a via de trânsito mais à direita.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Posso optar por qualquer das vias de trânsito existentes.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tenho de manter-me na via de trânsito em que circulo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2111",
+      "url": "https://www.bomcondutor.pt/questao/2111",
+      "pergunta": "Para seguir a direcção Areeiro devo:",
+      "imagem": "2111.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2111.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Manter-me na via de trânsito em que circulo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Mudar de direcção para a direita neste cruzamento.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sinalizar e mudar progressivamente para a via de trânsito à minha direita.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2112",
+      "url": "https://www.bomcondutor.pt/questao/2112",
+      "pergunta": "Para seguir em direcção à A1 devo:",
+      "imagem": "2112.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2112.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Seguir em frente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sinalizar e mudar progressivamente para a via de trânsito à minha direita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sinalizar e mudar progressivamente para a via de trânsito à minha esquerda.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2113",
+      "url": "https://www.bomcondutor.pt/questao/2113",
+      "pergunta": "Para seguir em direcção à A3, devo:",
+      "imagem": "2113.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2113.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Manter-me na via de trânsito em que circulo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Passar progressivamente para a via de trânsito mais à direita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Passar progressivamente para a via de trânsito mais à esquerda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2114",
+      "url": "https://www.bomcondutor.pt/questao/2114",
+      "pergunta": "Para seguir em direcção à Estação do Oriente devo:",
+      "imagem": "2114.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2114.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Manter-me na via de trânsito em que circulo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Passar para a via de trânsito à minha esquerda e prosseguir.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Passar progressivamente para uma das vias de trânsito à minha direita.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2115",
+      "url": "https://www.bomcondutor.pt/questao/2115",
+      "pergunta": "Para seguir em direcção à N1, devo:",
+      "imagem": "2115.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2115.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Manter-me na via de trânsito em que circulo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Passar para a via de trânsito à minha direita e prosseguir.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Passar progressivamente para a via de trânsito mais à direita.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2116",
+      "url": "https://www.bomcondutor.pt/questao/2116",
+      "pergunta": "Para seguir em direcção a Sintra, estou bem colocado?",
+      "imagem": "2116.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2116.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, pois deveria circular na via de trânsito mais à direita.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que mude sem quaisquer precauções para a via de trânsito mais à direita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, pois posso utilizar qualquer via de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2117",
+      "url": "https://www.bomcondutor.pt/questao/2117",
+      "pergunta": "Perante a sinalização existente a indicar que a circulação passa de três para duas vias:",
+      "imagem": "2117.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2117.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Devo ceder a passagem aos veículos da direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Tenho prioridade de passagem sobre os veículos que circulam na via mais à direita.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2118",
+      "url": "https://www.bomcondutor.pt/questao/2118",
+      "pergunta": "Perante a sinalização existente devo saber que na via de trânsito onde circulo:",
+      "imagem": "2118.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2118.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Devo circular a uma velocidade média de 70 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "É obrigatório circular à velocidade mínima de 70 km/h.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Não devo circular a mais de 70 Km/h.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2119",
+      "url": "https://www.bomcondutor.pt/questao/2119",
+      "pergunta": "Perante a sinalização vertical desta via, devo saber que:",
+      "imagem": "2119.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2119.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aproxima-se uma via sem prioridade a 100 metros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Estou obrigado a ceder a passagem a todos os veículos que circulam na via que se aproxima.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Os condutores que transitam na via onde se encontra este sinal têm prioridade de passagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2120",
+      "url": "https://www.bomcondutor.pt/questao/2120",
+      "pergunta": "Perante a sinalização vertical existente nesta via pública devo saber que:",
+      "imagem": "2120.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2120.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Cede sempre a passagem o veículo que chega depois ao estreitamento da via.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Devo ceder a passagem ao veículo que circula em sentido contrário.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O veículo que desce deve ceder-me a passagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2121",
+      "url": "https://www.bomcondutor.pt/questao/2121",
+      "pergunta": "Perante este sinal devo:",
+      "imagem": "2121.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2121.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ceder passagem aos veículos sem motor que se apresentem pela direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Circular com velocidade moderada e respeitar a regra de cedência de passagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar os sinais sonoros na passagem de nível.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2122",
+      "url": "https://www.bomcondutor.pt/questao/2122",
+      "pergunta": "Perante este sinal devo:",
+      "imagem": "2122.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2122.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Avançar, porque não tenho que ceder passagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Avançar, porque o trânsito se faz em simultâneo nos dois sentidos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ceder passagem no estreitamento da via.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2123",
+      "url": "https://www.bomcondutor.pt/questao/2123",
+      "pergunta": "Perante este sinal sei que na via de trânsito à minha esquerda não podem circular automóveis:",
+      "imagem": "2123.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2123.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ligeiros e pesados de mercadorias.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Pesados de mercadorias e de passageiros.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2124",
+      "url": "https://www.bomcondutor.pt/questao/2124",
+      "pergunta": "Perante este sinal sei que vou entrar numa zona:",
+      "imagem": "2124.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2124.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Onde não posso parar nem estacionar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Onde posso parar e estacionar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Onde posso parar mas não estacionar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2125",
+      "url": "https://www.bomcondutor.pt/questao/2125",
+      "pergunta": "Perante este sinal vertical fico a saber que vou entrar numa zona de:",
+      "imagem": "2125.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2125.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionamento autorizado.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionamento proibido apenas para automóveis pesados.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Estacionamento proibido.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2126",
+      "url": "https://www.bomcondutor.pt/questao/2126",
+      "pergunta": "Perante o sinal de fundo branco tenho prioridade sobre os veículos que circulam na via da esquerda. Concorda com a afirmação?",
+      "imagem": "2126.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2126.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2127",
+      "url": "https://www.bomcondutor.pt/questao/2127",
+      "pergunta": "Perante o sinal vertical de forma triangular sei que no próximo entroncamento devo ceder a passagem aos veículos que se apresentem pela direita.",
+      "imagem": "2127.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2127.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2128",
+      "url": "https://www.bomcondutor.pt/questao/2128",
+      "pergunta": "Perante o sinal vertical devo saber que:",
+      "imagem": "2128.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2128.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aproxima-se uma curva perigosa à esquerda.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O trânsito apenas se faz num só sentido.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tenho prioridade de passagem no próximo entroncamento ou cruzamento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2129",
+      "url": "https://www.bomcondutor.pt/questao/2129",
+      "pergunta": "Perante o sinal vertical, o trânsito é proibido em toda aquela zona a:",
+      "imagem": "2129.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2129.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis de mercadorias.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Todos os automóveis pesados.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os automóveis.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2130",
+      "url": "https://www.bomcondutor.pt/questao/2130",
+      "pergunta": "Posso circular a velocidade superior a 40 Km/h nesta via de trânsito?",
+      "imagem": "2130.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2130.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, o sinal indica-me entrada numa zona em que a velocidade está limitada à indicada no sinal.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, o sinal indica-me a entrada numa zona de velocidade recomendada superior a 40 Km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, o sinal indica-me que terminou a zona de velocidade limitada a 40 Km/h.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2131",
+      "url": "https://www.bomcondutor.pt/questao/2131",
+      "pergunta": "Posso entrar no corredor de circulação:",
+      "imagem": "2131.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2131.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Para mudar de direcção à direita.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Para seguir em frente, desde que não mude de direcção.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Para ultrapassar um veículo que pretenda mudar de direcção à esquerda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2132",
+      "url": "https://www.bomcondutor.pt/questao/2132",
+      "pergunta": "Pretendo ir para Elvas. Devo:",
+      "imagem": "2132.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2132.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Deixar a estrada em que circulo quando encontrar a nacional Nº4.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Fazer sinal de mudança de direcção e sair na próxima saída.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Ultrapassar o automóvel pesado e sair na próxima saída.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2133",
+      "url": "https://www.bomcondutor.pt/questao/2133",
+      "pergunta": "Pretendo seguir em direcção à IC2, utilizo a via de trânsito adequada?",
+      "imagem": "2133.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2133.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2134",
+      "url": "https://www.bomcondutor.pt/questao/2134",
+      "pergunta": "Qual o significado do sinal de cedência de passagem?",
+      "imagem": "2134.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2134.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aproximação de praça onde a velocidade é limitada a 70 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Aproximação de rotunda onde o trânsito se processa em sentido giratório.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Obrigatoriedade de ceder a passagem aos veículos que entram na rotunda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2135",
+      "url": "https://www.bomcondutor.pt/questao/2135",
+      "pergunta": "Regra geral, este sinal é utilizado no interior das localidades.",
+      "imagem": "2135.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2135.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2136",
+      "url": "https://www.bomcondutor.pt/questao/2136",
+      "pergunta": "Se circular com um automóvel ligeiro de mercadorias posso seguir em frente?",
+      "imagem": "2136.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2136.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, o sinal proíbe a circulação de automóveis ligeiros e pesados de mercadorias.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, o sinal apenas proíbe a passagem de automóveis pesados de mercadorias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, o sinal indica zona de estacionamento proibido a automóveis pesados de mercadorias.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2137",
+      "url": "https://www.bomcondutor.pt/questao/2137",
+      "pergunta": "Transito dentro duma localidade. Após o sinal, a velocidade máxima:",
+      "imagem": "2137.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2137.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "É de 40 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "É de 50 km/h.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Não tem qualquer limite.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    }
+  ]
+}

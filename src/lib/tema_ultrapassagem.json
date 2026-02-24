@@ -1,0 +1,2697 @@
+{
+  "tema": "Ultrapassagem",
+  "slug": "ultrapassagem",
+  "total": 114,
+  "questoes": [
+    {
+      "numero": "2630",
+      "url": "https://www.bomcondutor.pt/questao/2630",
+      "pergunta": "A faixa de rodagem está dividida por uma linha descontínua. Estou correctamente posicionado se estiver a efectuar uma ultrapassagem.",
+      "imagem": "2630.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2630.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2631",
+      "url": "https://www.bomcondutor.pt/questao/2631",
+      "pergunta": "A faixa de rodagem está dividida por uma linha descontínua. Estou correctamente posicionado se:",
+      "imagem": "2631.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2631.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estiver a efectuar uma ultrapassagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Pretender estacionar do lado esquerdo da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pretender ultrapassar o veículo da frente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2632",
+      "url": "https://www.bomcondutor.pt/questao/2632",
+      "pergunta": "A manobra de ultrapassagem é permitida no local em que me encontro?",
+      "imagem": "2632.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2632.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, em circunstância alguma.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que não seja pisada nem transposta a linha longitudinal contínua.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que seja executada o mais rapidamente possível.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2633",
+      "url": "https://www.bomcondutor.pt/questao/2633",
+      "pergunta": "A manobra de ultrapassagem é proibida nesta curva de visibilidade reduzida. Concorda com esta afirmação?",
+      "imagem": "2633.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2633.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2634",
+      "url": "https://www.bomcondutor.pt/questao/2634",
+      "pergunta": "A manobra de ultrapassagem é sempre proibida em todos os locais de visibilidade insuficiente. Concorda com esta afirmação?",
+      "imagem": "2634.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2634.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2635",
+      "url": "https://www.bomcondutor.pt/questao/2635",
+      "pergunta": "A manobra de ultrapassagem é sempre proibida na proximidade de uma passagem de nível?",
+      "imagem": "2635.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2635.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, apenas é proibida na passagem de nível.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, apenas é proibida se houver trânsito em sentido contrário.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, é proibida imediatamente antes e na passagem de nível.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2636",
+      "url": "https://www.bomcondutor.pt/questao/2636",
+      "pergunta": "A ultrapassagem ao velocípede:",
+      "imagem": "2636.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2636.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Deve ser acompanhada de uso continuado dos sinais sonoros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Deve ser efectuada rapidamente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Não deve ser efectuada.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2637",
+      "url": "https://www.bomcondutor.pt/questao/2637",
+      "pergunta": "Antes de iniciar uma ultrapassagem, devo certificar-me que:",
+      "imagem": "2637.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2637.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Posso efectuar a manobra no espaço de 50 metros à minha frente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Posso efectuar a manobra sem perigo.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Posso fazer a manobra à velocidade mínima de 40 Km/h.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2638",
+      "url": "https://www.bomcondutor.pt/questao/2638",
+      "pergunta": "Ao realizar a manobra de ultrapassagem o condutor deve retomar a direita logo que:",
+      "imagem": "2638.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2638.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A manobra possa ser concluída em segurança.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O condutor ultrapassado se aperceba da sua intenção.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Se encontre a mais de 50 metros do veículo ultrapassado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2639",
+      "url": "https://www.bomcondutor.pt/questao/2639",
+      "pergunta": "Ao ser ultrapassado, devo:",
+      "imagem": "2639.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2639.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Manter a velocidade e chegar-me o mais à direita possível.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Parar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Reduzir a velocidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2640",
+      "url": "https://www.bomcondutor.pt/questao/2640",
+      "pergunta": "Ao ser ultrapassado, devo:",
+      "imagem": "2640.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2640.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Circular a velocidade não superior a 60 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Circular a velocidade não superior a 90 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Desviar-me o mais possível para a direita.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2641",
+      "url": "https://www.bomcondutor.pt/questao/2641",
+      "pergunta": "Ao ultrapassar o automóvel pesado, que comportamento devo esperar do seu condutor?",
+      "imagem": "2641.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2641.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Que aumente a sua velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Que mantenha a velocidade e se desvie o mais possível para a direita.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Que reduza a sua velocidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2642",
+      "url": "https://www.bomcondutor.pt/questao/2642",
+      "pergunta": "Após o sinal vertical posso ultrapassar?",
+      "imagem": "2642.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2642.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque na via em que circulo só há uma via de trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, porque tenho que pisar a linha descontínua.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que sinalize a manobra.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2643",
+      "url": "https://www.bomcondutor.pt/questao/2643",
+      "pergunta": "Assim que o condutor da frente termine a manobra de ultrapassagem deve:",
+      "imagem": "2643.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2643.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentar significativamente a velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Ligar os médios para iluminar a faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Retomar o lado direito da faixa de rodagem em segurança.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2644",
+      "url": "https://www.bomcondutor.pt/questao/2644",
+      "pergunta": "Cada via de trânsito é destinada à circulação:",
+      "imagem": "2644.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2644.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "De duas filas de trânsito, se a faixa de rodagem admitir dois sentidos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "De uma fila de trânsito.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "De várias filas de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2645",
+      "url": "https://www.bomcondutor.pt/questao/2645",
+      "pergunta": "Circulo correctamente se conduzir um automóvel pesado de passageiros e estiver a ultrapassar?",
+      "imagem": "2645.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2645.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2646",
+      "url": "https://www.bomcondutor.pt/questao/2646",
+      "pergunta": "Como devo proceder quando verifico que o condutor do veículo que circula à minha retaguarda me pretende ultrapassar?",
+      "imagem": "2646.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2646.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Desviar-me o mais possível para a esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não aumentar a velocidade e desviar-me o mais possível para a direita.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Reduzir a velocidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2647",
+      "url": "https://www.bomcondutor.pt/questao/2647",
+      "pergunta": "Conduzo um automóvel ligeiro de mercadorias. O sinal proíbe-me a ultrapassagem?",
+      "imagem": "2647.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2647.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2648",
+      "url": "https://www.bomcondutor.pt/questao/2648",
+      "pergunta": "Devo iniciar a manobra de ultrapassagem?",
+      "imagem": "2648.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2648.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque a marca rodoviária não me permite executar a manobra.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, porque transitam veículos em sentido contrário.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que o faça rapidamente, utilizando para isso os sinais sonoros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2649",
+      "url": "https://www.bomcondutor.pt/questao/2649",
+      "pergunta": "Devo ultrapassar pela direita um veículo, cujo condutor, tenha assinalado a sua intenção de mudar de direcção para a esquerda. Concorda com esta afirmação?",
+      "imagem": "2649.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2649.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a ultrapassagem deve ser sempre efectuada pela esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que tenha deixado livre a parte mais à direita da faixa de rodagem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2650",
+      "url": "https://www.bomcondutor.pt/questao/2650",
+      "pergunta": "Estou a ser correctamente ultrapassado?",
+      "imagem": "2650.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2650.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque a realização da manobra pode provocar embaraço para o trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, porque é proibido ultrapassar nas pontes.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, estou.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2651",
+      "url": "https://www.bomcondutor.pt/questao/2651",
+      "pergunta": "Estou obrigado a facilitar a manobra de ultrapassagem deste veículo?",
+      "imagem": "2651.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2651.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, excepto em relação aos veículos pesados.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, excepto nos casos de perigo de acidente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, não devendo aumentar a velocidade.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2652",
+      "url": "https://www.bomcondutor.pt/questao/2652",
+      "pergunta": "Na via em que me encontro é permitido realizar a manobra de ultrapassagem pela direita?",
+      "imagem": "2652.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2652.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, em circunstância alguma.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, caso o condutor da frente mude de direcção à esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, visto tratar-se de uma auto-estrada.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2653",
+      "url": "https://www.bomcondutor.pt/questao/2653",
+      "pergunta": "Nas curvas é proibido ultrapassar?",
+      "imagem": "2653.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2653.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a ultrapassagem nunca é proibida nas curvas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, em todas as curvas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se a visibilidade for reduzida e existir apenas uma fila de trânsito para cada sentido.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2654",
+      "url": "https://www.bomcondutor.pt/questao/2654",
+      "pergunta": "Nesta situação posso ultrapassar o veículo da frente em segurança?",
+      "imagem": "2654.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2654.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque posso pôr em perigo os peões que circulam no local.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque não há no local sinalização que proíba a manobra.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque não se aproximam veículos em sentido contrário.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2655",
+      "url": "https://www.bomcondutor.pt/questao/2655",
+      "pergunta": "Nesta situação devo estar especialmente atento:",
+      "imagem": "2655.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2655.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "À manobra que o veículo à retaguarda está a iniciar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "À velocidade do veículo que me ultrapassa.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ao espelho reflector interior.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2656",
+      "url": "https://www.bomcondutor.pt/questao/2656",
+      "pergunta": "Nesta situação devo:",
+      "imagem": "2656.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2656.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Buzinar para advertir o condutor que é proibido ultrapassar em pontes.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Desviar-me o mais possível para a direita e manter a velocidade.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Travar bruscamente para facilitar a ultrapassagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2657",
+      "url": "https://www.bomcondutor.pt/questao/2657",
+      "pergunta": "Nesta situação o condutor do veículo ultrapassado:",
+      "imagem": "2657.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2657.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Deve reduzir a velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Deve utilizar os sinais sonoros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Não deve aumentar a velocidade.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2658",
+      "url": "https://www.bomcondutor.pt/questao/2658",
+      "pergunta": "Nesta situação posso ultrapassar o automóvel de cor preta?",
+      "imagem": "2658.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2658.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não posso, porque a ultrapassagem faz-se pelo lado esquerdo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não posso.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Posso pela direita porque a via está livre.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2659",
+      "url": "https://www.bomcondutor.pt/questao/2659",
+      "pergunta": "Nesta situação posso ultrapassar?",
+      "imagem": "2659.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2659.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2660",
+      "url": "https://www.bomcondutor.pt/questao/2660",
+      "pergunta": "Nesta situação posso ultrapassar?",
+      "imagem": "2660.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2660.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2661",
+      "url": "https://www.bomcondutor.pt/questao/2661",
+      "pergunta": "Nesta situação posso ultrapassar?",
+      "imagem": "2661.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2661.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que não transponha a guia.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2662",
+      "url": "https://www.bomcondutor.pt/questao/2662",
+      "pergunta": "Nesta situação se pretender ultrapassar com segurança, devo:",
+      "imagem": "2662.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2662.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fazer sinais de luzes e iniciar de imediato a manobra.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Iniciar de imediato a manobra.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Verificar pelos espelhos retrovisores se outro condutor já iniciou a manobra.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2663",
+      "url": "https://www.bomcondutor.pt/questao/2663",
+      "pergunta": "Nesta situação se pretender ultrapassar o veículo da frente devo ter especial atenção:",
+      "imagem": "2663.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2663.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "À largura da via.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "À presença de peões na berma esquerda e esperar por melhor local para efectuar a manobra.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "À velocidade a que circula o veículo da frente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2664",
+      "url": "https://www.bomcondutor.pt/questao/2664",
+      "pergunta": "Nesta situação, a ultrapassagem pela direita é permitida?",
+      "imagem": "2664.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2664.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, nunca é permitido ultrapassar nas intersecções.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, independentemente do trajecto a seguir pelo condutor de tracção animal.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se o condutor do veículo de tracção animal mudar de direcção à esquerda.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2665",
+      "url": "https://www.bomcondutor.pt/questao/2665",
+      "pergunta": "Nesta situação, circulo na via de trânsito correcta se for a ultrapassar.",
+      "imagem": "2665.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2665.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2666",
+      "url": "https://www.bomcondutor.pt/questao/2666",
+      "pergunta": "Nesta situação, devo aumentar a velocidade?",
+      "imagem": "2666.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2666.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2667",
+      "url": "https://www.bomcondutor.pt/questao/2667",
+      "pergunta": "Nesta situação, devo ultrapassar o condutor do velocípede.",
+      "imagem": "2667.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2667.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2668",
+      "url": "https://www.bomcondutor.pt/questao/2668",
+      "pergunta": "Nesta situação, devo:",
+      "imagem": "2668.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2668.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Buzinar e passar perto do velocípede.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Reduzir a velocidade e descrever a curva sem ultrapassar.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Ultrapassar o velocípede com grande distância lateral.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2669",
+      "url": "https://www.bomcondutor.pt/questao/2669",
+      "pergunta": "Nesta situação, devo:",
+      "imagem": "2669.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2669.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Reduzir a velocidade e parar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ultrapassar o condutor do velocípede.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar os sinais sonoros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2670",
+      "url": "https://www.bomcondutor.pt/questao/2670",
+      "pergunta": "Nesta situação, posso ultrapassar em segurança?",
+      "imagem": "2670.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2670.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2671",
+      "url": "https://www.bomcondutor.pt/questao/2671",
+      "pergunta": "Nesta situação, posso ultrapassar em segurança?",
+      "imagem": "2671.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2671.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2672",
+      "url": "https://www.bomcondutor.pt/questao/2672",
+      "pergunta": "Nesta situação, posso ultrapassar?",
+      "imagem": "2672.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2672.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2673",
+      "url": "https://www.bomcondutor.pt/questao/2673",
+      "pergunta": "Nesta situação, pretendo seguir em frente. Posso ultrapassar o autocarro pela direita?",
+      "imagem": "2673.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2673.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2674",
+      "url": "https://www.bomcondutor.pt/questao/2674",
+      "pergunta": "Nesta situação, se pretender ultrapassar o veículo da frente, devo efectuar a manobra pelo lado direito?",
+      "imagem": "2674.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2674.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, se puder passar na parte mais à direita da faixa de rodagem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2675",
+      "url": "https://www.bomcondutor.pt/questao/2675",
+      "pergunta": "Nesta situação, se pretender ultrapassar o veículo que circula à minha frente devo:",
+      "imagem": "2675.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2675.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certificar-me que posso retomar a direita sem perigo para aqueles que aí transitam.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Efectuar a manobra pelo lado direito da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Manter uma distância de segurança em relação ao veículo da frente não inferior a 50 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2676",
+      "url": "https://www.bomcondutor.pt/questao/2676",
+      "pergunta": "Neste local a ultrapassagem é permitida?",
+      "imagem": "2676.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2676.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque me aproximo duma curva e a visibilidade é reduzida.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, porque me aproximo duma curva.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque existem no mesmo sentido duas vias de trânsito.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2677",
+      "url": "https://www.bomcondutor.pt/questao/2677",
+      "pergunta": "Neste local é proibida a ultrapassagem.",
+      "imagem": "2677.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2677.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2678",
+      "url": "https://www.bomcondutor.pt/questao/2678",
+      "pergunta": "Neste local é proibido ultrapassar.",
+      "imagem": "2678.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2678.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2679",
+      "url": "https://www.bomcondutor.pt/questao/2679",
+      "pergunta": "Neste local não é permitido ultrapassar:",
+      "imagem": "2679.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2679.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Porque circulo fora de uma localidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Porque é proibido ultrapassar em todas as curvas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Porque tenho de transpor a linha contínua.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2680",
+      "url": "https://www.bomcondutor.pt/questao/2680",
+      "pergunta": "Neste local não posso ultrapassar um automóvel.",
+      "imagem": "2680.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2680.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2681",
+      "url": "https://www.bomcondutor.pt/questao/2681",
+      "pergunta": "Neste local posso ultrapassar?",
+      "imagem": "2681.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2681.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que avise o outro condutor.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que realize a manobra com precaução.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2682",
+      "url": "https://www.bomcondutor.pt/questao/2682",
+      "pergunta": "Neste local posso ultrapassar?",
+      "imagem": "2682.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2682.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2683",
+      "url": "https://www.bomcondutor.pt/questao/2683",
+      "pergunta": "Neste local posso ultrapassar?",
+      "imagem": "2683.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2683.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque é proibido ultrapassar em todas as curvas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, caso possa realizar a manobra em segurança.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2684",
+      "url": "https://www.bomcondutor.pt/questao/2684",
+      "pergunta": "Neste local, é proibido ultrapassar?",
+      "imagem": "2684.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2684.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, apesar de nesta situação não o dever fazer.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, a marca rodoviária proíbe-me de efectuar a manobra.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque a visibilidade não é suficiente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2685",
+      "url": "https://www.bomcondutor.pt/questao/2685",
+      "pergunta": "Neste local, estou proibido de ultrapassar o velocípede.",
+      "imagem": "2685.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2685.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2686",
+      "url": "https://www.bomcondutor.pt/questao/2686",
+      "pergunta": "Neste local, posso ultrapassar o veículo que circula à minha frente?",
+      "imagem": "2686.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2686.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, uma vez que a via se encontra sinalizada com duas linhas contínuas adjacentes.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, a sinalização vertical permite-me efectuar a manobra de ultrapassagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, uma vez que não circula nenhum veículo em sentido contrário e a via se encontra sinalizada com linhas de sentido reversível.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2687",
+      "url": "https://www.bomcondutor.pt/questao/2687",
+      "pergunta": "Neste momento posso iniciar a manobra de ultrapassagem?",
+      "imagem": "2687.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2687.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque o veículo vermelho está a ultrapassar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não, porque para ultrapassar não posso utilizar a metade da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que o faça de imediato e utilize os sinais sonoros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2688",
+      "url": "https://www.bomcondutor.pt/questao/2688",
+      "pergunta": "Neste momento pretendo ultrapassar o veículo que circula à minha frente. Devo:",
+      "imagem": "2688.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2688.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aguardar por um momento adequado.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Iniciar a manobra, desde que sinalize a minha intenção.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar os sinais sonoros para que todos se apercebam da minha intenção e me cedam a passagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2689",
+      "url": "https://www.bomcondutor.pt/questao/2689",
+      "pergunta": "No local em que me encontro devo iniciar a manobra de ultrapassagem?",
+      "imagem": "2689.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2689.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a manobra de ultrapassagem é proibida nos locais de visibilidade reduzida.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que avise o condutor da minha intenção.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que sinalize convenientemente a manobra.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2690",
+      "url": "https://www.bomcondutor.pt/questao/2690",
+      "pergunta": "No local exacto em que me encontro posso iniciar a ultrapassagem?",
+      "imagem": "2690.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2690.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sim.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que não pise ou transponha a linha contínua.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2691",
+      "url": "https://www.bomcondutor.pt/questao/2691",
+      "pergunta": "No túnel é sempre proibido ultrapassar.",
+      "imagem": "2691.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2691.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2692",
+      "url": "https://www.bomcondutor.pt/questao/2692",
+      "pergunta": "O Código da Estrada obriga-me a desviar o mais possível para a direita enquanto estou a ser ultrapassado?",
+      "imagem": "2692.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2692.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, desde que mantenha a velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, salvo se a faixa de rodagem for estreita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, mas apenas quando estou a ser ultrapassado por um veículo pesado.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "D"
+    },
+    {
+      "numero": "2693",
+      "url": "https://www.bomcondutor.pt/questao/2693",
+      "pergunta": "O condutor do veículo de tracção animal muda de direcção à esquerda. Posso ultrapassar?",
+      "imagem": "2693.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2693.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não posso ultrapassar, porque me encontro num entroncamento.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Posso ultrapassar pela direita, se pretender seguir em frente.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, posso ultrapassar pelo lado esquerdo, porque conduzo um veículo mais rápido.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2694",
+      "url": "https://www.bomcondutor.pt/questao/2694",
+      "pergunta": "O condutor do veículo que circula à minha frente pode realizar a manobra de ultrapassagem neste local?",
+      "imagem": "2694.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2694.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque neste local a manobra é proibida.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque não existe qualquer sinalização que proíba a manobra.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque tomou as precauções necessárias à realização da manobra em segurança.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2695",
+      "url": "https://www.bomcondutor.pt/questao/2695",
+      "pergunta": "O condutor do veículo que circula à minha frente pode realizar a manobra de ultrapassagem?",
+      "imagem": "2695.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2695.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque a ultrapassagem é proibida no local em que se encontra.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, dado que sinaliza correctamente a sua intenção.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, uma vez que não há trânsito em sentido contrário.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2696",
+      "url": "https://www.bomcondutor.pt/questao/2696",
+      "pergunta": "O condutor do veículo que circula na via esquerda comete uma infracção?",
+      "imagem": "2696.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2696.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque iniciou a manobra antes da linha contínua.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, porque iniciou a manobra antes do sinal vertical.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2697",
+      "url": "https://www.bomcondutor.pt/questao/2697",
+      "pergunta": "O condutor do veículo vermelho, procede correctamente?",
+      "imagem": "2697.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2697.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque está outro veículo a ultrapassar o veículo pesado.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não, porque transita atrás de um veículo pesado.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque a sua intenção é ultrapassar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2698",
+      "url": "https://www.bomcondutor.pt/questao/2698",
+      "pergunta": "O condutor que está a ultrapassar, executa correctamente os procedimentos necessários para efectuar a manobra em segurança?",
+      "imagem": "2698.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2698.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2699",
+      "url": "https://www.bomcondutor.pt/questao/2699",
+      "pergunta": "O que deve fazer o condutor do veículo que circula imediatamente à minha frente?",
+      "imagem": "2699.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2699.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentar a distância de segurança.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar a velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Parar para permitir que o condutor do veículo branco termine a manobra.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2700",
+      "url": "https://www.bomcondutor.pt/questao/2700",
+      "pergunta": "O que devo fazer nesta situação?",
+      "imagem": "2700.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2700.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Manter uma distância de segurança do veículo da frente que me permita executar qualquer manobra em segurança.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ultrapassar, independentemente da velocidade do veículo branco.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ultrapassar, independentemente da visibilidade do local.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2701",
+      "url": "https://www.bomcondutor.pt/questao/2701",
+      "pergunta": "O que devo fazer nesta situação?",
+      "imagem": "2701.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2701.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Iniciar de imediato a manobra de ultrapassagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Reduzir a velocidade para aumentar a distância de segurança.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar os sinais sonoros, alertando assim o condutor do veículo vermelho para a manobra que executa.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2702",
+      "url": "https://www.bomcondutor.pt/questao/2702",
+      "pergunta": "O que devo fazer nesta situação?",
+      "imagem": "2702.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2702.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aguardar que não transitem veículos em sentido contrário, para efectuar a ultrapassagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Iniciar rapidamente a manobra de ultrapassagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar os sinais luminosos, para que o condutor que transita em sentido contrário, se aperceba da minha presença.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2703",
+      "url": "https://www.bomcondutor.pt/questao/2703",
+      "pergunta": "O que devo fazer nesta situação?",
+      "imagem": "2703.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2703.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ligar o indicador de mudança de direcção e iniciar a manobra de ultrapassagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Reduzir a velocidade para aumentar a distância de segurança.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar o sinal sonoro, alertando o condutor do veículo branco para o facto de estar a cometer uma infracção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2704",
+      "url": "https://www.bomcondutor.pt/questao/2704",
+      "pergunta": "O sinal de mudança de direcção para a esquerda, do veículo que segue à frente, pode indicar-me:",
+      "imagem": "2704.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2704.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Diminuição de velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Início de manobra de marcha atrás.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Início de uma ultrapassagem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2705",
+      "url": "https://www.bomcondutor.pt/questao/2705",
+      "pergunta": "O sinal vertical, não proíbe a ultrapassagem aos condutores de:",
+      "imagem": "2705.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2705.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros de mercadorias.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Automóveis pesados de mercadorias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Automóveis pesados de passageiros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2706",
+      "url": "https://www.bomcondutor.pt/questao/2706",
+      "pergunta": "O veículo de mercadorias que segue à minha frente pode ser ultrapassado pela direita?",
+      "imagem": "2706.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2706.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não pode, mesmo existindo espaço lateral.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim pode, pois existe espaço lateral.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2707",
+      "url": "https://www.bomcondutor.pt/questao/2707",
+      "pergunta": "O veículo que segue à frente leva o 'pisca' ligado para:",
+      "imagem": "2707.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2707.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentar a velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Iniciar uma ultrapassagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Passar um cruzamento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2708",
+      "url": "https://www.bomcondutor.pt/questao/2708",
+      "pergunta": "Onde estou proibido de realizar a manobra de ultrapassagem?",
+      "imagem": "2708.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2708.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas antes da passagem assinalada para a travessia de peões.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas na passagem assinalada para a travessia de peões.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Imediatamente antes e na passagem assinalada para a travessia de peões.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2709",
+      "url": "https://www.bomcondutor.pt/questao/2709",
+      "pergunta": "Para contornar o veículo e o peão em segurança, o que devo fazer?",
+      "imagem": "2709.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2709.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Devo aumentar a velocidade mantendo uma pequena distância lateral.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Devo buzinar, manter a velocidade e continuar a marcha.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Devo estar especialmente atento a qualquer reacção imprevisível por parte do peão.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2710",
+      "url": "https://www.bomcondutor.pt/questao/2710",
+      "pergunta": "Perante este sinal posso ultrapassar?",
+      "imagem": "2710.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2710.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2711",
+      "url": "https://www.bomcondutor.pt/questao/2711",
+      "pergunta": "Perante este sinal, podem realizar a manobra de ultrapassagem:",
+      "imagem": "2711.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2711.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Os motociclos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Só os automóveis pesados.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os veículos, excepto os motociclos e ciclomotores.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2712",
+      "url": "https://www.bomcondutor.pt/questao/2712",
+      "pergunta": "Perante o sinal de informação fico a saber que:",
+      "imagem": "2712.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2712.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "É permitida a paragem, mas não o estacionamento de automóveis.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "É permitido o estacionamento a todos os veículos.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Só é permitido o estacionamento de autocarros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2713",
+      "url": "https://www.bomcondutor.pt/questao/2713",
+      "pergunta": "Perante o sinal vertical só os automóveis pesados de mercadorias estão proibidos de ultrapassar.",
+      "imagem": "2713.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2713.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2714",
+      "url": "https://www.bomcondutor.pt/questao/2714",
+      "pergunta": "Perante o sinal, não posso:",
+      "imagem": "2714.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2714.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Parar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Transitar.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Ultrapassar.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "D"
+    },
+    {
+      "numero": "2715",
+      "url": "https://www.bomcondutor.pt/questao/2715",
+      "pergunta": "Posso iniciar a manobra de ultrapassagem do veículo que circula à minha frente?",
+      "imagem": "2715.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2715.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, devo aguardar que o veículo que está a ultrapassar termine a manobra para que eu possa realizar a manobra em segurança.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, a manobra é permitida.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2716",
+      "url": "https://www.bomcondutor.pt/questao/2716",
+      "pergunta": "Posso iniciar a manobra de ultrapassagem se o condutor do veículo que circula à minha frente assinalar a sua intenção de ultrapassar um terceiro veículo?",
+      "imagem": "2716.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2716.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, estou proibido de iniciar a manobra.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que ainda não tenha dado início à manobra de ultrapassagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, posso iniciar mas não concluir a manobra de ultrapassagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2717",
+      "url": "https://www.bomcondutor.pt/questao/2717",
+      "pergunta": "Posso realizar a manobra de ultrapassagem neste local?",
+      "imagem": "2717.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2717.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a manobra é proibida.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, a manobra é permitida.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, mas apenas para veículos ligeiros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2718",
+      "url": "https://www.bomcondutor.pt/questao/2718",
+      "pergunta": "Posso seguir sempre nesta via de trânsito?",
+      "imagem": "2718.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2718.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, apenas pelo tempo necessário para ultrapassar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, se for a velocidade elevada.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2719",
+      "url": "https://www.bomcondutor.pt/questao/2719",
+      "pergunta": "Posso ser ultrapassado no local em que me encontro?",
+      "imagem": "2719.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2719.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, em circunstância alguma.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que não haja peões que pretendam atravessar a faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que sejam tomadas as devidas precauções.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2720",
+      "url": "https://www.bomcondutor.pt/questao/2720",
+      "pergunta": "Posso transitar na via de trânsito em que me encontro?",
+      "imagem": "2720.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2720.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sim, para inverter o sentido de marcha.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque existem duas vias em cada sentido, podendo transitar em qualquer uma.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se estiver a ultrapassar.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2721",
+      "url": "https://www.bomcondutor.pt/questao/2721",
+      "pergunta": "Posso ultrapassar neste local, utilizando a via de trânsito de sentido contrário?",
+      "imagem": "2721.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2721.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, pois a sinalização não mo permite.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que não circulem veículos em sentido contrário.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque o sinal vertical não proibe a manobra.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2722",
+      "url": "https://www.bomcondutor.pt/questao/2722",
+      "pergunta": "Posso ultrapassar neste local?",
+      "imagem": "2722.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2722.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que não aumente a velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que ocupe apenas uma faixa de rodagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2723",
+      "url": "https://www.bomcondutor.pt/questao/2723",
+      "pergunta": "Posso ultrapassar o condutor da frente?",
+      "imagem": "2723.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2723.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, uma vez que circulam veículos em sentido contrário.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim posso, devendo sinalizar correctamente a manobra.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que realize a manobra pela direita.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2724",
+      "url": "https://www.bomcondutor.pt/questao/2724",
+      "pergunta": "Posso ultrapassar o veículo da frente?",
+      "imagem": "2724.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2724.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, é proibido ultrapassar neste local.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, pois o veículo da frente manifesta a mesma intenção.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que sinalize correctamente a manobra.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2725",
+      "url": "https://www.bomcondutor.pt/questao/2725",
+      "pergunta": "Posso ultrapassar o veículo que circula à minha frente?",
+      "imagem": "2725.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2725.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, devo aguardar que termine a manobra.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, a manobra é permitida.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2726",
+      "url": "https://www.bomcondutor.pt/questao/2726",
+      "pergunta": "Posso ultrapassar o veículo que circula à minha frente?",
+      "imagem": "2726.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2726.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a ultrapassagem efectua-se sempre pela esquerda e o veículo vai mudar de direcção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, devo sinalizar a manobra e efectuar a ultrapassagem pelo lado direito, desde que tenha espaço dentro da faixa de rodagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, nesta situação posso efectuar a manobra pelo lado direito ou esquerdo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2727",
+      "url": "https://www.bomcondutor.pt/questao/2727",
+      "pergunta": "Posso ultrapassar pela direita o veículo de mercadorias?",
+      "imagem": "2727.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2727.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a ultrapassagem pela direita é proibida.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, posso.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2728",
+      "url": "https://www.bomcondutor.pt/questao/2728",
+      "pergunta": "Posso ultrapassar um veículo que esteja a ultrapassar um terceiro?",
+      "imagem": "2728.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2728.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2729",
+      "url": "https://www.bomcondutor.pt/questao/2729",
+      "pergunta": "Posso ultrapassar, nesta situação?",
+      "imagem": "2729.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2729.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque a visibilidade é insuficiente e me aproximo de uma curva.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não, porque circulo fora duma localidade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que o outro condutor pare, para me facilitar a manobra.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2730",
+      "url": "https://www.bomcondutor.pt/questao/2730",
+      "pergunta": "Posso ultrapassar, pela direita, o motociclo que circula a 60 Km/h?",
+      "imagem": "2730.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2730.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque é proibido.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que sinalize devidamente a manobra.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque existem duas filas de trânsito no mesmo sentido.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2731",
+      "url": "https://www.bomcondutor.pt/questao/2731",
+      "pergunta": "Posso ultrapassar?",
+      "imagem": "2731.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2731.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, não posso.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que o veículo da frente não pretenda mudar de direcção.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que sinalize a manobra.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2732",
+      "url": "https://www.bomcondutor.pt/questao/2732",
+      "pergunta": "Posso ultrapassar?",
+      "imagem": "2732.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2732.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sim, porque existem duas vias de trânsito no mesmo sentido.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque o local tem dois sentidos de trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque o local tem pouca intensidade de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2733",
+      "url": "https://www.bomcondutor.pt/questao/2733",
+      "pergunta": "Pretendo seguir em frente e o condutor do veículo de tracção animal vai mudar de direcção à esquerda. O que devo fazer?",
+      "imagem": "2733.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2733.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Devo aguardar que o outro condutor termine a manobra, porque não posso ultrapassar pela direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Devo ultrapassar o outro condutor pela direita, porque tenho espaço livre.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Devo utilizar os sinais sonoros, para que o outro condutor se aperceba da minha presença e aumente a velocidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2734",
+      "url": "https://www.bomcondutor.pt/questao/2734",
+      "pergunta": "Pretendo ultrapassar o veículo que segue à minha frente. Devo:",
+      "imagem": "2734.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2734.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aguardar que o condutor da frente realize a manobra.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar a velocidade e realizar a manobra de imediato.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar os sinais sonoros, para advertir o condutor da frente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2735",
+      "url": "https://www.bomcondutor.pt/questao/2735",
+      "pergunta": "Pretendo ultrapassar. Posso fazê-lo?",
+      "imagem": "2735.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2735.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque a sinalização existente no local proíbe-me.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que o faça pela direita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que o faça pela esquerda e não circulem veículos em sentido contrário.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2736",
+      "url": "https://www.bomcondutor.pt/questao/2736",
+      "pergunta": "Qual deve ser o comportamento do veículo que está a ser ultrapassado?",
+      "imagem": "2736.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2736.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Diminuir a velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Manter a velocidade.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Parar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2737",
+      "url": "https://www.bomcondutor.pt/questao/2737",
+      "pergunta": "Que sinal devo fazer ao iniciar a ultrapassagem do veículo pesado que circula à minha frente?",
+      "imagem": "2737.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2737.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sinal de luzes.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sinal de mudança de direcção à direita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sinal de mudança de direcção à esquerda.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2738",
+      "url": "https://www.bomcondutor.pt/questao/2738",
+      "pergunta": "Regra geral a ultrapassagem deve efectuar-se pelo lado esquerdo. Concorda?",
+      "imagem": "2738.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2738.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, salvo se existir mais de uma via de trânsito no mesmo sentido.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2739",
+      "url": "https://www.bomcondutor.pt/questao/2739",
+      "pergunta": "Se a minha intenção for ultrapassar, o que devo fazer?",
+      "imagem": "2739.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2739.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aguardar por momento adequado.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Fazer uso do sinal sonoro para apressar o condutor.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Iniciar a manobra rapidamente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2740",
+      "url": "https://www.bomcondutor.pt/questao/2740",
+      "pergunta": "Se pretender ultrapassar este veículo, devo certificar-me se posso realizar a manobra sem perigo de embater nos veículos que circulam no mesmo sentido?",
+      "imagem": "2740.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2740.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, devo apenas certificar-me da possibilidade de realizar a manobra sem perigo de colisão com os veículos que circulam em sentido contrário.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, o Código da Estrada não estabelece qualquer obrigação.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, é uma das regras que devo cumprir antes de iniciar a manobra, mas devo também assegurar-me que não existe perigo de colidir com os veículos que circulam em sentido contrário.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2741",
+      "url": "https://www.bomcondutor.pt/questao/2741",
+      "pergunta": "Se pretender ultrapassar o veículo que circula à minha frente, como devo efectuar a manobra?",
+      "imagem": "2741.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2741.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Pelo lado direito.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Pelo lado esquerdo.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Posso ultrapassar pelo lado direito ou esquerdo, desde que sinalize a manobra.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2742",
+      "url": "https://www.bomcondutor.pt/questao/2742",
+      "pergunta": "Se pretender ultrapassar o veículo que circula à minha frente, estou obrigado a certificar-me que posso realizar a manobra sem perigo de embater nos veículos que circulam em sentido contrário?",
+      "imagem": "2742.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2742.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, mas devo certificar-me de que não há perigo na realização da manobra.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, é uma das regras que devo cumprir antes de iniciar a manobra de ultrapassagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, mas apenas quando efectuo a manobra de ultrapassagem pelo lado direito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2743",
+      "url": "https://www.bomcondutor.pt/questao/2743",
+      "pergunta": "Sempre que à minha frente circula um veículo de marcha lenta, a manobra de ultrapassagem é permitida.",
+      "imagem": "2743.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2743.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    }
+  ]
+}

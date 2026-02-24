@@ -1,0 +1,4942 @@
+{
+  "tema": "Paragem, estacionamento e cruzamento de veículos",
+  "slug": "paragem-estacionamento-cruzamento-veiculos",
+  "total": 205,
+  "questoes": [
+    {
+      "numero": "2744",
+      "url": "https://www.bomcondutor.pt/questao/2744",
+      "pergunta": "A distância mínima permitida para parar ou estacionar para trás da paragem de eléctricos é de:",
+      "imagem": "2744.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2744.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "3 metros",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "5 metros",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "6 metros",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2745",
+      "url": "https://www.bomcondutor.pt/questao/2745",
+      "pergunta": "A manobra do veículo à minha frente deve ser realizada:",
+      "imagem": "2745.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2745.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Lentamente e no menor trajecto possível.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "No tempo que o condutor quiser.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Rapidamente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2746",
+      "url": "https://www.bomcondutor.pt/questao/2746",
+      "pergunta": "A paragem do veículo de transporte público:",
+      "imagem": "2746.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2746.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Deve ser feita nos locais sinalizados para o efeito.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "É proibida dentro das localidades.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pode ser feita em qualquer local, desde que por breves instantes.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2747",
+      "url": "https://www.bomcondutor.pt/questao/2747",
+      "pergunta": "A paragem e o estacionamento são proibidos nesta localidade?",
+      "imagem": "2747.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2747.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a manobra é permitida.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, a menos de 10 metros antes do entroncamento.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, a menos de 5 metros para um e outro lado do entroncamento.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2748",
+      "url": "https://www.bomcondutor.pt/questao/2748",
+      "pergunta": "A paragem na auto-estrada é sempre considerada uma contra-ordenação muito grave?",
+      "imagem": "2748.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2748.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2749",
+      "url": "https://www.bomcondutor.pt/questao/2749",
+      "pergunta": "A que distância é proibido parar ou estacionar do sinal indicativo da paragem de veículos de transporte colectivo de passageiros?",
+      "imagem": "2749.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2749.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A menos de 25 metros para a frente e 5 metros para trás.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A menos de 5 metros para a frente e 25 metros para trás.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2750",
+      "url": "https://www.bomcondutor.pt/questao/2750",
+      "pergunta": "A que distância mínima deste cruzamento posso parar ou estacionar?",
+      "imagem": "2750.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2750.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "20 metros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "30 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "40 metros.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "50 metros.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "D"
+    },
+    {
+      "numero": "2751",
+      "url": "https://www.bomcondutor.pt/questao/2751",
+      "pergunta": "A que distância mínima posso estacionar para trás deste sinal?",
+      "imagem": "2751.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2751.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "25 metros",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "6 metros.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "8 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2752",
+      "url": "https://www.bomcondutor.pt/questao/2752",
+      "pergunta": "A que distância posso parar para trás do sinal?",
+      "imagem": "2752.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2752.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "10 metros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "15 metros",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "25 metros",
+          "correta": true
+        },
+        {
+          "letra": "D",
+          "texto": "7 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2753",
+      "url": "https://www.bomcondutor.pt/questao/2753",
+      "pergunta": "A que distância posso parar para trás do sinal?",
+      "imagem": "2753.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2753.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "10 metros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "15 metros",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "25 metros",
+          "correta": true
+        },
+        {
+          "letra": "D",
+          "texto": "8 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2754",
+      "url": "https://www.bomcondutor.pt/questao/2754",
+      "pergunta": "Antes de uma curva de visibilidade reduzida é proibido parar:",
+      "imagem": "2754.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2754.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A 30 metros da mesma.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A 60 metros da mesma.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A 80 metros da mesma.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2755",
+      "url": "https://www.bomcondutor.pt/questao/2755",
+      "pergunta": "Ao circular fora de uma localidade devo saber que o estacionamento:",
+      "imagem": "2755.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2755.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Deve fazer-se fora da faixa de rodagem ou, não sendo possível, o mais próximo possível da berma.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Deve fazer-se fora da faixa de rodagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Deve fazer-se na faixa de rodagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2756",
+      "url": "https://www.bomcondutor.pt/questao/2756",
+      "pergunta": "Ao circular fora de uma localidade devo saber que:",
+      "imagem": "2756.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2756.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não posso estacionar a menos de 150 metros de uma curva.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não posso estacionar a menos de 50 metros de uma curva.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Posso estacionar a menos de 25 metros de um curva.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2757",
+      "url": "https://www.bomcondutor.pt/questao/2757",
+      "pergunta": "Ao estacionar neste local, irei impedir a formação de uma fila. Posso estacionar?",
+      "imagem": "2757.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2757.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, mas apenas se não deixar ligadas as luzes de perigo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que por pouco tempo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2758",
+      "url": "https://www.bomcondutor.pt/questao/2758",
+      "pergunta": "Caso o condutor do veículo estacionado em cima do passeio não seja identificado, quem será responsabilizado por esta infracção?",
+      "imagem": "2758.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2758.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas o condutor pode ser responsabilizado.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguém será responsabilizado, caso não se identifique o condutor.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O proprietário.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2759",
+      "url": "https://www.bomcondutor.pt/questao/2759",
+      "pergunta": "Circulo correctamente para estacionar o meu veículo do lado esquerdo da faixa de rodagem.",
+      "imagem": "2759.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2759.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2760",
+      "url": "https://www.bomcondutor.pt/questao/2760",
+      "pergunta": "Cometo uma contra-ordenação se parar neste local?",
+      "imagem": "2760.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2760.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sim, grave, se parar na faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, leve, se parar na berma.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, muito grave, se parar na faixa de rodagem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2761",
+      "url": "https://www.bomcondutor.pt/questao/2761",
+      "pergunta": "Conduzo um veículo ligeiro com reboque. Quem deve recuar, considerando que nos encontramos a distância idêntica do local onde o cruzamento é possível?",
+      "imagem": "2761.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2761.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Eu, porque vou a subir.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O outro condutor porque vem a descer.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O outro condutor, porque conduz um veículo de igual categoria, sem reboque.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2762",
+      "url": "https://www.bomcondutor.pt/questao/2762",
+      "pergunta": "Considera-se abusivo o estacionamento deste reboque em parque que não lhe é destinado exclusivamente?",
+      "imagem": "2762.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2762.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas se estiver neste local mais de 30 dias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se estiver neste local mais de 72 horas.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2763",
+      "url": "https://www.bomcondutor.pt/questao/2763",
+      "pergunta": "Considera-se estacionamento a imobilização do veículo:",
+      "imagem": "2763.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2763.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Para cargas e descargas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Por tempo superior a 10 minutos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sempre que o condutor não esteja pronto a retomar a marcha assim que necessário.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2764",
+      "url": "https://www.bomcondutor.pt/questao/2764",
+      "pergunta": "Considera-se estacionamento abusivo quando para além do período de tempo permitido, o veículo permanecer em local de estacionamento limitado por:",
+      "imagem": "2764.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2764.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "1 hora.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "2 horas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "30 minutos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2765",
+      "url": "https://www.bomcondutor.pt/questao/2765",
+      "pergunta": "Considera-se estacionamento abusivo, a permanência deste veículo, no mesmo espaço, por um período de:",
+      "imagem": "2765.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2765.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "10 dias.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "20 dias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "40 dias.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2766",
+      "url": "https://www.bomcondutor.pt/questao/2766",
+      "pergunta": "Considera-se estacionamento abusivo, o estacionamento de um veículo que apresente sinais evidentes de abandono por tempo superior a:",
+      "imagem": "2766.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2766.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "10 horas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "2 horas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "48 horas.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2767",
+      "url": "https://www.bomcondutor.pt/questao/2767",
+      "pergunta": "Considera-se estacionamento abusivo:",
+      "imagem": "2767.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2767.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O de veículo durante 20 dias no mesmo local.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O de veículo em zona de estacionamento condicionado ao pagamento de taxa.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O estacionamento em parque, quando as taxas correspondentes a 5 dias, não tiverem sido pagas.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2768",
+      "url": "https://www.bomcondutor.pt/questao/2768",
+      "pergunta": "Considera-se que o veículo em cima do passeio:",
+      "imagem": "2768.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2768.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Constitui grave perturbação para o trânsito de peões.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não constitui qualquer perturbação e como tal está bem estacionado.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Se não estiver neste local para além de duas horas, não constitui perturbação.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2769",
+      "url": "https://www.bomcondutor.pt/questao/2769",
+      "pergunta": "Considera-se que os veículos imobilizados em segunda fila estão estacionados:",
+      "imagem": "2769.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2769.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Correctamente, porque as luzes de perigo estão ligadas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Correctamente, porque há espaço suficiente na faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Indevidamente.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2770",
+      "url": "https://www.bomcondutor.pt/questao/2770",
+      "pergunta": "Dada a ausência de berma no local em que me encontro, posso parar mais à frente na rotunda para largar um passageiro?",
+      "imagem": "2770.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2770.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a paragem é proibida nas rotundas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que a paragem seja rápida e sinalizada com as luzes de perigo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que assinale convenientemente a minha intenção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2771",
+      "url": "https://www.bomcondutor.pt/questao/2771",
+      "pergunta": "Dentro das localidades é proibido estacionar:",
+      "imagem": "2771.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2771.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A mais de 5 metros antes das passagens assinaladas para a travessia de peões.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Nas curvas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Nos locais de visibilidade insuficiente.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2772",
+      "url": "https://www.bomcondutor.pt/questao/2772",
+      "pergunta": "Dentro das localidades é proibido estacionar:",
+      "imagem": "2772.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2772.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A mais de 10 metros das passagens assinaladas para a travessia de peões.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "De modo a provocar embaraço para os restantes utentes.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Nos locais destinados a esse fim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2773",
+      "url": "https://www.bomcondutor.pt/questao/2773",
+      "pergunta": "Dentro das localidades o estacionamento deve ser feito:",
+      "imagem": "2773.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2773.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Na berma.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Na faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Nos locais a esse fim destinados.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2774",
+      "url": "https://www.bomcondutor.pt/questao/2774",
+      "pergunta": "Devo saber que é proibido parar ou estacionar a menos de:",
+      "imagem": "2774.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2774.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "20 metros antes dos sinais luminosos se a altura dos veículos, incluindo a respectiva carga, os encobrir.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "20 metros para a frente e para trás dos sinais luminosos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "50 metros antes dos sinais luminosos se a altura dos veículos, incluindo a respectiva carga, os encobrir.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2775",
+      "url": "https://www.bomcondutor.pt/questao/2775",
+      "pergunta": "Devo saber que é proibido parar ou estacionar:",
+      "imagem": "2775.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2775.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A menos de 5 metros antes e nas passagens assinaladas para a travessia de peões ou de velocípedes.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A menos de 5 metros depois das passagens assinaladas para a travessia de peões ou de velocípedes.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A menos de 5 metros para um e outro lado das passagens assinaladas para a travessia de peões.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2776",
+      "url": "https://www.bomcondutor.pt/questao/2776",
+      "pergunta": "É permitido o estacionamento na faixa de rodagem.",
+      "imagem": "2776.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2776.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2777",
+      "url": "https://www.bomcondutor.pt/questao/2777",
+      "pergunta": "É permitido parar ou estacionar na berma da via em que circulo?",
+      "imagem": "2777.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2777.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a paragem e o estacionamento são proibidos porque circulo numa auto-estrada.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não, apenas a paragem é permitida porque circulo num itinerário complementar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, a paragem e o estacionamento são permitidos porque circulo numa estrada nacional.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2778",
+      "url": "https://www.bomcondutor.pt/questao/2778",
+      "pergunta": "É proibido estacionar a menos de:",
+      "imagem": "2778.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2778.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "15 metros antes da passagem de peões.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "5 metros antes da passagem de peões.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "8 metros antes da passagem de peões.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2779",
+      "url": "https://www.bomcondutor.pt/questao/2779",
+      "pergunta": "É proibido estacionar de forma a provocar embaraço para o trânsito?",
+      "imagem": "2779.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2779.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, se a intensidade de trânsito for reduzida.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas dentro das localidades.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, sempre.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2780",
+      "url": "https://www.bomcondutor.pt/questao/2780",
+      "pergunta": "É proibido estacionar em segunda fila?",
+      "imagem": "2780.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2780.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas se impedir a formação de uma fila de trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2781",
+      "url": "https://www.bomcondutor.pt/questao/2781",
+      "pergunta": "É proibido estacionar na faixa de rodagem?",
+      "imagem": "2781.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2781.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sim, em qualquer situação dentro das localidades.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, fora das localidades",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2782",
+      "url": "https://www.bomcondutor.pt/questao/2782",
+      "pergunta": "É proibido estacionar nas curvas?",
+      "imagem": "2782.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2782.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sim, em todas as curvas fora das localidades.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, em todas as curvas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, nas curvas de visibilidade reduzida.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2783",
+      "url": "https://www.bomcondutor.pt/questao/2783",
+      "pergunta": "É proibido estacionar:",
+      "imagem": "2783.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2783.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Em todas as curvas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Em todas as localidades.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Em todos os locais de visibilidade reduzida.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2784",
+      "url": "https://www.bomcondutor.pt/questao/2784",
+      "pergunta": "É proibido parar neste local.",
+      "imagem": "2784.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2784.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2785",
+      "url": "https://www.bomcondutor.pt/questao/2785",
+      "pergunta": "Em caso de necessidade disponho de um telefone de emergência a 300 metros.",
+      "imagem": "2785.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2785.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2786",
+      "url": "https://www.bomcondutor.pt/questao/2786",
+      "pergunta": "Em todos os locais em que existam parquímetros, o estacionamento é autorizado independentemente do pagamento de taxas de utilização.",
+      "imagem": "2786.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2786.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2787",
+      "url": "https://www.bomcondutor.pt/questao/2787",
+      "pergunta": "Encontramo-nos a distância idêntica do local em que o cruzamento é possível para que a manobra seja possível, devo:",
+      "imagem": "2787.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2787.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aguardar que o outro condutor recue, pois vou a subir.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Avançar, para que se torne mais fácil para o outro recuar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Recuar, porque vou a subir.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2788",
+      "url": "https://www.bomcondutor.pt/questao/2788",
+      "pergunta": "Encontramo-nos a distâncias idênticas do local onde o cruzamento é possível. Deverá o outro condutor recuar?",
+      "imagem": "2788.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2788.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não. Eu devo recuar porque vou a subir e a manobra é manifestamente mais fácil para mim.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque a manobra é mais fácil para ele.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, sempre porque vem a descer.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2789",
+      "url": "https://www.bomcondutor.pt/questao/2789",
+      "pergunta": "Encontrando-me a menos de 5 metros do cruzamento, posso parar neste local?",
+      "imagem": "2789.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2789.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, de forma alguma.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, dado não existir qualquer sinalização que proíba a manobra.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que sinalize a manobra antecipadamente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2790",
+      "url": "https://www.bomcondutor.pt/questao/2790",
+      "pergunta": "Encontro-me a 30 metros do cruzamento. Posso parar neste local?",
+      "imagem": "2790.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2790.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, não posso.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que sinalize correctamente a manobra.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, uma vez que não existe sinalização a proibir a manobra.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2791",
+      "url": "https://www.bomcondutor.pt/questao/2791",
+      "pergunta": "Encontro-me a menos de 5 m da passagem para peões. Posso parar ou estacionar neste local?",
+      "imagem": "2791.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2791.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, é proibido parar ou estacionar antes e nas passagens assinaladas para a travessia de peões.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, do lado direito da faixa de rodagem e antes do sinal de perigo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, mas apenas estou autorizado a parar antes da passagem de peões.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2792",
+      "url": "https://www.bomcondutor.pt/questao/2792",
+      "pergunta": "Estamos a distância idêntica do local em que o cruzamento é possível. Qual deve recuar, para que a manobra seja possível?",
+      "imagem": "2792.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2792.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Eu porque vou a subir.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O condutor que não tomar a iniciativa de avançar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O outro condutor porque vem a descer.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2793",
+      "url": "https://www.bomcondutor.pt/questao/2793",
+      "pergunta": "Este local de estacionamento é:",
+      "imagem": "2793.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2793.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Condicionado.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Limitado.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Proibido.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2794",
+      "url": "https://www.bomcondutor.pt/questao/2794",
+      "pergunta": "Este veículo mostra sinais evidentes de abandono. Pode ser removido?",
+      "imagem": "2794.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2794.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, apenas o seu proprietário o pode fazer.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, se estiver estacionado neste local há pelo menos 24 horas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se se mantiver neste local por tempo superior a 48 horas.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2795",
+      "url": "https://www.bomcondutor.pt/questao/2795",
+      "pergunta": "Estes veículos encontram-se correctamente estacionados em segunda fila?",
+      "imagem": "2795.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2795.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, o estacionamento em segunda fila é proibido.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não, salvo se não impedirem o acesso aos veículos estacionados.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que não impeçam a saída dos outros veículos estacionados.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2796",
+      "url": "https://www.bomcondutor.pt/questao/2796",
+      "pergunta": "Estes veículos estão estacionados ilegalmente?",
+      "imagem": "2796.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2796.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas se permanecerem neste local mais de duas horas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2797",
+      "url": "https://www.bomcondutor.pt/questao/2797",
+      "pergunta": "Estou a chegar ao final da passagem estreita. Devo:",
+      "imagem": "2797.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2797.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Avançar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Fazer marcha atrás porque o veículo circula em missão urgente de socorro.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Parar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2798",
+      "url": "https://www.bomcondutor.pt/questao/2798",
+      "pergunta": "Estou a menos de 10 metros da passagem de nível. Posso estacionar neste local?",
+      "imagem": "2798.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2798.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, é proibido estacionar a menos de 20 metros das passagens de nível.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, porque é proibido.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque só a menos de 8 metros da passagem de nível é proibido estacionar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2799",
+      "url": "https://www.bomcondutor.pt/questao/2799",
+      "pergunta": "Estou a menos de 5 metros do entroncamento. Posso parar ou estacionar ?",
+      "imagem": "2799.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2799.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas logo após o entroncamento.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2800",
+      "url": "https://www.bomcondutor.pt/questao/2800",
+      "pergunta": "Estou proibido de estacionar neste local se obrigar os veículos a utilizar a parte da faixa de rodagem destinada ao sentido contrário?",
+      "imagem": "2800.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2800.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a manobra é permitida se não causar perigo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, salvo se a sinalização vertical não proibir o estacionamento.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2801",
+      "url": "https://www.bomcondutor.pt/questao/2801",
+      "pergunta": "Estou proibido de estacionar sempre que os veículos que circulam nesta via de trânsito tenham de utilizar a parte destinada ao sentido contrário para circular. Concorda com esta afirmação?",
+      "imagem": "2801.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2801.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2802",
+      "url": "https://www.bomcondutor.pt/questao/2802",
+      "pergunta": "Fora das localidades é proibido estacionar na faixa de rodagem.",
+      "imagem": "2802.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2802.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2803",
+      "url": "https://www.bomcondutor.pt/questao/2803",
+      "pergunta": "Fora das localidades é proibido estacionar na faixa de rodagem.",
+      "imagem": "2803.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2803.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2804",
+      "url": "https://www.bomcondutor.pt/questao/2804",
+      "pergunta": "Havendo boas condições de visibilidade, onde é que a paragem e o estacionamento são proibidos?",
+      "imagem": "2804.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2804.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A menos de 30 metros de qualquer sinal de cedência de passagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A menos de 30 metros dos sinais de obrigação.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Nas placas centrais das rotundas.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2805",
+      "url": "https://www.bomcondutor.pt/questao/2805",
+      "pergunta": "Imediatamente a seguir ao entroncamento pretendo largar um passageiro. Devo:",
+      "imagem": "2805.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2805.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Continuar, e seguir até um local onde o posso fazer.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sinalizar a paragem e realizá-la o mais rapidamente possível.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sinalizar a paragem, com o indicador de mudança de direcção para a direita.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2806",
+      "url": "https://www.bomcondutor.pt/questao/2806",
+      "pergunta": "Na auto-estrada em que circulo quais são as manobras proibidas?",
+      "imagem": "2806.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2806.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Paragem, estacionamento, marcha atrás e inversão do sentido de marcha.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Só as de paragem e estacionamento.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Só as de paragem, de estacionamento e marcha atrás.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2807",
+      "url": "https://www.bomcondutor.pt/questao/2807",
+      "pergunta": "Na ponte em que circulo posso parar?",
+      "imagem": "2807.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2807.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, em caso algum.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que seja para largar um passageiro.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que utilize os quatro 'piscas' em simultâneo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2808",
+      "url": "https://www.bomcondutor.pt/questao/2808",
+      "pergunta": "Na via em que circulo é permitido parar ou estacionar?",
+      "imagem": "2808.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2808.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, é proibido parar ou estacionar em qualquer circunstância.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, se a paragem ou estacionamento forem feitos na berma.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se parar ou estacionar num local destinado a esse fim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2809",
+      "url": "https://www.bomcondutor.pt/questao/2809",
+      "pergunta": "Não é possível o cruzamento dos dois veículos. Encontrando-se ambos a distância idêntica do local em que podem cruzar, qual dos condutores é obrigado a fazer marcha atrás?",
+      "imagem": "2809.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2809.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Eu, porque desço.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O condutor do veículo que sobe.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2810",
+      "url": "https://www.bomcondutor.pt/questao/2810",
+      "pergunta": "Não sendo necessário recorrer à marcha atrás nesta via de forte inclinação, quem deve ceder a passagem?",
+      "imagem": "2810.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2810.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aquele que chegou primeiro ao troço.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O meu veículo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O veículo pesado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2811",
+      "url": "https://www.bomcondutor.pt/questao/2811",
+      "pergunta": "Não sendo possível estacionar fora da faixa de rodagem, devo imobilizar o meu veículo:",
+      "imagem": "2811.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2811.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Com as luzes de presença ligadas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O mais próximo possível do eixo da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O mais próximo possível do limite direito.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2812",
+      "url": "https://www.bomcondutor.pt/questao/2812",
+      "pergunta": "Não sendo possível o cruzamento entre os dois veículos nesta via, e estando o meu mais próximo do local onde podem cruzar, quem deve fazer marcha atrás?",
+      "imagem": "2812.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2812.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Eu.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O condutor do outro veículo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2813",
+      "url": "https://www.bomcondutor.pt/questao/2813",
+      "pergunta": "Nas auto-estradas é permitido:",
+      "imagem": "2813.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2813.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Mudar de direcção, parar, ultrapassar e utilizar as luzes de cruzamento.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Mudar de via de trânsito para efectuar manobras.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Ultrapassar, estacionar sobre a via e mudar de direcção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2814",
+      "url": "https://www.bomcondutor.pt/questao/2814",
+      "pergunta": "Nas auto-estradas é proibido parar?",
+      "imagem": "2814.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2814.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, apenas é proibido parar na berma.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, nos locais a esse fim destinados.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, apenas na faixa de rodagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2815",
+      "url": "https://www.bomcondutor.pt/questao/2815",
+      "pergunta": "Nas passagens estreitas os veículos dos bombeiros têm sempre prioridade.",
+      "imagem": "2815.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2815.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2816",
+      "url": "https://www.bomcondutor.pt/questao/2816",
+      "pergunta": "Nas pontes é proibido:",
+      "imagem": "2816.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2816.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionar, sendo no entanto permitido parar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Parar e estacionar.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Parar, sendo no entanto permitido estacionar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2817",
+      "url": "https://www.bomcondutor.pt/questao/2817",
+      "pergunta": "Nas pontes o estacionamento é:",
+      "imagem": "2817.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2817.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Condicionado.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Limitado.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Proibido.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2818",
+      "url": "https://www.bomcondutor.pt/questao/2818",
+      "pergunta": "Nas rotundas a paragem é:",
+      "imagem": "2818.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2818.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Desaconselhada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Permitida.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Proibida.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2819",
+      "url": "https://www.bomcondutor.pt/questao/2819",
+      "pergunta": "Nas rotundas posso parar e/ou estacionar?",
+      "imagem": "2819.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2819.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, ambas as manobras são proibidas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não, apenas posso parar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, mas só nas rotundas fora das localidades.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2820",
+      "url": "https://www.bomcondutor.pt/questao/2820",
+      "pergunta": "Nesta passagem estreita quem deve recuar para possibilitar o cruzamento dos veículos?",
+      "imagem": "2820.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2820.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Eu, porque estou mais próximo do local em que o cruzamento é possível.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O outro condutor, porque chegou primeiro ao estreitamento da via.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O outro condutor, porque vem a descer.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2821",
+      "url": "https://www.bomcondutor.pt/questao/2821",
+      "pergunta": "Nesta passagem estreita, devo ceder a passagem?",
+      "imagem": "2821.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2821.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque chego primeiro à passagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não, porque circulo a maior velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Não, porque conduzo um ligeiro.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2822",
+      "url": "https://www.bomcondutor.pt/questao/2822",
+      "pergunta": "Nesta passagem estreita, devo ser eu a recuar?",
+      "imagem": "2822.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2822.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque estou mais longe do local em que o cruzamento é possível.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, porque o outro veículo é um automóvel pesado.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque estou mais perto do local em que o cruzamento é possível.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2823",
+      "url": "https://www.bomcondutor.pt/questao/2823",
+      "pergunta": "Nesta passagem estreita, porque estou mais perto do local em que o cruzamento é possível, devo ser eu a recuar.",
+      "imagem": "2823.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2823.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2824",
+      "url": "https://www.bomcondutor.pt/questao/2824",
+      "pergunta": "Nesta passagem estreita, quem deve ceder a passagem?",
+      "imagem": "2824.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2824.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Eu, porque estou no início da passagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Eu, porque o outro veículo é pesado.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O condutor do pesado, porque chega depois à passagem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2825",
+      "url": "https://www.bomcondutor.pt/questao/2825",
+      "pergunta": "Nesta passagem estreita, quem deve recuar?",
+      "imagem": "2825.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2825.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Eu, porque conduzo um automóvel ligeiro.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Eu, porque estou mais perto do local em que o cruzamento é possível.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O outro condutor, porque conduz um automóvel pesado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2826",
+      "url": "https://www.bomcondutor.pt/questao/2826",
+      "pergunta": "Nesta situação quem deve ceder a passagem?",
+      "imagem": "2826.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2826.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Eu, porque cheguei depois a este troço.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O outro condutor porque conduz um automóvel pesado de mercadorias.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2827",
+      "url": "https://www.bomcondutor.pt/questao/2827",
+      "pergunta": "Nesta situação em que o veículo pesado está mais próximo do local em que o cruzamento é possível, devo:",
+      "imagem": "2827.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2827.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aguardar que o outro condutor recue.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Avançar de imediato.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Fazer marcha atrás.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2828",
+      "url": "https://www.bomcondutor.pt/questao/2828",
+      "pergunta": "Nesta situação torna-se necessário recorrer à manobra de marcha atrás. Quem deve recuar?",
+      "imagem": "2828.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2828.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aquele que chegou depois ao local.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Aquele que chegou primeiro ao troço.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Aquele que estiver mais próximo do local em que o cruzamento é possível.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2829",
+      "url": "https://www.bomcondutor.pt/questao/2829",
+      "pergunta": "Nesta situação, como devo proceder perante o ciclista a virar para a esquerda?",
+      "imagem": "2829.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2829.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aguardar a passagem do velocípede e só depois avançar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Passar entre o velocípede e o automóvel.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar a via de trânsito da esquerda para prosseguir a marcha.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2830",
+      "url": "https://www.bomcondutor.pt/questao/2830",
+      "pergunta": "Nesta situação, devo:",
+      "imagem": "2830.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2830.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Avançar em primeiro lugar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Ceder a passagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Parar obrigatoriamente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2831",
+      "url": "https://www.bomcondutor.pt/questao/2831",
+      "pergunta": "Nesta situação, devo:",
+      "imagem": "2831.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2831.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aguardar que o autocarro retome a marcha.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ultrapassar com recurso à marcha atrás.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2832",
+      "url": "https://www.bomcondutor.pt/questao/2832",
+      "pergunta": "Nesta situação, em que as distâncias do local onde o cruzamento é possível, são idênticas, devo:",
+      "imagem": "2832.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2832.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aguardar que o outro recorra à marcha atrás.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Avançar, perante o automóvel pesado.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Recuar, perante o automóvel pesado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2833",
+      "url": "https://www.bomcondutor.pt/questao/2833",
+      "pergunta": "Nesta situação, em que cheguei em primeiro lugar ao local do estreitamento, devo:",
+      "imagem": "2833.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2833.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Avançar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Recuar e ceder a passagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar os sinais sonoros e avançar depois.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2834",
+      "url": "https://www.bomcondutor.pt/questao/2834",
+      "pergunta": "Nesta situação, estando o meu veículo mais próximo do local em que o cruzamento é possível, quem deve recuar?",
+      "imagem": "2834.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2834.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Eu.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O condutor do veículo dos bombeiros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O condutor do veículo que está a subir.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2835",
+      "url": "https://www.bomcondutor.pt/questao/2835",
+      "pergunta": "Nesta situação, estou proibido de parar imediatamente antes da rotunda de que me aproximo?",
+      "imagem": "2835.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2835.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a paragem só é proibida dentro da rotunda.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, apenas o estacionamento é proibido.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se a distância for inferior a 5 metros.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2836",
+      "url": "https://www.bomcondutor.pt/questao/2836",
+      "pergunta": "Nesta situação, o que devo fazer?",
+      "imagem": "2836.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2836.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aguardar que um condutor me ceda a passagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Avançar, interrompendo a fila de trânsito à esquerda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2837",
+      "url": "https://www.bomcondutor.pt/questao/2837",
+      "pergunta": "Nesta situação, o veículo que transita em sentido contrário deve avançar primeiro porque:",
+      "imagem": "2837.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2837.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Chegou primeiro à passagem estreita.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "É um automóvel ligeiro.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "É um veículo de maiores dimensões.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2838",
+      "url": "https://www.bomcondutor.pt/questao/2838",
+      "pergunta": "Nesta situação, quem deve avançar em primeiro lugar?",
+      "imagem": "2838.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2838.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Eu.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Quem primeiro chegou ao local.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Quem tiver de contornar o obstáculo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2839",
+      "url": "https://www.bomcondutor.pt/questao/2839",
+      "pergunta": "Nesta situação, quem deve recuar?",
+      "imagem": "2839.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2839.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Eu, porque conduzo um automóvel ligeiro.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Eu, porque estou mais próximo do local onde o cruzamento é possível.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O condutor do pesado, porque está mais longe do local onde o cruzamento é possível.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2840",
+      "url": "https://www.bomcondutor.pt/questao/2840",
+      "pergunta": "Nesta situação, quem passa em primeiro lugar?",
+      "imagem": "2840.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2840.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O meu veículo, porque o automóvel pesado pára para me ceder a passagem",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O veículo pesado porque não tem o dever de ceder a passagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2841",
+      "url": "https://www.bomcondutor.pt/questao/2841",
+      "pergunta": "Nesta situação, é proibido parar ou estacionar a menos de 50 metros da curva.",
+      "imagem": "2841.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2841.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, apenas é proibido parar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2842",
+      "url": "https://www.bomcondutor.pt/questao/2842",
+      "pergunta": "Nesta via de forte inclinação, quem deve ceder a passagem?",
+      "imagem": "2842.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2842.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O meu veículo porque é um automóvel ligeiro.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O outro veículo porque desce.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O outro veículo porque é um automóvel pesado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2843",
+      "url": "https://www.bomcondutor.pt/questao/2843",
+      "pergunta": "Nesta via é proibido:",
+      "imagem": "2843.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2843.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Parar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ultrapassar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar sinais sonoros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2844",
+      "url": "https://www.bomcondutor.pt/questao/2844",
+      "pergunta": "Neste cruzamento, qual deve ser o último veículo a passar?",
+      "imagem": "2844.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2844.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O automóvel à minha direita, porque o sinal a isso o obriga.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O velocípede, porque não tem motor.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O velocípede, porque vai mudar de direcção à esquerda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2845",
+      "url": "https://www.bomcondutor.pt/questao/2845",
+      "pergunta": "Neste local é permitido estacionar:",
+      "imagem": "2845.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2845.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Do lado direito antes do primeiro sinal vertical.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Do lado direito depois do segundo sinal vertical.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Em qualquer dos lados.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2846",
+      "url": "https://www.bomcondutor.pt/questao/2846",
+      "pergunta": "Neste local condicionado ao pagamento de taxa, terá estacionado abusivamente o condutor que:",
+      "imagem": "2846.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2846.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Deixar ultrapassar uma hora para além do tempo pago.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionar o seu veículo por tempo superior a 30 minutos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Não efectuar o pagamento.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2847",
+      "url": "https://www.bomcondutor.pt/questao/2847",
+      "pergunta": "Neste local é permitido estacionar?",
+      "imagem": "2847.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2847.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2848",
+      "url": "https://www.bomcondutor.pt/questao/2848",
+      "pergunta": "Neste local é possível imobilizar o meu veículo?",
+      "imagem": "2848.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2848.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sim, desde que ligue as luzes de perigo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas na berma.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, na faixa de rodagem por circunstâncias motivadas pela própria circulação.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2849",
+      "url": "https://www.bomcondutor.pt/questao/2849",
+      "pergunta": "Neste local é proibido estacionar?",
+      "imagem": "2849.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2849.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2850",
+      "url": "https://www.bomcondutor.pt/questao/2850",
+      "pergunta": "Neste local é proibido parar a menos de:",
+      "imagem": "2850.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2850.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "3 metros para a frente e 25m para trás do sinal indicativo da paragem de transporte colectivo de passageiros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "5 metros para a frente e 25m para trás do sinal indicativo da paragem de transporte colectivo de passageiros.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "7 metros para a frente e 25m para trás do sinal indicativo da paragem de transporte colectivo de passageiros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2851",
+      "url": "https://www.bomcondutor.pt/questao/2851",
+      "pergunta": "Neste local posso estacionar na faixa de rodagem.",
+      "imagem": "2851.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2851.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2852",
+      "url": "https://www.bomcondutor.pt/questao/2852",
+      "pergunta": "Neste local posso estacionar?",
+      "imagem": "2852.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2852.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a marca rodoviária não me permite.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que seja possível fazê-lo fora da faixa de rodagem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2853",
+      "url": "https://www.bomcondutor.pt/questao/2853",
+      "pergunta": "Neste local posso parar:",
+      "imagem": "2853.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2853.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "No lado direito, se possível fora da faixa de rodagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "No lado esquerdo da faixa de rodagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2854",
+      "url": "https://www.bomcondutor.pt/questao/2854",
+      "pergunta": "Neste local só é possível estacionar fora da faixa de rodagem.",
+      "imagem": "2854.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2854.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2855",
+      "url": "https://www.bomcondutor.pt/questao/2855",
+      "pergunta": "Neste local, é permitido o estacionamento fora da faixa de rodagem?",
+      "imagem": "2855.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2855.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2856",
+      "url": "https://www.bomcondutor.pt/questao/2856",
+      "pergunta": "Neste local, em caso de avaria das luzes indicadoras de mudança de direcção devo:",
+      "imagem": "2856.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2856.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fazer os sinais regulamentares com o braço.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ligar os médios.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar as luzes de travagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2857",
+      "url": "https://www.bomcondutor.pt/questao/2857",
+      "pergunta": "Neste local, o estacionamento é condicionado a:",
+      "imagem": "2857.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2857.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Idosos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Pessoas com deficiência.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os veículos que transportem crianças de colo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2858",
+      "url": "https://www.bomcondutor.pt/questao/2858",
+      "pergunta": "Neste local, posso estacionar na via de trânsito?",
+      "imagem": "2858.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2858.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque circulo dentro da localidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se ligar as luzes de perigo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2859",
+      "url": "https://www.bomcondutor.pt/questao/2859",
+      "pergunta": "Neste local, posso parar na faixa de rodagem?",
+      "imagem": "2859.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2859.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, nunca.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que não circulem veículos à minha retaguarda.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que seja uma imobilização rápida.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2860",
+      "url": "https://www.bomcondutor.pt/questao/2860",
+      "pergunta": "Neste local, se o meu veículo avariar devo:",
+      "imagem": "2860.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2860.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Mantê-lo na faixa de rodagem com as luzes de médios acesas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Mantê-lo na faixa de rodagem com as luzes de perigo ligadas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Retirá-lo da faixa de rodagem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2861",
+      "url": "https://www.bomcondutor.pt/questao/2861",
+      "pergunta": "Neste local, se tiver uma avaria no meu veículo terei de o imobilizar e sinalizar:",
+      "imagem": "2861.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2861.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "No eixo da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O mais à direita possível.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O mais à esquerda possível.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2862",
+      "url": "https://www.bomcondutor.pt/questao/2862",
+      "pergunta": "Neste parque é permitido o acesso:",
+      "imagem": "2862.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2862.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A motociclos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A todos e quaisquer veículos, excepto motociclos simples.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Só a velocípedes.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2863",
+      "url": "https://www.bomcondutor.pt/questao/2863",
+      "pergunta": "No estacionamento com parquímetros, o tempo de estacionamento autorizado depende:",
+      "imagem": "2863.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2863.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Da dimensão do veículo estacionado.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Do pagamento da taxa de utilização.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Do tipo de veículo estacionado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2864",
+      "url": "https://www.bomcondutor.pt/questao/2864",
+      "pergunta": "No local em que me encontro estou proibido de:",
+      "imagem": "2864.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2864.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionar, mas posso parar desde que seja por pouco tempo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Parar e estacionar.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Parar mas posso estacionar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2865",
+      "url": "https://www.bomcondutor.pt/questao/2865",
+      "pergunta": "No local em que vou transitar é proibido estacionar:",
+      "imagem": "2865.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2865.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Por circular fora de uma localidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Por ser um túnel.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Se não ligar as luzes de cruzamento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2866",
+      "url": "https://www.bomcondutor.pt/questao/2866",
+      "pergunta": "No local onde me encontro posso imobilizar o meu veículo para fazer uma descarga?",
+      "imagem": "2866.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2866.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, neste local é proibido parar e estacionar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não, porque circulo numa localidade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, apenas é proibido o estacionamento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2867",
+      "url": "https://www.bomcondutor.pt/questao/2867",
+      "pergunta": "Nos locais de visibilidade insuficiente:",
+      "imagem": "2867.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2867.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não posso parar nem estacionar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não posso parar, mas posso estacionar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Posso estacionar, mas não devo parar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2868",
+      "url": "https://www.bomcondutor.pt/questao/2868",
+      "pergunta": "Nos túneis é permitido:",
+      "imagem": "2868.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2868.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionar e parar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Imobilizar o veículo para a entrada de passageiros, desde que o condutor esteja pronto para retomar a marcha.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Imobilizar o veículo por circunstâncias próprias da circulação.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2869",
+      "url": "https://www.bomcondutor.pt/questao/2869",
+      "pergunta": "Nos túneis é proibido:",
+      "imagem": "2869.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2869.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionar mas não parar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Parar e estacionar.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Parar mas não estacionar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2870",
+      "url": "https://www.bomcondutor.pt/questao/2870",
+      "pergunta": "Numa zona assinalada pelo sinal, posso estacionar?",
+      "imagem": "2870.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2870.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque não posso estacionar nessa zona.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que não haja veículos estacionados.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se conduzir um automóvel ligeiro.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2871",
+      "url": "https://www.bomcondutor.pt/questao/2871",
+      "pergunta": "O automóvel ligeiro de mercadorias está correctamente estacionado?",
+      "imagem": "2871.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2871.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, o estacionamento deve fazer-se sempre fora da faixa de rodagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque está o mais próximo possível do respectivo limite direito da faixa de rodagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2872",
+      "url": "https://www.bomcondutor.pt/questao/2872",
+      "pergunta": "O Código da Estrada permite-me parar ou estacionar neste local?",
+      "imagem": "2872.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2872.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, estou proibido de parar ou estacionar neste local.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não, sendo apenas permitida a paragem e fora da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, a manobra é permitida mas apenas fora da faixa de rodagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2873",
+      "url": "https://www.bomcondutor.pt/questao/2873",
+      "pergunta": "O condutor do automóvel ligeiro comporta-se correctamente?",
+      "imagem": "2873.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2873.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque está a estacionar do lado esquerdo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque no local é permitido o estacionamento.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2874",
+      "url": "https://www.bomcondutor.pt/questao/2874",
+      "pergunta": "O condutor do pesado, deve ceder-me a passagem porque chega depois a esta passagem estreita.",
+      "imagem": "2874.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2874.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2875",
+      "url": "https://www.bomcondutor.pt/questao/2875",
+      "pergunta": "O condutor do veículo estacionado em cima do passeio comete uma infracção?",
+      "imagem": "2875.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2875.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque não constitui embaraço para os restantes utentes.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas se não estiver pronto a retomar a marcha.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2876",
+      "url": "https://www.bomcondutor.pt/questao/2876",
+      "pergunta": "O condutor pode estacionar sobre a guia?",
+      "imagem": "2876.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2876.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2877",
+      "url": "https://www.bomcondutor.pt/questao/2877",
+      "pergunta": "O estacionamento abusivo do veículo pode dar origem:",
+      "imagem": "2877.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2877.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "À apreensão do veículo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "À apreensão dos documentos do veículo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "À sua remoção.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2878",
+      "url": "https://www.bomcondutor.pt/questao/2878",
+      "pergunta": "O meu veiculo e o veículo pesado encontram-se a distâncias idênticas do local onde o cruzamento é possível. Qual deve recuar?",
+      "imagem": "2878.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2878.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O meu veículo por ser ligeiro.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O outro veículo por ser pesado.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O que tomar a iniciativa de recuar primeiro.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2879",
+      "url": "https://www.bomcondutor.pt/questao/2879",
+      "pergunta": "O não pagamento das taxas correspondentes a 5 dias de utilização de um parque implica que se considera o veículo em:",
+      "imagem": "2879.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2879.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionamento abusivo",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionamento proibido",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Paragem proibida",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2880",
+      "url": "https://www.bomcondutor.pt/questao/2880",
+      "pergunta": "O que deve fazer o condutor do veículo pesado?",
+      "imagem": "2880.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2880.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Avançar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Ceder a passagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Recuar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2881",
+      "url": "https://www.bomcondutor.pt/questao/2881",
+      "pergunta": "O que deve fazer o condutor do veículo que se encontra à minha direita antes de entrar no cruzamento?",
+      "imagem": "2881.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2881.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Parar e passar depois dos outros dois veículos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Reduzir a velocidade e cumprir a regra geral da cedência de passagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2882",
+      "url": "https://www.bomcondutor.pt/questao/2882",
+      "pergunta": "O que devo fazer nesta situação, em que as distâncias do local em que o cruzamento é possível são idênticas?",
+      "imagem": "2882.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2882.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Avançar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Parar, porque fui o primeiro condutor a chegar à passagem estreita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Recuar.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2883",
+      "url": "https://www.bomcondutor.pt/questao/2883",
+      "pergunta": "O que devo fazer nesta situação?",
+      "imagem": "2883.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2883.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aguardar a passagem do outro condutor.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Avançar para tentar cruzar-me em simultâneo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Buzinar para que o outro condutor recue, uma vez que tenho prioridade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2884",
+      "url": "https://www.bomcondutor.pt/questao/2884",
+      "pergunta": "O que devo fazer nesta situação?",
+      "imagem": "2884.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2884.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Avançar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Parar na passagem estreita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Recuar na passagem estreita.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2885",
+      "url": "https://www.bomcondutor.pt/questao/2885",
+      "pergunta": "O veículo de matrícula 08-08-AM pode ser removido, porque:",
+      "imagem": "2885.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2885.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Está parado em segunda fila.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não tem as luzes de perigo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Se encontra estacionado em segunda fila na faixa de rodagem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2886",
+      "url": "https://www.bomcondutor.pt/questao/2886",
+      "pergunta": "O veículo dos bombeiros está mais próximo do local em que o cruzamento é possível. Quem deve recuar?",
+      "imagem": "2886.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2886.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O meu veículo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O que for de menores dimensões.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O veículo dos bombeiros.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2887",
+      "url": "https://www.bomcondutor.pt/questao/2887",
+      "pergunta": "O veículo em missão urgente de socorro deve:",
+      "imagem": "2887.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2887.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Avançar em simultâneo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Fazer marcha atrás.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Permitir que eu termine a passagem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2888",
+      "url": "https://www.bomcondutor.pt/questao/2888",
+      "pergunta": "O veículo está parado correctamente?",
+      "imagem": "2888.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2888.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque não pode parar, nem estacionar nesse local.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque nesse local pode estacionar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque pode parar e estacionar nesse local.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2889",
+      "url": "https://www.bomcondutor.pt/questao/2889",
+      "pergunta": "O veículo estacionado em cima do passeio, pode ser apreendido?",
+      "imagem": "2889.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2889.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não pode ser apreendido nem removido, se estiver estacionado há menos de duas horas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não pode ser apreendido, mas pode ser removido.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, pela entidade competente, pelo facto de estar estacionado indevidamente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2890",
+      "url": "https://www.bomcondutor.pt/questao/2890",
+      "pergunta": "O veículo estacionado incorre numa infracção?",
+      "imagem": "2890.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2890.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque neste local é permitido o estacionamento por tempo indeterminado.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, se permanecer no mesmo local por período superior a 30 dias.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2891",
+      "url": "https://www.bomcondutor.pt/questao/2891",
+      "pergunta": "O veículo estacionado, pode ser removido?",
+      "imagem": "2891.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2891.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sim, se continuar no mesmo local, por 10 dias.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, se continuar no mesmo local, por 15 dias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se continuar no mesmo local, por 30 dias.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2892",
+      "url": "https://www.bomcondutor.pt/questao/2892",
+      "pergunta": "O veículo imediatamente à minha frente está parado para entrar um passageiro. Pode fazê-lo?",
+      "imagem": "2892.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2892.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2893",
+      "url": "https://www.bomcondutor.pt/questao/2893",
+      "pergunta": "O veículo preto comete uma contra-ordenação?",
+      "imagem": "2893.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2893.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, se estiver estacionado.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se estiver parado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2894",
+      "url": "https://www.bomcondutor.pt/questao/2894",
+      "pergunta": "O veículo que está estacionado em cima do passeio pode ser imediatamente removido?",
+      "imagem": "2894.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2894.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, o facto de estar em cima do passeio não é motivo para remoção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas se estiver estacionado há mais de duas horas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2895",
+      "url": "https://www.bomcondutor.pt/questao/2895",
+      "pergunta": "O veículo que está parado junto do passeio está posicionado:",
+      "imagem": "2895.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2895.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Correctamente, porque estão a entrar passageiros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Incorrectamente, porque é proibida a paragem e o estacionamento.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2896",
+      "url": "https://www.bomcondutor.pt/questao/2896",
+      "pergunta": "O veículo que transita em sentido contrário, deve:",
+      "imagem": "2896.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2896.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Avançar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ceder a passagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Se necessário recorrer à manobra de marcha atrás.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2897",
+      "url": "https://www.bomcondutor.pt/questao/2897",
+      "pergunta": "Os condutores dos veículos estacionados em segunda fila:",
+      "imagem": "2897.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2897.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não praticam qualquer infracção porque têm as luzes de perigo ligadas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Praticam uma contra-ordenação grave.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Praticam uma contra-ordenação leve.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2898",
+      "url": "https://www.bomcondutor.pt/questao/2898",
+      "pergunta": "Os veículos bloqueados:",
+      "imagem": "2898.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2898.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Podem não ser rebocados.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "São sempre apreendidos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "São sempre rebocados.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2899",
+      "url": "https://www.bomcondutor.pt/questao/2899",
+      "pergunta": "Os veículos estacionados abusivamente :",
+      "imagem": "2899.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2899.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Podem ser removidos pelas entidades competentes.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "São sempre apreendidos pelas entidades competentes.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2900",
+      "url": "https://www.bomcondutor.pt/questao/2900",
+      "pergunta": "Os veículos estacionados em segunda fila constituem perturbação para o trânsito, consequentemente:",
+      "imagem": "2900.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2900.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Os condutores são autuados, mas os veículos não são removidos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Os veículos são removidos.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2901",
+      "url": "https://www.bomcondutor.pt/questao/2901",
+      "pergunta": "Os veículos pesados imobilizados neste local cometem uma infracção?",
+      "imagem": "2901.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2901.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, se a sua imobilização constituir apenas paragem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas se a sua imobilização constituir estacionamento.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2902",
+      "url": "https://www.bomcondutor.pt/questao/2902",
+      "pergunta": "Os veículos que se encontram estacionados neste local, estão a cometer uma infracção?",
+      "imagem": "2902.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2902.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas o veículo de mercadorias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2903",
+      "url": "https://www.bomcondutor.pt/questao/2903",
+      "pergunta": "Para passar por este veículo, é mais seguro:",
+      "imagem": "2903.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2903.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aguardar a passagem do veículo que circula em sentido contrário e só então efectuar a manobra.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Efectuar a manobra o mais rapidamente possível.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar os sinais sonoros e aguardar que o condutor inicie a manobra.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2904",
+      "url": "https://www.bomcondutor.pt/questao/2904",
+      "pergunta": "Para ver e ser visto devo:",
+      "imagem": "2904.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2904.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ligar os 'máximos'",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Ligar os 'médios' e as luzes de nevoeiro.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Ligar os 'mínimos'.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2905",
+      "url": "https://www.bomcondutor.pt/questao/2905",
+      "pergunta": "Perante o sinal estou proibido de:",
+      "imagem": "2905.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2905.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Parar a menos de 15 metros da paragem do eléctrico.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Parar a menos de 20 metros da paragem do eléctrico.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Parar a menos de 6 metros para trás do sinal.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2906",
+      "url": "https://www.bomcondutor.pt/questao/2906",
+      "pergunta": "Pode ser bloqueado o veículo que se encontre em local de estacionamento limitado, para além do tempo permitido mais de:",
+      "imagem": "2906.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2906.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "1 hora.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "2 horas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "30 minutos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2907",
+      "url": "https://www.bomcondutor.pt/questao/2907",
+      "pergunta": "Posso estacionar a 5 metros da bomba de combustível?",
+      "imagem": "2907.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2907.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, só posso realizar a manobra a, pelo menos, 10 metros da bomba.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que tome as precauções necessárias à realização da manobra.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se o fizer a partir das 19 horas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2908",
+      "url": "https://www.bomcondutor.pt/questao/2908",
+      "pergunta": "Posso estacionar à noite nesta via de trânsito?",
+      "imagem": "2908.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2908.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que ligue as luzes de cruzamento.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2909",
+      "url": "https://www.bomcondutor.pt/questao/2909",
+      "pergunta": "Posso estacionar a três metros para a frente do sinal?",
+      "imagem": "2909.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2909.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2910",
+      "url": "https://www.bomcondutor.pt/questao/2910",
+      "pergunta": "Posso estacionar em cima do passeio?",
+      "imagem": "2910.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2910.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque apenas é permitido parar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se demorar pouco tempo e ligar as luzes de perigo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2911",
+      "url": "https://www.bomcondutor.pt/questao/2911",
+      "pergunta": "Posso estacionar em segunda fila imediatamente a seguir à passagem de peões?",
+      "imagem": "2911.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2911.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, não posso estacionar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, do lado direito da via.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, do lado esquerdo da via.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2912",
+      "url": "https://www.bomcondutor.pt/questao/2912",
+      "pergunta": "Posso estacionar em segunda fila?",
+      "imagem": "2912.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2912.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, não posso.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que deixe ligados os quatro 'piscas'.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que estacione por pouco tempo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2913",
+      "url": "https://www.bomcondutor.pt/questao/2913",
+      "pergunta": "Posso estacionar em segunda fila?",
+      "imagem": "2913.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2913.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, o estacionamento é proibido.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que não impeça o trânsito de veículos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que não obrigue os condutores a utilizar a outra faixa de rodagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2914",
+      "url": "https://www.bomcondutor.pt/questao/2914",
+      "pergunta": "Posso estacionar em segunda fila?",
+      "imagem": "2914.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2914.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, se for por mais do que 5 minutos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que por breves momentos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2915",
+      "url": "https://www.bomcondutor.pt/questao/2915",
+      "pergunta": "Posso estacionar junto à marca rodoviária amarela.",
+      "imagem": "2915.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2915.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, para cargas e descargas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2916",
+      "url": "https://www.bomcondutor.pt/questao/2916",
+      "pergunta": "Posso estacionar na faixa de rodagem?",
+      "imagem": "2916.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2916.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2917",
+      "url": "https://www.bomcondutor.pt/questao/2917",
+      "pergunta": "Posso estacionar neste local:",
+      "imagem": "2917.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2917.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fora da faixa de rodagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Na faixa de rodagem e ligar os '4 piscas' em simultâneo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O mais à direita da faixa de rodagem e ligar as luzes de presença.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2918",
+      "url": "https://www.bomcondutor.pt/questao/2918",
+      "pergunta": "Posso estacionar neste local?",
+      "imagem": "2918.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2918.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, neste local só posso parar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, nunca.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que o faça o mais à direita possível.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2919",
+      "url": "https://www.bomcondutor.pt/questao/2919",
+      "pergunta": "Posso estacionar neste local?",
+      "imagem": "2919.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2919.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, é proibido estacionar a menos de 20 metros das bombas de combustível.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, excepto se estacionar a mais de 3 metros da bomba de combustível.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que estacione a, pelo menos, 5 metros da bomba de combustível.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2920",
+      "url": "https://www.bomcondutor.pt/questao/2920",
+      "pergunta": "Posso estacionar neste local?",
+      "imagem": "2920.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2920.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, é proibido estacionar em todas as curvas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, por breves instantes.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2921",
+      "url": "https://www.bomcondutor.pt/questao/2921",
+      "pergunta": "Posso estacionar neste local?",
+      "imagem": "2921.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2921.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, por que há peões a fazer a travessia da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, porque é proibido estacionar a menos de 5 metros para a frente e 25 metros para trás do sinal indicativo de paragem do transporte colectivo de passageiros.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que não embarace o trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2922",
+      "url": "https://www.bomcondutor.pt/questao/2922",
+      "pergunta": "Posso estacionar neste local?",
+      "imagem": "2922.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2922.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que não exista sinalização em contrário.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2923",
+      "url": "https://www.bomcondutor.pt/questao/2923",
+      "pergunta": "Posso estacionar no cruzamento?",
+      "imagem": "2923.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2923.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, nunca posso.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que deixe ligados os quatro 'piscas' em simultâneo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, visto não existir sinalização que proíba a manobra.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2924",
+      "url": "https://www.bomcondutor.pt/questao/2924",
+      "pergunta": "Posso estacionar o automóvel na ponte em que circulo?",
+      "imagem": "2924.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2924.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, nas pontes o estacionamento é proibido.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, apesar de nas pontes o estacionamento não ser aconselhado.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, muito embora nas pontes o estacionamento seja limitado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2925",
+      "url": "https://www.bomcondutor.pt/questao/2925",
+      "pergunta": "Posso parar imediatamente a seguir ao sinal?",
+      "imagem": "2925.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2925.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2926",
+      "url": "https://www.bomcondutor.pt/questao/2926",
+      "pergunta": "Posso parar junto ao sinal indicativo da paragem de veículos de transporte colectivo de passageiros?",
+      "imagem": "2926.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2926.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a manobra é proibida.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas antes da passagem de peões.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, mas fora da faixa de rodagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2927",
+      "url": "https://www.bomcondutor.pt/questao/2927",
+      "pergunta": "Posso parar neste local?",
+      "imagem": "2927.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2927.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, pelo tempo mínimo necessário para receber ou largar passageiros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se não circularem veículos à minha retaguarda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2928",
+      "url": "https://www.bomcondutor.pt/questao/2928",
+      "pergunta": "Posso parar neste local?",
+      "imagem": "2928.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2928.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Na faixa de rodagem é proibido, sendo no entanto permitido na berma.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, por breves instantes na berma.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2929",
+      "url": "https://www.bomcondutor.pt/questao/2929",
+      "pergunta": "Posso parar no local em que me encontro?",
+      "imagem": "2929.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2929.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, em circunstância alguma.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que não comprometa a segurança do trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que sinalize a manobra com antecedência.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2930",
+      "url": "https://www.bomcondutor.pt/questao/2930",
+      "pergunta": "Posso parar no local exacto em que me encontro?",
+      "imagem": "2930.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2930.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, em circunstância alguma.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, se não comprometer a segurança dos outros utentes.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se sinalizar devidamente a minha intenção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2931",
+      "url": "https://www.bomcondutor.pt/questao/2931",
+      "pergunta": "Posso parar o meu veículo nesta ponte?",
+      "imagem": "2931.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2931.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a manobra é proibida.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, a manobra é permitida desde que se trate de uma imobilização rápida do veículo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, sempre que não embarace o trânsito nem comprometa a segurança dos outros utentes.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2932",
+      "url": "https://www.bomcondutor.pt/questao/2932",
+      "pergunta": "Posso parar ou estacionar na proximidade dos sinais luminosos?",
+      "imagem": "2932.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2932.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a manobra é proibida a menos de 20 metros se a altura dos veículos, incluindo a respectiva carga, encobrir os sinais luminosos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não, a manobra é sempre proibida a menos de 25 metros antes dos sinais luminosos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, mas sempre antes dos sinais e a uma distância não inferior a 5 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2933",
+      "url": "https://www.bomcondutor.pt/questao/2933",
+      "pergunta": "Posso parar ou estacionar no local em que me encontro, apesar de me encontrar a menos de 5 m do cruzamento?",
+      "imagem": "2933.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2933.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a manobra é proibida.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não, apenas posso estacionar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, a manobra é permitida.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Sim, mas antes do cruzamento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2934",
+      "url": "https://www.bomcondutor.pt/questao/2934",
+      "pergunta": "Posso parar sobre esta ponte?",
+      "imagem": "2934.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2934.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, em caso algum.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não, porque o meu veículo parado fica a menos de três metros da linha contínua.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que sinalize correctamente a manobra.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2935",
+      "url": "https://www.bomcondutor.pt/questao/2935",
+      "pergunta": "Pretendo estacionar. Devo realizar a manobra:",
+      "imagem": "2935.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2935.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Junto ao passeio, paralelamente à via.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sobre o passeio, 'em espinha'.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sobre o passeio, paralelamente à via.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2936",
+      "url": "https://www.bomcondutor.pt/questao/2936",
+      "pergunta": "Quem deve ceder a passagem?",
+      "imagem": "2936.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2936.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Eu.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O condutor do veículo vermelho, por não ter ainda chegado à zona estreita.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O que circular a maior velocidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2937",
+      "url": "https://www.bomcondutor.pt/questao/2937",
+      "pergunta": "Quem deve recorrer à manobra de marcha atrás, sabendo que as distâncias em que é possível o cruzamento são idênticas?",
+      "imagem": "2937.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2937.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Eu, porque conduzo um automóvel ligeiro.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O condutor do outro veículo, porque é um automóvel pesado.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O condutor do veículo pesado porque está a subir.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "2938",
+      "url": "https://www.bomcondutor.pt/questao/2938",
+      "pergunta": "Se estacionar impedindo a saída dos veículos estacionados à minha direita, cometo uma infracção?",
+      "imagem": "2938.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2938.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, desde que deixe as luzes de perigo ligadas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2939",
+      "url": "https://www.bomcondutor.pt/questao/2939",
+      "pergunta": "Se estacionar o meu veículo na berma da auto-estrada ele pode ser removido?",
+      "imagem": "2939.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2939.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas se mostrar sinais evidentes de abandono.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2940",
+      "url": "https://www.bomcondutor.pt/questao/2940",
+      "pergunta": "Se o veículo apresentar sinais evidentes de abandono, será considerado estacionamento abusivo, se estiver no mesmo local por tempo superior a:",
+      "imagem": "2940.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2940.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "12 horas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "24 horas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "48 horas.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2941",
+      "url": "https://www.bomcondutor.pt/questao/2941",
+      "pergunta": "Se um veículo estiver estacionado indevidamente, pode ser bloqueado?",
+      "imagem": "2941.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2941.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, só pode ser bloqueado por razões de segurança nacional.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, por tempo ilimitado.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2942",
+      "url": "https://www.bomcondutor.pt/questao/2942",
+      "pergunta": "Sempre que se verifique uma grande intensidade de trânsito o estacionamento é proibido.",
+      "imagem": "2942.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2942.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2943",
+      "url": "https://www.bomcondutor.pt/questao/2943",
+      "pergunta": "Sendo impossível o cruzamento entre dois veículos que se encontram à mesma distância do local onde se poderão cruzar, deve recuar qualquer um deles perante um conjunto de veículos.",
+      "imagem": "2943.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2943.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2944",
+      "url": "https://www.bomcondutor.pt/questao/2944",
+      "pergunta": "Todas as contra-ordenações praticadas em auto-estrada são classificadas como muito graves?",
+      "imagem": "2944.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2944.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a paragem é considerada uma contra-ordenação leve.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, o estacionamento na faixa de rodagem é considerado uma contra-ordenação grave.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Não.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2945",
+      "url": "https://www.bomcondutor.pt/questao/2945",
+      "pergunta": "Todas as marcas rodoviárias de cor amarela têm carácter temporário.",
+      "imagem": "2945.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2945.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2946",
+      "url": "https://www.bomcondutor.pt/questao/2946",
+      "pergunta": "Todos os veículos que estejam impedidos de seguir a marcha, por avaria, são obrigados a estar sinalizados com sinal de pré-sinalização?",
+      "imagem": "2946.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2946.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a colocação do triângulo apenas é obrigatória fora das localidades.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, todos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os veículos a motor, salvo os dotados de apenas duas ou três rodas, os motocultivadores e os quadriciclos sem caixa",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "2947",
+      "url": "https://www.bomcondutor.pt/questao/2947",
+      "pergunta": "Um condutor ao circular nesta via pública deve saber que a paragem e o estacionamento nunca são permitidos, salvo nos locais especialmente destinados a esse fim.",
+      "imagem": "2947.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2947.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "2948",
+      "url": "https://www.bomcondutor.pt/questao/2948",
+      "pergunta": "Um dos motivos para o bloqueamento ou remoção de veículos, é:",
+      "imagem": "2948.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/2948.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A paragem em cima do passeio.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionar de forma a constituir perturbação para o trânsito.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Estacionar dentro das localidades.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    }
+  ]
+}

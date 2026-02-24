@@ -1,0 +1,5167 @@
+{
+  "tema": "Estado físico do condutor, alcool, drogas e medicamentos, sinais de obrigação",
+  "slug": "estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao",
+  "total": 214,
+  "questoes": [
+    {
+      "numero": "4060",
+      "url": "https://www.bomcondutor.pt/questao/4060",
+      "pergunta": "A agressividade é um estado emocional que afecta negativamente o desempenho da condução.",
+      "imagem": "4060.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4060.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4061",
+      "url": "https://www.bomcondutor.pt/questao/4061",
+      "pergunta": "A alteração do campo visual de um condutor devido à ingestão de bebidas alcoólicas, manifesta-se por:",
+      "imagem": "4061.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4061.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumento da visão lateral.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Redução da visão lateral.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4062",
+      "url": "https://www.bomcondutor.pt/questao/4062",
+      "pergunta": "A audição é um sentido muito importante na tarefa da condução. Em que momento?",
+      "imagem": "4062.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4062.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Na decisão.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Na recolha da informação.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "No tratamento da informação.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4063",
+      "url": "https://www.bomcondutor.pt/questao/4063",
+      "pergunta": "A capacidade de condução pode ser prejudicada pela ingestão de pequenas quantidades de álcool?",
+      "imagem": "4063.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4063.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, são completamente inofensivas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, se forem ingeridas durante a refeição.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, pois podem levar à sobrevalorização da capacidade de condução.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4064",
+      "url": "https://www.bomcondutor.pt/questao/4064",
+      "pergunta": "A capacidade para conduzir pode ser alterada pela ingestão de medicamentos?",
+      "imagem": "4064.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4064.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, salvo se não tiverem sido prescritos pelo médico.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas no caso dos sedativos e tranquilizantes.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4065",
+      "url": "https://www.bomcondutor.pt/questao/4065",
+      "pergunta": "A condução com uma taxa de álcool de 0,7 g/l, é considerada:",
+      "imagem": "4065.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4065.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Contra-ordenação grave.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Contra-ordenação muito grave.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Crime.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4066",
+      "url": "https://www.bomcondutor.pt/questao/4066",
+      "pergunta": "A condução com uma taxa de álcool, igual ou superior a 0,8 g/l, é considerada:",
+      "imagem": "4066.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4066.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Contra-ordenação grave.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Contra-ordenação muito grave.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Crime.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4067",
+      "url": "https://www.bomcondutor.pt/questao/4067",
+      "pergunta": "A condução com uma taxa de álcool, superior a 1,3 g/l, é considerada:",
+      "imagem": "4067.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4067.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Contra-ordenação grave.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Contra-ordenação leve.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Crime.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4068",
+      "url": "https://www.bomcondutor.pt/questao/4068",
+      "pergunta": "A condução sob a influência do álcool:",
+      "imagem": "4068.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4068.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumenta o tempo de recuperação após encandeamento.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Diminui o tempo de recuperação após encandeamento.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Não altera o tempo de recuperação após encandeamento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4069",
+      "url": "https://www.bomcondutor.pt/questao/4069",
+      "pergunta": "A condução sob influência de álcool é sempre considerada uma contra-ordenação.",
+      "imagem": "4069.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4069.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4070",
+      "url": "https://www.bomcondutor.pt/questao/4070",
+      "pergunta": "A condução sob influência de álcool pode ser considerada crime?",
+      "imagem": "4070.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4070.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sim, se o valor for igual ou superior a 0,5 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, se o valor for igual ou superior a 0,8 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se o valor for igual ou superior a 1,2 g/l.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4071",
+      "url": "https://www.bomcondutor.pt/questao/4071",
+      "pergunta": "A condução sob influência de substâncias psicotrópicas pode ser punida como crime.",
+      "imagem": "4071.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4071.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4072",
+      "url": "https://www.bomcondutor.pt/questao/4072",
+      "pergunta": "A condução sob influência do álcool é um factor negativo para o correcto desempenho da tarefa da condução.",
+      "imagem": "4072.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4072.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4073",
+      "url": "https://www.bomcondutor.pt/questao/4073",
+      "pergunta": "A condução sob influência do álcool provoca no condutor:",
+      "imagem": "4073.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4073.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A diminuição do tempo de reacção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O aumento do tempo de reacção.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O aumento dos reflexos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4074",
+      "url": "https://www.bomcondutor.pt/questao/4074",
+      "pergunta": "A condução sob influência do álcool:",
+      "imagem": "4074.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4074.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumenta o risco de acidente.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Diminui o risco de acidente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Em nada interfere com a segurança rodoviária.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4075",
+      "url": "https://www.bomcondutor.pt/questao/4075",
+      "pergunta": "A condução sob o efeito de álcool pode ser punida como prática de crime:",
+      "imagem": "4075.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4075.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4076",
+      "url": "https://www.bomcondutor.pt/questao/4076",
+      "pergunta": "A elevada ingestão de bebidas alcoólicas provoca num condutor:",
+      "imagem": "4076.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4076.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A redução da capacidade de reacção.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O aumento da capacidade de atenção e concentração.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O aumento das capacidades de avaliação das distâncias.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4077",
+      "url": "https://www.bomcondutor.pt/questao/4077",
+      "pergunta": "A fadiga do condutor reduz significativamente:",
+      "imagem": "4077.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4077.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A distância de paragem do veículo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A distância de reacção do condutor.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A sua capacidade de vigilância.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4078",
+      "url": "https://www.bomcondutor.pt/questao/4078",
+      "pergunta": "A fadiga é um factor que provoca, no condutor:",
+      "imagem": "4078.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4078.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A diminuição do seu tempo de reacção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A diminuição do tempo de reacção, logo a sua atenção é maior.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O aumento do seu tempo de reacção.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4079",
+      "url": "https://www.bomcondutor.pt/questao/4079",
+      "pergunta": "A fadiga influencia a recolha de informação?",
+      "imagem": "4079.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4079.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, assim como influencia toda a tarefa da condução.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, mas apenas em condução urbana.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4080",
+      "url": "https://www.bomcondutor.pt/questao/4080",
+      "pergunta": "A fadiga na condução pode provocar:",
+      "imagem": "4080.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4080.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A diminuição da distância de travagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A redução da distância de paragem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O aumento do tempo de reacção.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4081",
+      "url": "https://www.bomcondutor.pt/questao/4081",
+      "pergunta": "A fadiga na condução pode ter como consequência:",
+      "imagem": "4081.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4081.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Diminuição da vigilância em relação ao meio envolvente.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuição do tempo de reacção.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Maior rapidez dos reflexos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4082",
+      "url": "https://www.bomcondutor.pt/questao/4082",
+      "pergunta": "A fadiga provoca sonolência. A sonolência provoca o aumento:",
+      "imagem": "4082.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4082.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Da distância de travagem e do tempo de reacção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Da distância de travagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Do tempo de reacção.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4083",
+      "url": "https://www.bomcondutor.pt/questao/4083",
+      "pergunta": "A ingestão da mesma quantidade de bebida alcoólica afecta igualmente todos os condutores?",
+      "imagem": "4083.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4083.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, depende de factores como o peso, a idade, o sexo, entre outros.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não, só afecta o condutor de acordo com a idade que tiver.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, afecta.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4084",
+      "url": "https://www.bomcondutor.pt/questao/4084",
+      "pergunta": "A ingestão de alguns medicamentos pode ser tão perigosa para a condução como o álcool.",
+      "imagem": "4084.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4084.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4085",
+      "url": "https://www.bomcondutor.pt/questao/4085",
+      "pergunta": "A ingestão de bebidas alcoólicas afecta o campo visual do condutor?",
+      "imagem": "4085.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4085.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, o álcool apenas influencia a acuidade visual do condutor.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, o álcool aumenta o campo visual.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, o álcool diminui o campo visual.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4086",
+      "url": "https://www.bomcondutor.pt/questao/4086",
+      "pergunta": "A ingestão de bebidas alcoólicas influencia a condução, porque:",
+      "imagem": "4086.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4086.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumenta os reflexos do condutor.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminui a resistência física do condutor.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O condutor fica mais consciente do perigo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4087",
+      "url": "https://www.bomcondutor.pt/questao/4087",
+      "pergunta": "A ingestão de bebidas alcoólicas pode provocar no condutor um falso estado de euforia e confiança, que o leva a:",
+      "imagem": "4087.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4087.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Conduzir com maior segurança.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Necessitar de menos tempo para reagir.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sobrevalorizar as suas capacidades e minimizar o risco de acidente.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4088",
+      "url": "https://www.bomcondutor.pt/questao/4088",
+      "pergunta": "A ingestão de bebidas alcoólicas provoca no condutor:",
+      "imagem": "4088.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4088.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Reacções mais rápidas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Um aumento da capacidade visual.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma diminuição das capacidades físicas e psíquicas.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4089",
+      "url": "https://www.bomcondutor.pt/questao/4089",
+      "pergunta": "A ingestão de bebidas alcoólicas provoca no condutor:",
+      "imagem": "4089.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4089.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Bem estar e melhoria da atenção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Dificuldade de recuperação após encandeamento.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Redução do tempo de reacção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4090",
+      "url": "https://www.bomcondutor.pt/questao/4090",
+      "pergunta": "A ingestão de bebidas alcoólicas, mesmo em pequenas quantidades, podem ter como consequência:",
+      "imagem": "4090.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4090.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentar o tempo de reacção e a distância de paragem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar o tempo de reacção, mas não a distância de paragem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Diminuir o tempo de reacção e a distância de paragem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4091",
+      "url": "https://www.bomcondutor.pt/questao/4091",
+      "pergunta": "A ingestão de bebidas alcoólicas:",
+      "imagem": "4091.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4091.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Acalma o condutor.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminui a capacidade de reacção do condutor.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Torna o condutor mais consciente do perigo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4092",
+      "url": "https://www.bomcondutor.pt/questao/4092",
+      "pergunta": "A ingestão de bebidas alcoólicas:",
+      "imagem": "4092.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4092.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alarga o campo visual.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminui o campo visual.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Não afecta o campo visual.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4093",
+      "url": "https://www.bomcondutor.pt/questao/4093",
+      "pergunta": "A ingestão de certo tipo de medicamentos não é conciliável com o exercício da condução.",
+      "imagem": "4093.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4093.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4094",
+      "url": "https://www.bomcondutor.pt/questao/4094",
+      "pergunta": "A ingestão de certos tipos de medicamentos pode influenciar a visão e os reflexos do condutor?",
+      "imagem": "4094.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4094.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, os medicamentos apenas podem prejudicar a capacidade motora do condutor.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, os medicamentos apenas podem prejudicar a capacidade visual do condutor.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, os medicamentos podem prejudicar a capacidade visual e motora do condutor.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4095",
+      "url": "https://www.bomcondutor.pt/questao/4095",
+      "pergunta": "A ingestão de igual quantidade de uma bebida alcoólica afecta da mesma forma todos os condutores?",
+      "imagem": "4095.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4095.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a influência depende de vários factores como o peso, a idade, o sexo, entre outros.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não, são mais afectados os condutores de menos idade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que a bebida seja a mesma.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4096",
+      "url": "https://www.bomcondutor.pt/questao/4096",
+      "pergunta": "A monotonia na condução pode aparecer em:",
+      "imagem": "4096.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4096.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Rectas prolongadas circulando a velocidade mais ou menos constante.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Vias com perfil sinuoso.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Zonas urbanas que requerem uma constante mudança de velocidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4097",
+      "url": "https://www.bomcondutor.pt/questao/4097",
+      "pergunta": "A recolha de informação é feita essencialmente através da audição.",
+      "imagem": "4097.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4097.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4098",
+      "url": "https://www.bomcondutor.pt/questao/4098",
+      "pergunta": "A recolha de informação pode ser feita através da audição?",
+      "imagem": "4098.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4098.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque toda a informação é recebida através da visão.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas na condução nocturna.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4099",
+      "url": "https://www.bomcondutor.pt/questao/4099",
+      "pergunta": "A taxa de álcool no sangue (TAS) varia com:",
+      "imagem": "4099.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4099.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A graduação alcoólica da bebida.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A hora do dia",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4100",
+      "url": "https://www.bomcondutor.pt/questao/4100",
+      "pergunta": "A visão cromática é a capacidade que permite ao condutor:",
+      "imagem": "4100.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4100.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Avaliar a distância de segurança.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Avaliar distâncias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Distinguir cores.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4101",
+      "url": "https://www.bomcondutor.pt/questao/4101",
+      "pergunta": "A visão é um dos sentidos mais importantes na tarefa da condução.",
+      "imagem": "4101.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4101.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4102",
+      "url": "https://www.bomcondutor.pt/questao/4102",
+      "pergunta": "A visão em túnel manifesta-se de que modo?",
+      "imagem": "4102.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4102.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Perda total da capacidade de visão cromática.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Perda total de visão lateral.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4103",
+      "url": "https://www.bomcondutor.pt/questao/4103",
+      "pergunta": "A visão estereoscópica permite ao condutor:",
+      "imagem": "4103.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4103.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Avaliar distâncias.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Distinguir cores.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Resistir ao encandeamento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4104",
+      "url": "https://www.bomcondutor.pt/questao/4104",
+      "pergunta": "Ao condutor com uma taxa de álcool no sangue de 0,9 g/l é aplicável a sanção acessória de inibição de conduzir de:",
+      "imagem": "4104.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4104.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Dois meses a dois anos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Seis meses a dois anos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Um mês a seis meses.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4105",
+      "url": "https://www.bomcondutor.pt/questao/4105",
+      "pergunta": "Ao ingerir álcool e medicamentos, em simultâneo, o condutor pode ver aumentado o efeito de ambas as substâncias na condução.",
+      "imagem": "4105.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4105.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4106",
+      "url": "https://www.bomcondutor.pt/questao/4106",
+      "pergunta": "Após a ingestão de álcool, as capacidades físicas e psíquicas do condutor:",
+      "imagem": "4106.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4106.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentam devido ao estado de euforia.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Ficam alteradas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Só são alteradas se beber em grande quantidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4107",
+      "url": "https://www.bomcondutor.pt/questao/4107",
+      "pergunta": "Após a ingestão de bebidas alcoólicas os efeitos do álcool começam a manifestar-se:",
+      "imagem": "4107.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4107.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Decorridas mais de 3 horas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Durante a 2ª hora.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Muito rapidamente.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4108",
+      "url": "https://www.bomcondutor.pt/questao/4108",
+      "pergunta": "Após a ingestão de bebidas alcoólicas os efeitos do álcool na condução começam a manifestar-se:",
+      "imagem": "4108.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4108.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Decorridas mais de 3 horas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Logo durante a 1ª hora.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Só a partir da 2ª hora.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4109",
+      "url": "https://www.bomcondutor.pt/questao/4109",
+      "pergunta": "Após a ingestão de bebidas alcoólicas, um obstáculo que surja na frente do condutor:",
+      "imagem": "4109.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4109.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Parece à distância correcta.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Parece mais longe.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Parece mais próximo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4110",
+      "url": "https://www.bomcondutor.pt/questao/4110",
+      "pergunta": "Após a ingestão de bebidas alcoólicas:",
+      "imagem": "4110.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4110.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "As faculdades necessárias à condução são perturbadas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O condutor é menos afectado de dia.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O condutor só é afectado na capacidade visual.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4111",
+      "url": "https://www.bomcondutor.pt/questao/4111",
+      "pergunta": "Após ingerir bebidas alcoólicas, os obstáculos que um condutor aviste à sua frente na via pública, parecem-lhe estar:",
+      "imagem": "4111.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4111.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "À distância real.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Mais longe.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Mais próximo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4112",
+      "url": "https://www.bomcondutor.pt/questao/4112",
+      "pergunta": "As bebidas alcoólicas podem levar os condutores a:",
+      "imagem": "4112.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4112.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Diminuir os reflexos, aumentando o tempo de reacção e a distância de paragem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Melhorar a sua capacidade de avaliação das condições do trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Melhorar a sua capacidade de domínio do veículo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4113",
+      "url": "https://www.bomcondutor.pt/questao/4113",
+      "pergunta": "As bebidas alcoólicas, mesmo tomadas em pequenas quantidades, podem afectar a condução:",
+      "imagem": "4113.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4113.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Através da redução do campo visual.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Através da redução do risco de acidente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Através da redução do tempo de reacção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4114",
+      "url": "https://www.bomcondutor.pt/questao/4114",
+      "pergunta": "As bebidas alcoólicas, só têm efeitos negativos no condutor, a partir de uma taxa de álcool no sangue igual ou superior a 0,5 g/l.",
+      "imagem": "4114.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4114.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4115",
+      "url": "https://www.bomcondutor.pt/questao/4115",
+      "pergunta": "Com a taxa de álcool no sangue de 0,9 g/l, o condutor será sancionado pela prática:",
+      "imagem": "4115.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4115.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "De uma contra-ordenação grave.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "De uma contra-ordenação leve.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "De uma contra-ordenação muito grave.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4116",
+      "url": "https://www.bomcondutor.pt/questao/4116",
+      "pergunta": "Com uma taxa de álcool no sangue de 0,5 g/l, o condutor será punido, pela prática de uma contra-ordenação:",
+      "imagem": "4116.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4116.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Grave.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Leve.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Muito grave.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4117",
+      "url": "https://www.bomcondutor.pt/questao/4117",
+      "pergunta": "Com uma taxa de álcool no sangue de 0,5g/l, um condutor:",
+      "imagem": "4117.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4117.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Continua apto a conduzir com segurança.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Fica com as suas capacidades para a condução diminuídas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Fica eufórico, o que lhe dá maior consciência do perigo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4118",
+      "url": "https://www.bomcondutor.pt/questao/4118",
+      "pergunta": "Com uma taxa de álcool no sangue igual ou superior a 0,5g/l, sem submissão a novos exames, o condutor fica impedido de conduzir durante:",
+      "imagem": "4118.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4118.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "12 horas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "2 horas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "24 horas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4119",
+      "url": "https://www.bomcondutor.pt/questao/4119",
+      "pergunta": "Com uma taxa de álcool, de 0,7 g/l, o condutor será sancionado:",
+      "imagem": "4119.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4119.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas com coima.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas com inibição de conduzir.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Com coima e inibição de conduzir.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4120",
+      "url": "https://www.bomcondutor.pt/questao/4120",
+      "pergunta": "Como devo circular no local em que me encontro?",
+      "imagem": "4120.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4120.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Contornar a placa pela direita.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Contornar a placa pela esquerda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4121",
+      "url": "https://www.bomcondutor.pt/questao/4121",
+      "pergunta": "Como devo proceder para vencer a sonolência durante uma viagem?",
+      "imagem": "4121.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4121.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ligar o rádio e abrir as janelas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Parar de vez em quando para tomar café.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Parar em local apropriado e descansar o suficiente.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4122",
+      "url": "https://www.bomcondutor.pt/questao/4122",
+      "pergunta": "Como devo proceder perante o sinal de obrigação?",
+      "imagem": "4122.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4122.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ceder a passagem aos veículos da direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Circular junto ao eixo da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Contornar a placa ou obstáculo pelo lado indicado pela seta.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4123",
+      "url": "https://www.bomcondutor.pt/questao/4123",
+      "pergunta": "Como devo proceder perante o sinal de obrigação?",
+      "imagem": "4123.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4123.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ceder a passagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Contornar a placa ou obstáculo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Mudar de direcção à direita porque o sentido é obrigatório.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4124",
+      "url": "https://www.bomcondutor.pt/questao/4124",
+      "pergunta": "Conduzir sob a influência do álcool:",
+      "imagem": "4124.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4124.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumenta a visão periférica.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminui a visão periférica.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Não altera a visão periférica.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4125",
+      "url": "https://www.bomcondutor.pt/questao/4125",
+      "pergunta": "Conduzir sob a influência do álcool:",
+      "imagem": "4125.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4125.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumenta a visão lateral.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Aumenta o tempo de reacção e a capacidade de previsão.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Diminui a capacidade de recolher informação.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4126",
+      "url": "https://www.bomcondutor.pt/questao/4126",
+      "pergunta": "Conduzir sob o efeito do álcool:",
+      "imagem": "4126.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4126.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumenta a capacidade de atenção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminui a capacidade de atenção.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Não altera a capacidade de atenção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4127",
+      "url": "https://www.bomcondutor.pt/questao/4127",
+      "pergunta": "Considera que o comportamento deste condutor é adequado a uma condução segura?",
+      "imagem": "4127.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4127.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque a distracção não influencia a condução.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se estiver a praticar uma condução urbana.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4128",
+      "url": "https://www.bomcondutor.pt/questao/4128",
+      "pergunta": "Considera-se condução sob o efeito de álcool, quando o condutor apresenta uma TAS:",
+      "imagem": "4128.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4128.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Igual ou superior a 0,3g/l.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Igual ou superior a 0,5g/l.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Superior a 0,5g/l.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4129",
+      "url": "https://www.bomcondutor.pt/questao/4129",
+      "pergunta": "Considera-se crime a condução com uma taxa de álcool, igual ou superior a:",
+      "imagem": "4129.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4129.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "0,5 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "0,8 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "1,2 g/l.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4130",
+      "url": "https://www.bomcondutor.pt/questao/4130",
+      "pergunta": "Considera-se sob a influência do álcool o condutor que apresente uma taxa de álcool, igual ou superior a:",
+      "imagem": "4130.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4130.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "0,3 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "0,4 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "0,5 g/l.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4131",
+      "url": "https://www.bomcondutor.pt/questao/4131",
+      "pergunta": "Constitui crime a condução com uma taxa de álcool no sangue:",
+      "imagem": "4131.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4131.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Igual ou superior a 0,8 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Igual ou superior a 1,0 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Igual ou superior a 1,2 g/l.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4132",
+      "url": "https://www.bomcondutor.pt/questao/4132",
+      "pergunta": "Contribuindo para que o condutor se sinta melhor física e psicologicamente, os tranquilizantes permitem a condução em segurança.",
+      "imagem": "4132.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4132.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4133",
+      "url": "https://www.bomcondutor.pt/questao/4133",
+      "pergunta": "Cria situações de perigo para o trânsito:",
+      "imagem": "4133.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4133.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A condução sob a influência de álcool.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O veículo parado a aguardar a passagem do comboio.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O veículo que circule pela direita da faixa de rodagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4134",
+      "url": "https://www.bomcondutor.pt/questao/4134",
+      "pergunta": "Cria, em geral, uma situação de perigo no trânsito:",
+      "imagem": "4134.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4134.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A condução sob a influência de bebidas alcoólicas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A paragem junto a um sinal de stop.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A realização da manobra de inversão do sentido de marcha.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4135",
+      "url": "https://www.bomcondutor.pt/questao/4135",
+      "pergunta": "De que forma pode o estado emocional prejudicar o exercício da condução?",
+      "imagem": "4135.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4135.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Diminuindo a fadiga muscular resultante da própria condução.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuindo o grau de atenção e de concentração.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Diminuindo o nível de agressividade na condução.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4136",
+      "url": "https://www.bomcondutor.pt/questao/4136",
+      "pergunta": "Devido à ingestão de bebidas alcoólicas, a capacidade de previsão do condutor:",
+      "imagem": "4136.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4136.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumenta.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminui.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Não se altera.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4137",
+      "url": "https://www.bomcondutor.pt/questao/4137",
+      "pergunta": "Dos seguintes factores assinale aquele de que depende mais a distância de reacção:",
+      "imagem": "4137.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4137.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Da ingestão de bebidas alcoólicas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Do perfil da via.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Do sistema de travagem do veículo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4138",
+      "url": "https://www.bomcondutor.pt/questao/4138",
+      "pergunta": "Dos seguintes factores, assinale aquele que é agravado pela condução nocturna:",
+      "imagem": "4138.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4138.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A audição.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A fadiga.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "A taxa de álcool no sangue.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4139",
+      "url": "https://www.bomcondutor.pt/questao/4139",
+      "pergunta": "Durante uma viagem longa é aconselhável ao condutor:",
+      "imagem": "4139.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4139.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fazer a viagem o mais rapidamente possível.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Ir bebendo bebidas energéticas, enquanto puder.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Parar e descansar de 2 em 2 horas.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4140",
+      "url": "https://www.bomcondutor.pt/questao/4140",
+      "pergunta": "Durante uma viagem longa, como pode um condutor evitar a fadiga?",
+      "imagem": "4140.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4140.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Beber café.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Fazer paragens para relaxar o corpo e desentorpecer as pernas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Ingerir uma pequena quantidade de uma substância excitante.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4141",
+      "url": "https://www.bomcondutor.pt/questao/4141",
+      "pergunta": "É considerada uma contra-ordenação muito grave, a condução com uma taxa de álcool no sangue de:",
+      "imagem": "4141.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4141.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "0,6 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "0,7 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "0,9 g/l.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4142",
+      "url": "https://www.bomcondutor.pt/questao/4142",
+      "pergunta": "É considerado crime a condução com uma taxa de álcool no sangue, igual a:",
+      "imagem": "4142.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4142.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "0,9 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "1,1 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "1,2 g/l.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4143",
+      "url": "https://www.bomcondutor.pt/questao/4143",
+      "pergunta": "É considerado crime se o condutor apresentar uma taxa de álcool, de:",
+      "imagem": "4143.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4143.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "0,8 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "0,9 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "1,2 g/l.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4144",
+      "url": "https://www.bomcondutor.pt/questao/4144",
+      "pergunta": "É proibido conduzir veículos na via pública com taxa de alcoolemia:",
+      "imagem": "4144.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4144.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Igual ou superior a 0,5g/l sangue.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Inferior a 0,5g/l no sangue.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4145",
+      "url": "https://www.bomcondutor.pt/questao/4145",
+      "pergunta": "Em auto-estrada, a condução sob efeito de álcool e/ou drogas pode ser particularmente perigosa devido ao facto de provocarem:",
+      "imagem": "4145.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4145.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumento do tempo de reacção e da distância de paragem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuição do tempo de reacção e aumento da distância de paragem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Diminuição do tempo de reacção e da distância de paragem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4146",
+      "url": "https://www.bomcondutor.pt/questao/4146",
+      "pergunta": "Em qual das fases da tarefa da condução se revela fundamental o papel desempenhado pela audição?",
+      "imagem": "4146.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4146.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Na execução da resposta.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Na recolha de informação.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "No tratamento da informação.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4147",
+      "url": "https://www.bomcondutor.pt/questao/4147",
+      "pergunta": "Em que se traduz a influência do álcool no exercício da condução?",
+      "imagem": "4147.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4147.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Na diminuição da capacidade de reacção do condutor.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Na diminuição do tempo de fixação dos olhos nos objectos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "No aumento da capacidade de percepção das velocidades e distâncias.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4148",
+      "url": "https://www.bomcondutor.pt/questao/4148",
+      "pergunta": "Em viagens muito longas a fadiga pode manifestar-se a nível muscular, nervoso e visual.",
+      "imagem": "4148.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4148.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4149",
+      "url": "https://www.bomcondutor.pt/questao/4149",
+      "pergunta": "Enquanto condutores devemos evitar situações que nos afastem da atenção que a tarefa da condução exige.",
+      "imagem": "4149.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4149.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4150",
+      "url": "https://www.bomcondutor.pt/questao/4150",
+      "pergunta": "Este sinal de obrigação indica:",
+      "imagem": "4150.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4150.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Obrigação de contornar a placa pela direita.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sentido obrigatório.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Trânsito de sentido único.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4151",
+      "url": "https://www.bomcondutor.pt/questao/4151",
+      "pergunta": "Este sinal determina que:",
+      "imagem": "4151.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4151.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "É obrigatório voltar à direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "É proibido voltar para a direita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O trânsito se faz num único sentido.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Tenho que contornar a placa dando-lhe a minha esquerda.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "D"
+    },
+    {
+      "numero": "4152",
+      "url": "https://www.bomcondutor.pt/questao/4152",
+      "pergunta": "Este sinal indica que:",
+      "imagem": "4152.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4152.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A via é de sentido único.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Posso passar em primeiro lugar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tenho de ceder a passagem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4153",
+      "url": "https://www.bomcondutor.pt/questao/4153",
+      "pergunta": "Este sinal vertical indica-me:",
+      "imagem": "4153.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4153.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Que só podem circular veículos que tenham colocadas as correntes de neve.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Que só podem transitar veículos com pneus especiais para este tipo de via.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Que sou aconselhado a utilizar correntes de neve.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4154",
+      "url": "https://www.bomcondutor.pt/questao/4154",
+      "pergunta": "Este sinal vertical significa que:",
+      "imagem": "4154.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4154.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Deixo de estar obrigado a circular à velocidade mínima de 30 Km/h.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Estou obrigado a circular à velocidade máxima de 30 Km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Estou obrigado a circular à velocidade mínima de 30Km/h.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4155",
+      "url": "https://www.bomcondutor.pt/questao/4155",
+      "pergunta": "Este sinal vertical significa:",
+      "imagem": "4155.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4155.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fim da obrigação de utilizar correntes de neve.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Fim da recomendação da utilização de correntes de neve.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Que estou obrigado a utilizar correntes de neve.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4156",
+      "url": "https://www.bomcondutor.pt/questao/4156",
+      "pergunta": "Estou correctamente posicionado nesta via de trânsito para mudar de direcção à direita?",
+      "imagem": "4156.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4156.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não. Estou correctamente posicionado somente para seguir em frente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim e a sinalização permite-me realizar a manobra.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4157",
+      "url": "https://www.bomcondutor.pt/questao/4157",
+      "pergunta": "Existem medicamentos capazes de prejudicar o desempenho do indivíduo ao volante?",
+      "imagem": "4157.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4157.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, desde que tenham sido receitados por um médico.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas se forem ingeridos juntamente com bebidas alcoólicas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4158",
+      "url": "https://www.bomcondutor.pt/questao/4158",
+      "pergunta": "Existem medicamentos cuja ingestão pode influenciar a condução da mesma forma que o álcool.",
+      "imagem": "4158.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4158.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4159",
+      "url": "https://www.bomcondutor.pt/questao/4159",
+      "pergunta": "Há medicamentos cuja ingestão é incompatível com o exercício da condução.",
+      "imagem": "4159.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4159.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4160",
+      "url": "https://www.bomcondutor.pt/questao/4160",
+      "pergunta": "Há medicamentos que, ingeridos ao mesmo tempo que bebidas alcoólicas, reduzem a aptidão para a condução?",
+      "imagem": "4160.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4160.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Somente quando o condutor os tomar em estado de fraqueza.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Somente se ingerir uma quantidade excessiva de bebida alcoólica.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4161",
+      "url": "https://www.bomcondutor.pt/questao/4161",
+      "pergunta": "Legalmente, considera-se condução sob influência do álcool, quando o condutor apresenta uma taxa:",
+      "imagem": "4161.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4161.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "De 0,3 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Igual a 0,5 g/l.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Inferior a 0,5 g/l.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4162",
+      "url": "https://www.bomcondutor.pt/questao/4162",
+      "pergunta": "Na condução automóvel há situações em que a audição se pode sobrepor à visão permitindo ao indivíduo evitar a ocorrência de um acidente.",
+      "imagem": "4162.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4162.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4163",
+      "url": "https://www.bomcondutor.pt/questao/4163",
+      "pergunta": "Na condução, um estado emocional mais agressivo:",
+      "imagem": "4163.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4163.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumenta a atenção do condutor.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Pode aumentar o tempo de reacção do condutor.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Pode diminuir o tempo de reacção do condutor.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4164",
+      "url": "https://www.bomcondutor.pt/questao/4164",
+      "pergunta": "Na via onde se encontra colocado o sinal vertical, pode circular um motociclo?",
+      "imagem": "4164.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4164.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não pode.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Só pode se o motociclo não tiver carro lateral.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Só pode se transitar a menos de 30 Km/h.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4165",
+      "url": "https://www.bomcondutor.pt/questao/4165",
+      "pergunta": "Nesta situação o condutor deve:",
+      "imagem": "4165.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4165.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Parar de conduzir até acalmar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Reduzir a velocidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4166",
+      "url": "https://www.bomcondutor.pt/questao/4166",
+      "pergunta": "Nesta situação, o condutor fica diminuido na sua:",
+      "imagem": "4166.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4166.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Capacidade de reacção e atenção.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Visão e atenção.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Visão e capacidade de reacção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4167",
+      "url": "https://www.bomcondutor.pt/questao/4167",
+      "pergunta": "Nesta via pública só podem circular veículos com correntes de neve colocadas:",
+      "imagem": "4167.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4167.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Em duas rodas motoras.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Em todas as rodas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4168",
+      "url": "https://www.bomcondutor.pt/questao/4168",
+      "pergunta": "Num condutor, a taxa de álcool no sangue é 0,4 g/l. Isto significa que:",
+      "imagem": "4168.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4168.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Num litro de bebida alcoólica existem 0,4 gramas de álcool.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Num litro de sangue do condutor existem 0,4 gramas de álcool puro.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Um litro de bebida alcoólica origina 0,4 gramas de álcool puro no sangue.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4169",
+      "url": "https://www.bomcondutor.pt/questao/4169",
+      "pergunta": "Numa viagem longa é aconselhável o condutor descansar:",
+      "imagem": "4169.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4169.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas de 4 em 4 horas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "De 2 em 2 horas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Só depois de ter percorrido os primeiros 400 km.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4170",
+      "url": "https://www.bomcondutor.pt/questao/4170",
+      "pergunta": "Numa viagem longa, para evitar a fadiga, o melhor é:",
+      "imagem": "4170.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4170.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentar a velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Fumar e ouvir música muito alto.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Parar, sair do veículo e descansar.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4171",
+      "url": "https://www.bomcondutor.pt/questao/4171",
+      "pergunta": "O álcool influencia, de forma negativa, o desempenho da tarefa da condução?",
+      "imagem": "4171.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4171.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque o álcool é um estimulante para a condução.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas quando a taxa de álcool no sangue é muito elevada.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, sempre.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4172",
+      "url": "https://www.bomcondutor.pt/questao/4172",
+      "pergunta": "O álcool ingerido pelo condutor:",
+      "imagem": "4172.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4172.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumenta a sua percepção visual.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminui a percepção visual.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Diminui o risco de acidente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4173",
+      "url": "https://www.bomcondutor.pt/questao/4173",
+      "pergunta": "O campo visual de um condutor é prejudicado pela:",
+      "imagem": "4173.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4173.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Diminuição dos reflexos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Ingestão de bebidas alcoólicas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Redução do tempo de reacção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4174",
+      "url": "https://www.bomcondutor.pt/questao/4174",
+      "pergunta": "O condutor bebendo a mesma quantidade de uma bebida alcoólica apresenta maior taxa de álcool no sangue:",
+      "imagem": "4174.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4174.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Quando a bebida é ingerida durante uma refeição.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Quando a bebida é ingerida em jejum.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4175",
+      "url": "https://www.bomcondutor.pt/questao/4175",
+      "pergunta": "O condutor detectado a conduzir sob a influência do álcool e não tendo sido submetido a novos exames, só poderá retomar a condução ao fim de:",
+      "imagem": "4175.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4175.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "12 horas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "6 horas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "8 horas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4176",
+      "url": "https://www.bomcondutor.pt/questao/4176",
+      "pergunta": "O condutor pode ser inibido de conduzir:",
+      "imagem": "4176.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4176.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Se cometer qualquer infracção ao Código da Estrada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Se estacionar o seu automóvel em cima do passeio.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Se for detectado com uma taxa de álcool igual ou superior a 0,5g/l",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4177",
+      "url": "https://www.bomcondutor.pt/questao/4177",
+      "pergunta": "O condutor que ao ser fiscalizado, apresente uma taxa de álcool igual ou superior a 0,5 g/l e não for submetido a novos exames, fica impedido de conduzir:",
+      "imagem": "4177.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4177.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Nas 12 horas seguintes.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Nas 18 horas seguintes.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Nas 24 horas seguintes.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4178",
+      "url": "https://www.bomcondutor.pt/questao/4178",
+      "pergunta": "O condutor que ingeriu bebidas alcoólicas:",
+      "imagem": "4178.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4178.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Reage mais lentamente, aumentando o tempo de paragem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Reage rapidamente por aumento dos reflexos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Se bebeu em pouca quantidade, não se verificam alterações.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4179",
+      "url": "https://www.bomcondutor.pt/questao/4179",
+      "pergunta": "O condutor sob o efeito de álcool tem tendência para:",
+      "imagem": "4179.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4179.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Conduzir com velocidade excessiva e instável.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Reagir rapidamente por aumento de reflexos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ser mais respeitador das regras de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4180",
+      "url": "https://www.bomcondutor.pt/questao/4180",
+      "pergunta": "O consumo de uma pequena quantidade de bebida alcoólica pode influenciar a condução?",
+      "imagem": "4180.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4180.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, após um passeio o efeito da bebida alcoólica desaparece.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, o efeito da bebida alcoólica desaparece se o condutor tomar um café.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, pode.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4181",
+      "url": "https://www.bomcondutor.pt/questao/4181",
+      "pergunta": "O estado emocional deste condutor pode:",
+      "imagem": "4181.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4181.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentar o tempo de reacção.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuir o tempo de reacção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4182",
+      "url": "https://www.bomcondutor.pt/questao/4182",
+      "pergunta": "O estado emocional do condutor influencia a forma como desempenha a tarefa da condução.",
+      "imagem": "4182.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4182.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4183",
+      "url": "https://www.bomcondutor.pt/questao/4183",
+      "pergunta": "O estado emocional do condutor influencia o seu desempenho na tarefa da condução.",
+      "imagem": "4183.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4183.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4184",
+      "url": "https://www.bomcondutor.pt/questao/4184",
+      "pergunta": "O estado emocional do condutor pode influenciar a sua atenção na condução?",
+      "imagem": "4184.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4184.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4185",
+      "url": "https://www.bomcondutor.pt/questao/4185",
+      "pergunta": "O estado emocional do condutor pode influenciar, de forma negativa, o desempenho da tarefa da condução?",
+      "imagem": "4185.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4185.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque o estado emocional apenas influencia a distância de travagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas se o condutor circular fora de localidades.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, pode.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4186",
+      "url": "https://www.bomcondutor.pt/questao/4186",
+      "pergunta": "O estado emocional é um factor de ordem interna que influencia:",
+      "imagem": "4186.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4186.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A distância de travagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O tempo de reacção e a distância de travagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O tempo de reacção.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4187",
+      "url": "https://www.bomcondutor.pt/questao/4187",
+      "pergunta": "O estado físico do condutor é um factor muito importante para a condução. A ingestão de bebidas alcoólicas:",
+      "imagem": "4187.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4187.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "É muito negativa para o desempenho da tarefa de condução.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não influencia a tarefa de condução.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Só é negativa, se as bebidas forem ingeridas em grandes quantidades.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4188",
+      "url": "https://www.bomcondutor.pt/questao/4188",
+      "pergunta": "O estado físico do condutor influencia a forma como desempenha a tarefa da condução?",
+      "imagem": "4188.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4188.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, o estado físico não tem influência. A condução é influenciada apenas, pelo estado psicológico.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas unicamente se estiver sob a influência do álcool com taxa superior a 0,8 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, sempre.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4189",
+      "url": "https://www.bomcondutor.pt/questao/4189",
+      "pergunta": "O impedimento de conduzir após o teste de álcool, quando o condutor apresentar uma taxa superior a 0,5 g/l, deve manter-se por:",
+      "imagem": "4189.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4189.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "12 horas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "24 horas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "48 horas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4190",
+      "url": "https://www.bomcondutor.pt/questao/4190",
+      "pergunta": "O que caracteriza o desempenho de um condutor que se encontra em bom estado físico e psicológico?",
+      "imagem": "4190.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4190.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Maior nível de atenção e reflexos mais lentos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Maior nível de atenção e reflexos mais rápidos.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Menor nível de atenção e reflexos mais lentos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4191",
+      "url": "https://www.bomcondutor.pt/questao/4191",
+      "pergunta": "O que deve fazer o condutor quando se sente sonolento?",
+      "imagem": "4191.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4191.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Continuar a viagem. É importante não perder tempo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Moderar a velocidade, evitando parar o veículo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Parar e descansar.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4192",
+      "url": "https://www.bomcondutor.pt/questao/4192",
+      "pergunta": "O que é a visão cromática?",
+      "imagem": "4192.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4192.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Capacidade de distinguir as cores.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Capacidade de ver durante a noite.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Capacidade de ver lateralmente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4193",
+      "url": "https://www.bomcondutor.pt/questao/4193",
+      "pergunta": "O que é o campo visual?",
+      "imagem": "4193.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4193.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "É a área total que o indivíduo vê olhando em frente, sem mover a cabeça.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "É a capacidade do indivíduo para distinguir os objectos ao longe.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "É a capacidade do indivíduo para ver os objectos a três dimensões.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4194",
+      "url": "https://www.bomcondutor.pt/questao/4194",
+      "pergunta": "O que é que pode levar ao aumento da distância de paragem?",
+      "imagem": "4194.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4194.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A fadiga do condutor.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A largura da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A subida de inclinação acentuada.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4195",
+      "url": "https://www.bomcondutor.pt/questao/4195",
+      "pergunta": "O que significa uma taxa de álcool de 0,5 gramas por litro de sangue?",
+      "imagem": "4195.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4195.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Cada litro da bebida alcoólica conduz à presença de 0,5 gramas de álcool no sangue.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Num litro da bebida alcoólica existem 0,5 gramas de álcool.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Num litro de sangue existem 0,5 gramas de álcool.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4196",
+      "url": "https://www.bomcondutor.pt/questao/4196",
+      "pergunta": "O sinal circular de fundo azul indica-me a velocidade:",
+      "imagem": "4196.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4196.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Máxima permitida.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Máxima recomendada.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Mínima obrigatória.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4197",
+      "url": "https://www.bomcondutor.pt/questao/4197",
+      "pergunta": "O sinal de fundo azul à minha direita indica-me:",
+      "imagem": "4197.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4197.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Os sentidos obrigatórios possíveis.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Que apenas estou autorizado a mudar de direcção à esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Que apenas estou autorizado a seguir em frente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4198",
+      "url": "https://www.bomcondutor.pt/questao/4198",
+      "pergunta": "O sinal de fundo azul indica-me:",
+      "imagem": "4198.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4198.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Os sentidos obrigatórios possíveis.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Que nas vias da direita e da esquerda o trânsito se faz nos dois sentidos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Que tenho prioridade de passagem no próximo entroncamento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4199",
+      "url": "https://www.bomcondutor.pt/questao/4199",
+      "pergunta": "O sinal de obrigação de contornar placa ou obstáculo permite-me contornar a placa:",
+      "imagem": "4199.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4199.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas pelo lado direito.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas pelo lado esquerdo.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Por qualquer um dos lados.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4200",
+      "url": "https://www.bomcondutor.pt/questao/4200",
+      "pergunta": "O sinal de obrigação de contornar placa ou obstáculo:",
+      "imagem": "4200.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4200.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aconselha-me a contornar a placa ou obstáculo pelo lado indicado pela seta.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Obriga-me a contornar a placa ou obstáculo pelo lado indicado pela seta.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Permite-me contornar a placa por qualquer dos lados.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4201",
+      "url": "https://www.bomcondutor.pt/questao/4201",
+      "pergunta": "O sinal de obrigação indica-me que a velocidade nele mencionada não pode ser excedida.",
+      "imagem": "4201.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4201.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4202",
+      "url": "https://www.bomcondutor.pt/questao/4202",
+      "pergunta": "O sinal de obrigação indica-me que:",
+      "imagem": "4202.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4202.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A mudança de direcção à esquerda ou à direita não me é permitida.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Posso tomar um de dois sentidos obrigatórios possíveis.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Vou entrar numa via com dupla faixa de rodagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4203",
+      "url": "https://www.bomcondutor.pt/questao/4203",
+      "pergunta": "O sinal de obrigação indica-me que:",
+      "imagem": "4203.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4203.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sou obrigado a reduzir a velocidade, mudando de direcção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sou obrigado a seguir em frente.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Vou entrar numa via de sentido único.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4204",
+      "url": "https://www.bomcondutor.pt/questao/4204",
+      "pergunta": "O sinal de obrigação indica-me:",
+      "imagem": "4204.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4204.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Curva perigosa à esquerda e à direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Que o trânsito passa de uma para duas vias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sentidos obrigatórios possíveis.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4205",
+      "url": "https://www.bomcondutor.pt/questao/4205",
+      "pergunta": "O sinal indica:",
+      "imagem": "4205.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4205.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aproximação de local frequentado por cavaleiros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Circulação proibida a cavaleiros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pista obrigatória para cavaleiros.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4206",
+      "url": "https://www.bomcondutor.pt/questao/4206",
+      "pergunta": "O sinal informa-me que:",
+      "imagem": "4206.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4206.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A via à direita é destinada à circulação de peões e motociclos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A via à direita é destinada à circulação de peões e velocípedes.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Não devem circular peões nem motociclos na via à direita.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4207",
+      "url": "https://www.bomcondutor.pt/questao/4207",
+      "pergunta": "O sinal vertical de fundo azul indica-me que:",
+      "imagem": "4207.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4207.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não posso mudar de direcção.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não tenho que ceder a passagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Vou encontrar uma subida acentuada.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4208",
+      "url": "https://www.bomcondutor.pt/questao/4208",
+      "pergunta": "O sinal vertical de fundo azul indica-me que:",
+      "imagem": "4208.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4208.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não posso seguir em frente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sou obrigado a seguir em frente.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Vou entrar numa via de sentido único.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4209",
+      "url": "https://www.bomcondutor.pt/questao/4209",
+      "pergunta": "O sinal vertical de fundo azul indica:",
+      "imagem": "4209.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4209.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Obrigação de seguir em frente.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Trânsito de sentido único.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4210",
+      "url": "https://www.bomcondutor.pt/questao/4210",
+      "pergunta": "O sinal vertical de fundo azul indica:",
+      "imagem": "4210.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4210.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sentido obrigatório.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Subida perigosa.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Via de sentido único.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4211",
+      "url": "https://www.bomcondutor.pt/questao/4211",
+      "pergunta": "O sinal vertical de fundo azul:",
+      "imagem": "4211.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4211.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Indica a aproximação de troço de via com neve.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Obriga a utilizar correntes de neve.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Recomenda a utilização de correntes de neve.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4212",
+      "url": "https://www.bomcondutor.pt/questao/4212",
+      "pergunta": "O sinal vertical indica-me a proximidade de uma pista obrigatória para peões. Concorda com esta afirmação?",
+      "imagem": "4212.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4212.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não. O sinal indica obrigação de seguir pelo sentido indicado pela seta.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não. O sinal indica que circulo ao lado de uma pista obrigatória para velocípedes.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim e devo moderar a velocidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4213",
+      "url": "https://www.bomcondutor.pt/questao/4213",
+      "pergunta": "O sinal vertical proíbe-me de realizar a manobra de mudança de direcção.",
+      "imagem": "4213.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4213.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4214",
+      "url": "https://www.bomcondutor.pt/questao/4214",
+      "pergunta": "O sinal vertical que se encontra nesta via pública indica-me:",
+      "imagem": "4214.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4214.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Que devo utilizar os máximos apenas no cruzamento com outros veículos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Que estou obrigado a transitar com as luzes de cruzamento acesas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Que já não estou obrigado a transitar com as luzes de cruzamento acesas.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4215",
+      "url": "https://www.bomcondutor.pt/questao/4215",
+      "pergunta": "Os condutores devem sempre informar-se acerca da possível influência de alguns medicamentos na condução.",
+      "imagem": "4215.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4215.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4216",
+      "url": "https://www.bomcondutor.pt/questao/4216",
+      "pergunta": "Os condutores podem recusar submeter-se às provas para detecção do estado de influenciado pelo álcool?",
+      "imagem": "4216.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4216.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque apenas são submetidos ao teste, os condutores intervenientes em acidente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se não tiverem ingerido bebidas alcoólicas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4217",
+      "url": "https://www.bomcondutor.pt/questao/4217",
+      "pergunta": "Os condutores tem obrigação de sujeitar-se às provas estabelecidas para a detecção de álcool.",
+      "imagem": "4217.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4217.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4218",
+      "url": "https://www.bomcondutor.pt/questao/4218",
+      "pergunta": "Os efeitos do álcool na condução podem ser aumentados pela ingestão simultânea de certos medicamentos?",
+      "imagem": "4218.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4218.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, os efeitos do álcool não interferem com os dos medicamentos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, embora os efeitos dos medicamentos não possam ser aumentados pelo álcool.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, os efeitos do álcool podem ser aumentados pelos medicamentos e vice-versa.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4219",
+      "url": "https://www.bomcondutor.pt/questao/4219",
+      "pergunta": "Os medicamentos, ingeridos com bebidas alcoólicas, podem prejudicar o desempenho do condutor ao volante?",
+      "imagem": "4219.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4219.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, salvo se os medicamentos forem tomados em jejum.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, tal só acontece com os anti-depressivos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, mas apenas se a quantidade de álcool ingerida for significativa.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "D"
+    },
+    {
+      "numero": "4220",
+      "url": "https://www.bomcondutor.pt/questao/4220",
+      "pergunta": "Os peões devem ser submetidos a exame de pesquisa de álcool no ar expirado?",
+      "imagem": "4220.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4220.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, nunca.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, quando intervenham em acidente.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, sempre.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4221",
+      "url": "https://www.bomcondutor.pt/questao/4221",
+      "pergunta": "Os tranquilizantes e os estimulantes podem afectar as capacidades do indivíduo para o exercício da condução?",
+      "imagem": "4221.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4221.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, desde que sejam receitados pelo médico.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas ingeridos com bebidas alcoólicas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, podem afectar as suas capacidades.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4222",
+      "url": "https://www.bomcondutor.pt/questao/4222",
+      "pergunta": "Os tranquilizantes e os estimulantes são as únicas categorias de medicamentos que podem exercer efeitos negativos a nível do comportamento do indivíduo ao volante.",
+      "imagem": "4222.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4222.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4223",
+      "url": "https://www.bomcondutor.pt/questao/4223",
+      "pergunta": "Perante a sinalização existente nesta via de trânsito devo:",
+      "imagem": "4223.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4223.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Respeitar apenas o sinal de obrigação e mudar de direcção à direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Respeitar o sinal de STOP e mudar de direcção à direita.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Respeitar o sinal de STOP mas apenas se pretender virar à direita.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4224",
+      "url": "https://www.bomcondutor.pt/questao/4224",
+      "pergunta": "Perante a sinalização existente, no próximo cruzamento, devo:",
+      "imagem": "4224.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4224.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Mudar de direcção, visto não poder seguir em frente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Seguir em frente, logo que a sinalização luminosa mo permita.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4225",
+      "url": "https://www.bomcondutor.pt/questao/4225",
+      "pergunta": "Perante esta situação, devo:",
+      "imagem": "4225.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4225.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ceder a passagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não devo ceder a passagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4226",
+      "url": "https://www.bomcondutor.pt/questao/4226",
+      "pergunta": "Perante este sinal vertical sei que:",
+      "imagem": "4226.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4226.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "É proibido o transporte de pneus.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "É proibido usar correntes de neve.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Terminou a obrigação de circular com correntes de neve.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4227",
+      "url": "https://www.bomcondutor.pt/questao/4227",
+      "pergunta": "Perante este sinal, sou obrigado:",
+      "imagem": "4227.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4227.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A seguir em frente ou virar à direita.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A virar à esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sempre a seguir em frente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4228",
+      "url": "https://www.bomcondutor.pt/questao/4228",
+      "pergunta": "Perante este sinal:",
+      "imagem": "4228.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4228.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não posso circular no sentido das setas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sou obrigado a circular no sentido das setas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Tenho prioridade, se circular no sentido das setas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4229",
+      "url": "https://www.bomcondutor.pt/questao/4229",
+      "pergunta": "Perante o sinal de obrigação devo:",
+      "imagem": "4229.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4229.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ceder passagem aos veículos que venham da direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Contornar a placa ou obstáculo.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Mudar de direcção à direita.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4230",
+      "url": "https://www.bomcondutor.pt/questao/4230",
+      "pergunta": "Perante o sinal de obrigação devo:",
+      "imagem": "4230.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4230.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Contornar a placa ou obstáculo pela esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Virar à esquerda ou fazer inversão de sentido de marcha.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Virar à esquerda.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4231",
+      "url": "https://www.bomcondutor.pt/questao/4231",
+      "pergunta": "Perante o sinal de obrigação devo:",
+      "imagem": "4231.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4231.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Seguir em frente ou virar à direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Virar à esquerda ou inverter o sentido de marcha.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Virar à esquerda.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4232",
+      "url": "https://www.bomcondutor.pt/questao/4232",
+      "pergunta": "Perante o sinal vertical de fundo azul fico a saber que:",
+      "imagem": "4232.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4232.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Se aproxima um troço de via em que o pavimento se encontra escorregadio devido à possibilidade de neve.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sou obrigado a transitar com correntes de neve em duas rodas motoras do meu veículo.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sou obrigado a transitar com correntes de neve em todas as rodas do meu veículo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4233",
+      "url": "https://www.bomcondutor.pt/questao/4233",
+      "pergunta": "Perante o sinal vertical devo saber que:",
+      "imagem": "4233.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4233.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Circulo numa pista obrigatória para automóveis ligeiros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Circulo numa via de trânsito de sentido único.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Estou obrigado a seguir pelo sentido indicado no sinal.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4234",
+      "url": "https://www.bomcondutor.pt/questao/4234",
+      "pergunta": "Posso transitar na via onde se encontra colocado o sinal vertical.",
+      "imagem": "4234.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4234.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4235",
+      "url": "https://www.bomcondutor.pt/questao/4235",
+      "pergunta": "Qual a indicação que este sinal vertical dá aos condutores?",
+      "imagem": "4235.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4235.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fim da obrigação de transitar com as luzes de cruzamento acesas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Obrigação de transitar com as luzes de estrada acesas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Proibição de transitar com as luzes de cruzamento acesas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4236",
+      "url": "https://www.bomcondutor.pt/questao/4236",
+      "pergunta": "Qual a influência da ingestão de bebidas alcoólicas na condução?",
+      "imagem": "4236.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4236.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumenta a capacidade de reacção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Aumenta os reflexos e acalma o condutor.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Diminui a resistência física do condutor.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4237",
+      "url": "https://www.bomcondutor.pt/questao/4237",
+      "pergunta": "Qual a principal consequência da visão em túnel, resultante da ingestão de bebidas alcoólicas?",
+      "imagem": "4237.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4237.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Diminuição da capacidade de distinguir as cores.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuição da capacidade de ver lateralmente.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Redução da capacidade de ver ao longe.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4238",
+      "url": "https://www.bomcondutor.pt/questao/4238",
+      "pergunta": "Qual dos seguintes factores pode afectar mais o campo visual do condutor?",
+      "imagem": "4238.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4238.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A ingestão de bebidas alcoólicas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A largura da via.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O estado emocional.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4239",
+      "url": "https://www.bomcondutor.pt/questao/4239",
+      "pergunta": "Qual o principal efeito da fadiga no exercício da condução automóvel?",
+      "imagem": "4239.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4239.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumento do grau de vigilância e atenção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuição do número de erros ao volante.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Rapidez e precisão na execução de manobras.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Tensão muscular, rigidez e falta de flexibilidade nos membros.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "D"
+    },
+    {
+      "numero": "4240",
+      "url": "https://www.bomcondutor.pt/questao/4240",
+      "pergunta": "Qual o principal efeito do sono na condução automóvel?",
+      "imagem": "4240.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4240.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumenta a capacidade de análise das situações.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Aumenta a capacidade receptiva dos órgãos dos sentidos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Diminui a capacidade de reacção, a exactidão e rapidez dos movimentos.",
+          "correta": true
+        },
+        {
+          "letra": "D",
+          "texto": "Diminui o tempo de reacção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4241",
+      "url": "https://www.bomcondutor.pt/questao/4241",
+      "pergunta": "Qual o tipo de visão mais importante para a realização de uma ultrapassagem em condições de segurança?",
+      "imagem": "4241.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4241.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Visão cromática.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Visão em profundidade.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Visão periférica.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4242",
+      "url": "https://www.bomcondutor.pt/questao/4242",
+      "pergunta": "Qual o tipo de visão mais prejudicada pela prática de velocidades elevadas?",
+      "imagem": "4242.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4242.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Visão cromática.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Visão frontal.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Visão periférica.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4243",
+      "url": "https://www.bomcondutor.pt/questao/4243",
+      "pergunta": "Que efeitos exerce a fadiga no desempenho do indivíduo ao volante?",
+      "imagem": "4243.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4243.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumenta a sua capacidade para avaliar as distâncias.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Aumenta a sua capacidade para avaliar as velocidades.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Reduz a sua capacidade de reacção.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4244",
+      "url": "https://www.bomcondutor.pt/questao/4244",
+      "pergunta": "Que efeitos exerce o álcool no condutor?",
+      "imagem": "4244.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4244.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumenta a concentração do condutor e o sentimento de bem estar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Aumenta o tempo de recuperação da visão após encandeamento.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Diminui o tempo e a distância de reacção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4245",
+      "url": "https://www.bomcondutor.pt/questao/4245",
+      "pergunta": "Que indicação me é dada pelo sinal vertical?",
+      "imagem": "4245.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4245.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Obrigação de parar nas passagens estreitas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Obrigação de seguir em frente.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Via com trânsito num só sentido.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4246",
+      "url": "https://www.bomcondutor.pt/questao/4246",
+      "pergunta": "Quem conduzir com uma taxa de álcool no sangue igual a 0,7 g/l, será punido:",
+      "imagem": "4246.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4246.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Com coima de 250€ a 1250€ e inibição de conduzir de 1 mês a 1 ano .",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Com coima de 360€ a 1800€ e inibição de conduzir de 2 mês a 2 ano.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4247",
+      "url": "https://www.bomcondutor.pt/questao/4247",
+      "pergunta": "Quem conduzir com uma taxa de álcool no sangue igual ou superior a 1,1 g/l comete uma contraordenação:",
+      "imagem": "4247.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4247.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Grave.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Muito grave.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4248",
+      "url": "https://www.bomcondutor.pt/questao/4248",
+      "pergunta": "Regra geral, um condutor distraído tem:",
+      "imagem": "4248.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4248.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O mesmo tempo de reacção que qualquer outro condutor.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Um tempo de reacção mais longo.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Um tempo de reacção mais reduzido.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4249",
+      "url": "https://www.bomcondutor.pt/questao/4249",
+      "pergunta": "Se ao condutor fiscalizado for detectada presença de álcool no sangue, é considerado:",
+      "imagem": "4249.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4249.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Contra-ordenação muito grave se a taxa de álcool no sangue for inferior a 0,8g/l.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Contra-ordenação, independentemente da TAS.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Crime, se a taxa de álcool no sangue for igual a 1,2g/l.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4250",
+      "url": "https://www.bomcondutor.pt/questao/4250",
+      "pergunta": "Se na próxima intersecção pretender mudar de direcção para a esquerda, devo:",
+      "imagem": "4250.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4250.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ceder passagem apenas aos veículos que se apresentem pela direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Contornar a placa pela direita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Parar e ceder passagem a todos os veículos.",
+          "correta": true
+        },
+        {
+          "letra": "D",
+          "texto": "Parar e ceder passagem apenas aos veículos que se apresentem pela direita.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4251",
+      "url": "https://www.bomcondutor.pt/questao/4251",
+      "pergunta": "Sendo difícil saber qual a taxa de alcoolemia que resulta da ingestão de bebidas alcoólicas, os condutores devem:",
+      "imagem": "4251.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4251.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Evitar ingerir mais de 33 cl, de qualquer bebida alcoólica.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Evitar ingerir qualquer quantidade de álcool.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Só iniciar a condução 30 minutos após a ingestão de bebidas alcoólicas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4252",
+      "url": "https://www.bomcondutor.pt/questao/4252",
+      "pergunta": "Sob a influência do álcool, o condutor:",
+      "imagem": "4252.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4252.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Reage mais lentamente ao meio envolvente.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Reage mais rapidamente ao meio envolvente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Reage normalmente ao meio envolvente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4253",
+      "url": "https://www.bomcondutor.pt/questao/4253",
+      "pergunta": "TAS é uma sigla referente:",
+      "imagem": "4253.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4253.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "À taxa de álcool no sangue.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "À taxa de álcool superior a 0,8 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "À taxa de álcool unicamente quando for superior a 0,5 g/l.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4254",
+      "url": "https://www.bomcondutor.pt/questao/4254",
+      "pergunta": "Um condutor é obrigado a efectuar um exame de pesquisa de álcool, mesmo sem estar implicado num acidente?",
+      "imagem": "4254.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4254.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, esse teste só é efectuado a condutores implicados em acidentes.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas só se o condutor tiver sintomas de ter ingerido bebidas alcoólicas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se for solicitado pelo agente da autoridade.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4255",
+      "url": "https://www.bomcondutor.pt/questao/4255",
+      "pergunta": "Um condutor fiscalizado a conduzir com uma taxa de álcool, superior a 0,5 g/l, fica impedido de conduzir?",
+      "imagem": "4255.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4255.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, se o valor não for superior a 0,8 g/l.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, nas 24 horas seguintes.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4256",
+      "url": "https://www.bomcondutor.pt/questao/4256",
+      "pergunta": "Um condutor ingeriu em excesso bebidas alcoólicas. Pode conduzir sem problemas?",
+      "imagem": "4256.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4256.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não. Não é possível restabelecer-se rapidamente para fazer uma condução segura.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, após dormir uma hora, desaparece o efeito da bebida alcoólica.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, bebendo café forte passa o efeito da bebida alcoólica.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4257",
+      "url": "https://www.bomcondutor.pt/questao/4257",
+      "pergunta": "Um condutor perturbado emocionalmente reage:",
+      "imagem": "4257.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4257.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Mais lentamente.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Mais rapidamente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4258",
+      "url": "https://www.bomcondutor.pt/questao/4258",
+      "pergunta": "Um condutor pode ser solicitado pelo agente da autoridade a submeter-se a um exame de pesquisa de álcool?",
+      "imagem": "4258.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4258.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas quando for implicado num acidente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas só quando apresentar sintomas evidentes de ter ingerido álcool.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, pode.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4259",
+      "url": "https://www.bomcondutor.pt/questao/4259",
+      "pergunta": "Um condutor que apresente uma taxa de álcool no sangue igual ou superior a 0,5 g/l, fica impedido de conduzir durante:",
+      "imagem": "4259.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4259.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "10 horas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "12 horas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "8 horas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4260",
+      "url": "https://www.bomcondutor.pt/questao/4260",
+      "pergunta": "Um condutor, detectado a conduzir com uma taxa de alcoolémia igual ou superior a 0,9 g/l incorre numa contra-ordenação?",
+      "imagem": "4260.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4260.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, grave.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, muito grave.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4261",
+      "url": "https://www.bomcondutor.pt/questao/4261",
+      "pergunta": "Um dos efeitos da fadiga na condução é:",
+      "imagem": "4261.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4261.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A redução do tempo de reacção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O aumento da capacidade de atenção.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O aumento do tempo de reacção.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4262",
+      "url": "https://www.bomcondutor.pt/questao/4262",
+      "pergunta": "Um dos efeitos da fadiga na condução traduz-se na diminuição:",
+      "imagem": "4262.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4262.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Da distância de paragem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Da rapidez dos reflexos.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Do tempo de reacção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4263",
+      "url": "https://www.bomcondutor.pt/questao/4263",
+      "pergunta": "Um dos efeitos da ingestão de bebidas alcoólicas é a redução:",
+      "imagem": "4263.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4263.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Da capacidade de avaliação das distâncias.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Da fadiga.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Do tempo de reacção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4264",
+      "url": "https://www.bomcondutor.pt/questao/4264",
+      "pergunta": "Um dos efeitos do álcool na condução é:",
+      "imagem": "4264.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4264.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O aumento da capacidade de previsão.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Uma capacidade de decisão mais eficaz.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma menor recolha de informação.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4265",
+      "url": "https://www.bomcondutor.pt/questao/4265",
+      "pergunta": "Um dos efeitos do cansaço na condução, é:",
+      "imagem": "4265.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4265.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A diminuição do tempo de reacção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O aumento da capacidade de reacção.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O aumento do tempo de reacção.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4266",
+      "url": "https://www.bomcondutor.pt/questao/4266",
+      "pergunta": "Um dos factores que influencia a TAS é a quantidade de álcool ingerido.",
+      "imagem": "4266.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4266.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4267",
+      "url": "https://www.bomcondutor.pt/questao/4267",
+      "pergunta": "Um dos primeiros efeitos após a ingestão de álcool traduz-se num estado:",
+      "imagem": "4267.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4267.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Adaptado a todas as necessidades de condução.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Eufórico.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Fatigado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4268",
+      "url": "https://www.bomcondutor.pt/questao/4268",
+      "pergunta": "Uma das consequências da condução sob influência de álcool é:",
+      "imagem": "4268.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4268.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O aumento do campo visual.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O estreitamento do campo visual.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4269",
+      "url": "https://www.bomcondutor.pt/questao/4269",
+      "pergunta": "Uma das consequências da fadiga é:",
+      "imagem": "4269.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4269.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A diminuição do tempo de reacção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A sonolência.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O aumento da atenção do condutor.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4270",
+      "url": "https://www.bomcondutor.pt/questao/4270",
+      "pergunta": "Uma das consequências na condução automóvel motivada pela ingestão de medicamentos poderá ser a significativa redução:",
+      "imagem": "4270.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4270.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Da capacidade de vigilância.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Da distância de paragem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Do tempo de reacção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4271",
+      "url": "https://www.bomcondutor.pt/questao/4271",
+      "pergunta": "Uma taxa de 0,3 g/l de álcool no sangue quer dizer que:",
+      "imagem": "4271.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4271.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Há uma percentagem de 0,3 gramas de álcool por cada 10 litros de sangue.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Num litro de sangue existem 0,3 gramas de álcool puro.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Um litro de bebida alcoólica origina 0,3 gramas de álcool no sangue.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4272",
+      "url": "https://www.bomcondutor.pt/questao/4272",
+      "pergunta": "Uma taxa de álcool de 0,5 g/l de sangue significa que:",
+      "imagem": "4272.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4272.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Num litro de bebida alcoólica existem 0,5 gramas de álcool.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Num litro de sangue existem 0,5 gramas de álcool puro.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Um litro de bebida alcoólica origina 0,5 gramas de álcool no sangue.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4273",
+      "url": "https://www.bomcondutor.pt/questao/4273",
+      "pergunta": "Uma taxa de álcool de 0,8 g/l de sangue, significa que:",
+      "imagem": "4273.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4273.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Existem 0,8 gramas de bebida alcoólica em cada litro de sangue.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Num litro de sangue existem 0,8 gramas de álcool puro.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Um litro de bebida alcoólica contém 0,8 gramas de álcool puro.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    }
+  ]
+}

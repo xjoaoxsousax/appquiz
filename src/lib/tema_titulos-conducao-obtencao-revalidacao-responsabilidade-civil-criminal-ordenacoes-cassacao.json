@@ -1,0 +1,3132 @@
+{
+  "tema": "Títulos de condução, obtenção, revalidação, responsabilidade civil e criminal, contra-ordenações, cassação",
+  "slug": "titulos-conducao-obtencao-revalidacao-responsabilidade-civil-criminal-ordenacoes-cassacao",
+  "total": 129,
+  "questoes": [
+    {
+      "numero": "4884",
+      "url": "https://www.bomcondutor.pt/questao/4884",
+      "pergunta": "A carta de condução caduca quando, sendo provisória, o seu titular tenha sido condenado pela prática de:",
+      "imagem": "4884.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4884.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Uma contra-ordenação grave e três contra-ordenações leves.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Uma contra-ordenação grave.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma contra-ordenação muito grave.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4885",
+      "url": "https://www.bomcondutor.pt/questao/4885",
+      "pergunta": "A carta de condução de automóveis pesados habilita a conduzir:",
+      "imagem": "4885.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4885.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Motociclos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Qualquer tipo de veículos com motor.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4886",
+      "url": "https://www.bomcondutor.pt/questao/4886",
+      "pergunta": "A carta de condução para automóveis da categoria B habilita à condução de:",
+      "imagem": "4886.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4886.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros a que pode ser atrelado um reboque de peso bruto até 750 Kg.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Automóveis ligeiros atrelando um reboque de peso bruto superior à sua tara.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Motociclos de cilindrada superior a 125 cm³.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4887",
+      "url": "https://www.bomcondutor.pt/questao/4887",
+      "pergunta": "A condução de veículo na via pública com uma taxa de álcool no sangue igual a 1,2 g/l é sancionada com pena de prisão. Concorda com esta afirmação?",
+      "imagem": "4887.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4887.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a condução com álcool não é crime.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas para quem conduzir veículos a motor.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, o condutor pode ser punido com pena de prisão até um ano.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4888",
+      "url": "https://www.bomcondutor.pt/questao/4888",
+      "pergunta": "A condução de veículo sob a influência de substâncias psicotrópicas pode ser sancionada com pena de prisão. Concorda com esta afirmação?",
+      "imagem": "4888.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4888.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, o condutor fica apenas inibido de conduzir.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas se perturbarem a aptidão física do condutor.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, o condutor pode ser sancionado com pena de prisão até um ano.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4889",
+      "url": "https://www.bomcondutor.pt/questao/4889",
+      "pergunta": "A não utilização do cinto de segurança por passageiros menores, é uma infracção da responsabilidade:",
+      "imagem": "4889.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4889.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Do condutor, só no caso de ser progenitor dos passageiros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Do condutor.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Do proprietário do veículo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4890",
+      "url": "https://www.bomcondutor.pt/questao/4890",
+      "pergunta": "A não utilização do triângulo de pré-sinalização, fora das localidades, quando obrigatória, é considerada:",
+      "imagem": "4890.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4890.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Uma contra-ordenação grave.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Uma contra-ordenação leve.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma contra-ordenação muito grave.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4891",
+      "url": "https://www.bomcondutor.pt/questao/4891",
+      "pergunta": "A não utilização do triângulo de pré-sinalização, quando obrigatória, na auto-estrada, é considerada:",
+      "imagem": "4891.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4891.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Uma contra-ordenação grave.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Uma contra-ordenação leve.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma contra-ordenação muito grave.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4892",
+      "url": "https://www.bomcondutor.pt/questao/4892",
+      "pergunta": "A responsabilidade pela correcta utilização dos equipamentos de retenção para menores é:",
+      "imagem": "4892.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4892.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Do condutor.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Dos pais.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Dos tutores.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4893",
+      "url": "https://www.bomcondutor.pt/questao/4893",
+      "pergunta": "A sanção acessória de inibição de conduzir deve ser cumprida em dias seguidos?",
+      "imagem": "4893.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4893.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, pode ser cumprida apenas durante os dias úteis.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4894",
+      "url": "https://www.bomcondutor.pt/questao/4894",
+      "pergunta": "A sanção acessória de inibição de conduzir pode ser substituída por apreensão do veículo?",
+      "imagem": "4894.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4894.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, se a infracção for praticada durante o período provisório do título de condução.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se quem praticar a infracção não for titular de carta de condução.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4895",
+      "url": "https://www.bomcondutor.pt/questao/4895",
+      "pergunta": "A sanção de inibição de conduzir pode não ser aplicada, se o condutor não tiver praticado qualquer contra-ordenação grave ou muito grave, nos últimos:",
+      "imagem": "4895.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4895.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Cinco anos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Dois anos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Três anos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4896",
+      "url": "https://www.bomcondutor.pt/questao/4896",
+      "pergunta": "A sanção de inibição de conduzir, pela prática de uma contra-ordenação grave, tem a duração máxima de:",
+      "imagem": "4896.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4896.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Dois meses.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Um ano.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Um mês.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4897",
+      "url": "https://www.bomcondutor.pt/questao/4897",
+      "pergunta": "A sanção de inibição de conduzir, pela prática de uma contra-ordenação muito grave, tem a duração mínima de:",
+      "imagem": "4897.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4897.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Dois meses.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Três meses.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Um mês.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4898",
+      "url": "https://www.bomcondutor.pt/questao/4898",
+      "pergunta": "A sanção de inibição de conduzir, prevista pela prática de contra-ordenação muito grave, tem a duração mínima de:",
+      "imagem": "4898.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4898.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Dois meses.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Um ano.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Um mês.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4899",
+      "url": "https://www.bomcondutor.pt/questao/4899",
+      "pergunta": "A transposição da linha contínua à minha esquerda é contra-ordenação grave e pode implicar a sanção acessória de inibição de conduzir.",
+      "imagem": "4899.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4899.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação está correcta.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação está incorrecta.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4900",
+      "url": "https://www.bomcondutor.pt/questao/4900",
+      "pergunta": "A utilização dos máximos de modo a provocar encandeamento é considerada uma:",
+      "imagem": "4900.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4900.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Contra-ordenação leve.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Uma contra-ordenação grave.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma contra-ordenação muito grave.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4901",
+      "url": "https://www.bomcondutor.pt/questao/4901",
+      "pergunta": "Ao circular numa auto-estrada, devo saber que:",
+      "imagem": "4901.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4901.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A manobra de marcha atrás é proibida e é uma contra-ordenação leve sancionada com coima.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Se efectuar a manobra de marcha atrás posso ficar inibido de conduzir pelo período de dois meses a dois anos.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Se efectuar a manobra de marcha atrás posso ficar inibido de conduzir pelo período de um mês a um ano.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4902",
+      "url": "https://www.bomcondutor.pt/questao/4902",
+      "pergunta": "Ao entrar na área abrangida pelas raias oblíquas, o condutor do automóvel branco incorre numa contra-ordenação?",
+      "imagem": "4902.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4902.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4903",
+      "url": "https://www.bomcondutor.pt/questao/4903",
+      "pergunta": "Apenas as infracções ao Código da Estrada classificadas de muito graves são punidas com inibição de conduzir. Concorda com esta afirmação?",
+      "imagem": "4903.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4903.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, de 2 meses a 120 dias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, de um 1 mês a 60 dias.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4904",
+      "url": "https://www.bomcondutor.pt/questao/4904",
+      "pergunta": "As contra-ordenações graves e muito graves são sancionadas:",
+      "imagem": "4904.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4904.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Com coima e inibição de conduzir.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Com inibição de conduzir, mas apenas as muito graves.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Unicamente com coima se forem graves.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4905",
+      "url": "https://www.bomcondutor.pt/questao/4905",
+      "pergunta": "As crianças com menos de 12 anos de idade e menos de 135 cm de altura podem ser transportadas em automóvel apenas com o cinto de segurança?",
+      "imagem": "4905.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4905.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, devem ser seguras por sistema de retenção homologado e adaptado ao seu tamanho e peso.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, podem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4906",
+      "url": "https://www.bomcondutor.pt/questao/4906",
+      "pergunta": "As entidades fiscalizadoras do trânsito devem apreender o documento de identificação do veículo por circular:",
+      "imagem": "4906.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4906.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sem luzes de estrada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sem oferecer condições de segurança.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sem pneumático de reserva.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4907",
+      "url": "https://www.bomcondutor.pt/questao/4907",
+      "pergunta": "As infracções ao código da estrada classificam-se em função da sua gravidade, em:",
+      "imagem": "4907.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4907.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Contra-ordenações leves e graves, unicamente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Contra-ordenações leves, graves, muito graves e crime.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Crimes graves ou muito graves.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4908",
+      "url": "https://www.bomcondutor.pt/questao/4908",
+      "pergunta": "Circulo a 60Km/h.",
+      "imagem": "4908.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4908.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Incorro numa contra-ordenação grave.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Incorro numa contra-ordenação leve.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Não incorro em qualquer contra-ordenação.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4909",
+      "url": "https://www.bomcondutor.pt/questao/4909",
+      "pergunta": "Considera-se que um veículo está estacionado abusivamente, num parque, quando não são pagas as taxas de utilização durante:",
+      "imagem": "4909.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4909.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "10 dias.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "48 horas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "5 dias.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4910",
+      "url": "https://www.bomcondutor.pt/questao/4910",
+      "pergunta": "Devo saber que se conduzir um veículo a motor na via pública sem estar habilitado pratico um crime punido com pena de prisão.",
+      "imagem": "4910.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4910.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4911",
+      "url": "https://www.bomcondutor.pt/questao/4911",
+      "pergunta": "Devo saber que se desrespeitar a obrigação de parar imposta pela luz vermelha de regulação do trânsito:",
+      "imagem": "4911.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4911.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A sanção de inibição de conduzir tem a duração mínima de dois meses e máxima de dois anos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A sanção de inibição de conduzir tem a duração mínima de dois meses e máxima de um ano.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A sanção de inibição de conduzir tem a duração mínima de um mês e máxima de um ano.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4912",
+      "url": "https://www.bomcondutor.pt/questao/4912",
+      "pergunta": "Durante o ensino da condução a responsabilidade pelas infracções praticadas , é do:",
+      "imagem": "4912.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4912.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Instruendo quando desobedeça a ordem prévia do instrutor.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Instrutor, sempre.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Proprietário da escola de condução.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4913",
+      "url": "https://www.bomcondutor.pt/questao/4913",
+      "pergunta": "Durante o exame de condução a responsabilidade pelas infracções praticadas, é do:",
+      "imagem": "4913.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4913.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Examinador.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Examinando.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Instrutor.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4914",
+      "url": "https://www.bomcondutor.pt/questao/4914",
+      "pergunta": "É obrigatório o seguro de responsabilidade civil de veículos a motor e seus reboques?",
+      "imagem": "4914.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4914.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, não é.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, é obrigatório o seguro de ocupantes do veículo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, é obrigatório o seguro de responsabilidade civil pelos danos causados a terceiros.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4915",
+      "url": "https://www.bomcondutor.pt/questao/4915",
+      "pergunta": "Em qual destas situações o veículo pode ser apreendido?",
+      "imagem": "4915.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4915.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Quando a chapa de matrícula não tenha a respectiva iluminação.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Quando não tenha sido efectuado seguro de responsabilidade civil.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Quando o seu condutor pratique qualquer infracção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4916",
+      "url": "https://www.bomcondutor.pt/questao/4916",
+      "pergunta": "Em que circunstância um agente de autoridade deve proceder à apreensão do veículo?",
+      "imagem": "4916.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4916.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Em caso algum.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Se estiver estacionado indevidamente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Se transitar sem chapa de matrícula.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4917",
+      "url": "https://www.bomcondutor.pt/questao/4917",
+      "pergunta": "Na condução à noite devo saber que:",
+      "imagem": "4917.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4917.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A utilização dos máximos de modo a provocar encandeamento é uma infracção classificada de contra-ordenação leve, sancionada com coima.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A utilização dos máximos de modo a provocar encandeamento é uma infracção sancionada com coima e inibição de conduzir com a duração mínima de dois meses e máxima de dois anos.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "A utilização dos máximos de modo a provocar encandeamento é uma infracção sancionada com coima e inibição de conduzir com a duração mínima de um mês e máxima de um ano.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4918",
+      "url": "https://www.bomcondutor.pt/questao/4918",
+      "pergunta": "Nesta situação como tenho as mãos livres não cometo qualquer infracção.",
+      "imagem": "4918.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4918.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4919",
+      "url": "https://www.bomcondutor.pt/questao/4919",
+      "pergunta": "Nesta situação o condutor da frente incorre numa contra-ordenação?",
+      "imagem": "4919.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4919.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4920",
+      "url": "https://www.bomcondutor.pt/questao/4920",
+      "pergunta": "Nesta situação posso aumentar a velocidade e passar pelo veículo que circula na via da esquerda?",
+      "imagem": "4920.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4920.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque se o fizer pratico uma contra-ordenação muito grave.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque circulo numa auto estrada.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque existem duas vias de trânsito no mesmo sentido.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4921",
+      "url": "https://www.bomcondutor.pt/questao/4921",
+      "pergunta": "Nesta situação posso iniciar a ultrapassagem?",
+      "imagem": "4921.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4921.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4922",
+      "url": "https://www.bomcondutor.pt/questao/4922",
+      "pergunta": "Nesta situação se utilizar as luzes de estrada de modo a provocar encandeamento, incorro numa contra-ordenação:",
+      "imagem": "4922.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4922.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Grave.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Leve.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Muito grave.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4923",
+      "url": "https://www.bomcondutor.pt/questao/4923",
+      "pergunta": "Nesta situação, face à sinalização luminosa e ao sinal do agente de autoridade, a qual devo obedecer?",
+      "imagem": "4923.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4923.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Avançar em obediência à sinalização luminosa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Parar em obediência ao sinal do agente de autoridade.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar os sinais sonoros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4924",
+      "url": "https://www.bomcondutor.pt/questao/4924",
+      "pergunta": "Nesta situação, se mudar de direcção à direita no próximo entroncamento, incorro numa:",
+      "imagem": "4924.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4924.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Contra-ordenação grave.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Contra-ordenação leve.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Contra-ordenação muito grave.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4925",
+      "url": "https://www.bomcondutor.pt/questao/4925",
+      "pergunta": "Neste local se circular à velocidade de 80km/h, incorro numa:",
+      "imagem": "4925.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4925.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Contra ordenação grave",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Contra ordenação leve",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Contra ordenação muito grave",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4926",
+      "url": "https://www.bomcondutor.pt/questao/4926",
+      "pergunta": "O agente que fiscaliza o trânsito tem competência para verificar o estado de conservação do veículo?",
+      "imagem": "4926.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4926.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque apenas deve verificar a documentação.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4927",
+      "url": "https://www.bomcondutor.pt/questao/4927",
+      "pergunta": "O condutor com o qual me vou cruzar faz uso das luzes de estrada. Comete uma contra-ordenação?",
+      "imagem": "4927.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4927.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sim, grave.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, leve.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, muito grave.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4928",
+      "url": "https://www.bomcondutor.pt/questao/4928",
+      "pergunta": "O condutor detectado com uma taxa de alcoolémia igual a 0,5 g/l incorre em contra-ordenação?",
+      "imagem": "4928.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4928.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, grave.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, leve.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4929",
+      "url": "https://www.bomcondutor.pt/questao/4929",
+      "pergunta": "O condutor do veículo que me precede incorre numa contra-ordenação:",
+      "imagem": "4929.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4929.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Grave.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Leve.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Muito grave.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4930",
+      "url": "https://www.bomcondutor.pt/questao/4930",
+      "pergunta": "O condutor habilitado a conduzir automóveis ligeiros há menos de três anos poderá ser submetido a novo exame de condução, sempre que:",
+      "imagem": "4930.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4930.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Lhe seja aplicada sanção de inibição de conduzir",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sofra qualquer acidente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Transgrida qualquer regra de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4931",
+      "url": "https://www.bomcondutor.pt/questao/4931",
+      "pergunta": "O condutor interveniente em acidente deve fornecer aos restantes intervenientes a identificação da sua seguradora e o número da apólice.",
+      "imagem": "4931.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4931.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4932",
+      "url": "https://www.bomcondutor.pt/questao/4932",
+      "pergunta": "O condutor que circula à minha retaguarda, na mesma via de trânsito, incorre numa contra-ordenação?",
+      "imagem": "4932.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4932.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4933",
+      "url": "https://www.bomcondutor.pt/questao/4933",
+      "pergunta": "O condutor que circula em sentido contrário, incorre numa contra-ordenação.",
+      "imagem": "4933.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4933.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4934",
+      "url": "https://www.bomcondutor.pt/questao/4934",
+      "pergunta": "O condutor que empreste o seu veículo a quem não esteja habilitado a conduzir é também responsável pelas infracções que este pratique no exercício da condução. Concorda com esta afirmação?",
+      "imagem": "4934.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4934.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4935",
+      "url": "https://www.bomcondutor.pt/questao/4935",
+      "pergunta": "O desrespeito das regras relativas à inversão do sentido de marcha e marcha atrás é sancionado com inibição de conduzir. Concorda com a afirmação?",
+      "imagem": "4935.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4935.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4936",
+      "url": "https://www.bomcondutor.pt/questao/4936",
+      "pergunta": "O documento de identificação do veículo pode ser apreendido pelas autoridades de fiscalização?",
+      "imagem": "4936.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4936.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, se estiver em mau estado de conservação, tornando ilegível qualquer informação.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se o condutor não for o proprietário.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4937",
+      "url": "https://www.bomcondutor.pt/questao/4937",
+      "pergunta": "O documento que habilita a condução de automóveis designa-se por:",
+      "imagem": "4937.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4937.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Carta de condução.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Licença de condução.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Licença especial de condução.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4938",
+      "url": "https://www.bomcondutor.pt/questao/4938",
+      "pergunta": "O documento que habilita a condução de um triciclo de cilindrada superior a 50 cm3 designa-se carta de condução. Concorda com esta afirmação?",
+      "imagem": "4938.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4938.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, chama-se licença de condução.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4939",
+      "url": "https://www.bomcondutor.pt/questao/4939",
+      "pergunta": "O estacionamento do meu veículo em local reservado, mediante sinalização, a determinados veículos é considerado:",
+      "imagem": "4939.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4939.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estacionamento abusivo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionamento proibido.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4940",
+      "url": "https://www.bomcondutor.pt/questao/4940",
+      "pergunta": "O proprietário de um veículo, que não conduza pode ser responsável por infracções?",
+      "imagem": "4940.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4940.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, nunca.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, se forem infracções que condicionem a circulação do veículo na via pública",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, sempre desde que circule no seu veículo como passageiro.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4941",
+      "url": "https://www.bomcondutor.pt/questao/4941",
+      "pergunta": "O proprietário que empresta o seu automóvel a um condutor embriagado :",
+      "imagem": "4941.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4941.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "É o único responsável pelas infracções que possam ser cometidas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "É também responsável pelas infracções que possam ser cometidas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Não é responsável pelas infracções cometidas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4942",
+      "url": "https://www.bomcondutor.pt/questao/4942",
+      "pergunta": "O seguro de responsabilidade é obrigatório?",
+      "imagem": "4942.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4942.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sim, desde que o veículo transite na via pública, seja motorizado ou não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas unicamente para automóveis.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, para veículos a motor e seus reboques que transitem na via pública.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4943",
+      "url": "https://www.bomcondutor.pt/questao/4943",
+      "pergunta": "O titular da carta de condução de automóveis ligeiros pode conduzir automóveis com:",
+      "imagem": "4943.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4943.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Lotação de 6 lugares e peso bruto de 3.500 kg.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Lotação de 6 lugares e peso bruto de 5.000 kg.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4944",
+      "url": "https://www.bomcondutor.pt/questao/4944",
+      "pergunta": "O titular da carta de condução para automóveis ligeiros pode conduzir um automóvel cuja lotação seja de 12 lugares?",
+      "imagem": "4944.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4944.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Pode.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Só pode se a velocidade do veículo nunca for superior a 60 Km/h.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4945",
+      "url": "https://www.bomcondutor.pt/questao/4945",
+      "pergunta": "O titular da carta de condução para automóveis ligeiros pode conduzir um automóvel, cuja lotação seja de 12 lugares?",
+      "imagem": "4945.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4945.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não pode.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Pode, se tiver carta há mais de 2 anos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pode.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4946",
+      "url": "https://www.bomcondutor.pt/questao/4946",
+      "pergunta": "O titular de carta de condução da categoria C (automóveis pesados de mercadorias), está habilitado a conduzir:",
+      "imagem": "4946.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4946.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros e pesados de mercadorias.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Só automóveis pesados de mercadorias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os automóveis.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4947",
+      "url": "https://www.bomcondutor.pt/questao/4947",
+      "pergunta": "O titular de carta de condução de automóveis ligeiros pode conduzir, também:",
+      "imagem": "4947.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4947.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis pesados.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Máquinas industriais ligeiras.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Motociclos até 120cc.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4948",
+      "url": "https://www.bomcondutor.pt/questao/4948",
+      "pergunta": "O titular de carta de condução de automóveis pesados de mercadorias está habilitado a conduzir:",
+      "imagem": "4948.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4948.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros e automóveis pesados de mercadorias.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Só os automóveis pesados.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os automóveis.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4949",
+      "url": "https://www.bomcondutor.pt/questao/4949",
+      "pergunta": "O titular de carta de condução de automóveis pesados de mercadorias está habilitado a conduzir:",
+      "imagem": "4949.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4949.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros e pesados de mercadorias.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Motociclos e automóveis pesados de mercadorias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Só automóveis pesados.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4950",
+      "url": "https://www.bomcondutor.pt/questao/4950",
+      "pergunta": "O titular de carta de condução de automóveis pesados de mercadorias está, para além destes, habilitado a conduzir:",
+      "imagem": "4950.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4950.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis e ciclomotores.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Automóveis ligeiros.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Automóveis pesados de passageiros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4951",
+      "url": "https://www.bomcondutor.pt/questao/4951",
+      "pergunta": "O titular de carta de condução válida para a categoria B, pode conduzir:",
+      "imagem": "4951.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4951.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Tractores agrícolas com equipamentos montados, desde que o peso máximo não exceda 3500 kg.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Tractores agrícolas com reboque desde que o peso bruto do conjunto exceda 6000 kg.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4952",
+      "url": "https://www.bomcondutor.pt/questao/4952",
+      "pergunta": "O título de condução pode ser apreendido pelo agente de fiscalização?",
+      "imagem": "4952.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4952.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, nunca pode ser apreendido.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, caso esteja caducado.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se o seu titular tiver no seu registo individual a prática de duas contra-ordenações muito graves.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4953",
+      "url": "https://www.bomcondutor.pt/questao/4953",
+      "pergunta": "O título de condução tem carácter provisório:",
+      "imagem": "4953.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4953.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Nos primeiros dois anos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Nos primeiros quatro anos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Nos primeiros três anos",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4954",
+      "url": "https://www.bomcondutor.pt/questao/4954",
+      "pergunta": "Os agentes de fiscalização devem apreender preventivamente o título de condução?",
+      "imagem": "4954.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4954.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que o condutor pratique qualquer infracção.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se tiver expirado o seu prazo de validade.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4955",
+      "url": "https://www.bomcondutor.pt/questao/4955",
+      "pergunta": "Os condutores habilitados a conduzir automóveis ligeiros há menos de três anos poderão ser submetidos a novo exame de condução:",
+      "imagem": "4955.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4955.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Quando excedam um limite de 3 multas por estacionamento proibido.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sempre que infrinjam qualquer regra de trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sempre que pratiquem infracções que impliquem inibição de conduzir",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4956",
+      "url": "https://www.bomcondutor.pt/questao/4956",
+      "pergunta": "Para a revalidação do título de condução tenho de realizar exame médico?",
+      "imagem": "4956.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4956.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, apenas se me encontrar doente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas se tiver idade igual ou superior a 60 anos.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4957",
+      "url": "https://www.bomcondutor.pt/questao/4957",
+      "pergunta": "Para conduzir o conjunto de veículos que segue à minha frente devo possuir carta de condução da categoria:",
+      "imagem": "4957.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4957.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "C+E.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "C.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "D.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4958",
+      "url": "https://www.bomcondutor.pt/questao/4958",
+      "pergunta": "Para conduzir um veículo a motor na via pública, o condutor tem de estar devidamente habilitado para tal.",
+      "imagem": "4958.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4958.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4959",
+      "url": "https://www.bomcondutor.pt/questao/4959",
+      "pergunta": "Para obtenção de título de condução que habilite à categoria B, é necessário ter no mínimo:",
+      "imagem": "4959.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4959.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "16 anos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "17 anos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "18 anos.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4960",
+      "url": "https://www.bomcondutor.pt/questao/4960",
+      "pergunta": "Para obter um título de condução é obrigatório saber ler e escrever?",
+      "imagem": "4960.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4960.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, apenas é necessário saber ler.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, o candidato pode requerer prova oral.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Não.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4961",
+      "url": "https://www.bomcondutor.pt/questao/4961",
+      "pergunta": "Pela prática de uma infracção ao código da estrada, não sendo possível identificar o condutor, a responsabilidade recai sobre:",
+      "imagem": "4961.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4961.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A seguradora.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O proprietário.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Os passageiros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4962",
+      "url": "https://www.bomcondutor.pt/questao/4962",
+      "pergunta": "Pode ser ordenada a cassação do título de condução, perante uma infracção grave ou muito grave, quando num período de 5 anos:",
+      "imagem": "4962.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4962.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O condutor pratique duas contra-ordenações muito graves.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O condutor pratique três contra-ordenações graves.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O condutor pratique três contra-ordenações muito graves.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4963",
+      "url": "https://www.bomcondutor.pt/questao/4963",
+      "pergunta": "Posso circular na via pública com veículo a motor sem ter efectuado seguro automóvel?",
+      "imagem": "4963.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4963.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, o veículo deve ser apreendido pelas autoridades.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, embora não seja aconselhável.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, mas apenas até ao local da minha residência.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4964",
+      "url": "https://www.bomcondutor.pt/questao/4964",
+      "pergunta": "Quais as sanções previstas no Código da Estrada se eu não parar o meu veículo perante a luz vermelha de regulação do trânsito?",
+      "imagem": "4964.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4964.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Pagamento de uma coima e inibição de conduzir com a duração mínima de dois meses e máxima de dois anos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Pagamento de uma coima e inibição de conduzir com a duração mínima de um mês e máxima de dois anos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pagamento de uma coima e inibição de conduzir com a duração mínima de um mês e máxima de um ano.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4965",
+      "url": "https://www.bomcondutor.pt/questao/4965",
+      "pergunta": "Quais dos seguintes veículos pode conduzir um indivíduo habilitado com a carta de condução da categoria B+E?",
+      "imagem": "4965.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4965.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Tractores agrícolas com reboque com peso bruto do conjunto de 7500 kg.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Tractores agrícolas com reboque com peso bruto do conjunto, superior a 6000 kg.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tractores agrícolas, com reboque cujo peso bruto do conjunto não exceda 6000 kg.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4966",
+      "url": "https://www.bomcondutor.pt/questao/4966",
+      "pergunta": "Quais dos seguintes veículos pode conduzir um indivíduo habilitado com a carta de condução de automóveis ligeiros?",
+      "imagem": "4966.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4966.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Tractores agrícolas até 6500 Kg de peso máximo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Tractores agrícolas com reboque, de peso bruto do conjunto até 7000 Kg.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tractores agrícolas, desde que o peso máximo não exceda 3500 Kg.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4967",
+      "url": "https://www.bomcondutor.pt/questao/4967",
+      "pergunta": "Qual a duração da sanção acessória de inibição de conduzir aplicada a quem pratique uma infracção ao Código da Estrada classificada de grave?",
+      "imagem": "4967.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4967.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "1 mês a 1 ano.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "2 meses a 2 anos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "3 meses a 3 anos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4968",
+      "url": "https://www.bomcondutor.pt/questao/4968",
+      "pergunta": "Qual dos seguintes veículos pode conduzir o titular da carta de condução para automóveis ligeiros?",
+      "imagem": "4968.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4968.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóvel cuja lotação não exceda 12 lugares.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Todos os motociclos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tractor agrícola com equipamentos desde que o peso máximo não exceda 3500Kg.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4969",
+      "url": "https://www.bomcondutor.pt/questao/4969",
+      "pergunta": "Qual dos três agentes abaixo indicados, é obrigado a fazer o seguro do automóvel ?",
+      "imagem": "4969.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4969.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O condutor.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O proprietário do veículo.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Quem vendeu o veículo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4970",
+      "url": "https://www.bomcondutor.pt/questao/4970",
+      "pergunta": "Qual o prazo para o pagamento voluntário da coima, sem acréscimo de custas, pela prática de contra-ordenação?",
+      "imagem": "4970.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4970.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "10 dias",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "15 dias úteis .",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "8 dias.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4971",
+      "url": "https://www.bomcondutor.pt/questao/4971",
+      "pergunta": "Quando for determinada a cassação do título de condução ao condutor não pode ser concedido novo título, por período mínimo de:",
+      "imagem": "4971.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4971.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Dois anos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Seis meses.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Três meses.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4972",
+      "url": "https://www.bomcondutor.pt/questao/4972",
+      "pergunta": "Quando o agente de autoridade não puder identificar o autor de contra-ordenação, a responsabilidade recai, sobre:",
+      "imagem": "4972.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4972.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O proprietário.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Os passageiros e proprietário.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Os passageiros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4973",
+      "url": "https://www.bomcondutor.pt/questao/4973",
+      "pergunta": "Quando pela prática de uma infracção, é aplicada ao condutor uma coima, de quanto tempo dispõe para efectuar o seu pagamento voluntário?",
+      "imagem": "4973.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4973.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "15 dias úteis",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "30 dias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "No máximo 10 dias úteis.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4974",
+      "url": "https://www.bomcondutor.pt/questao/4974",
+      "pergunta": "Quando seja ordenada a cassação do título de condução, não pode ser concedido ao condutor novo título, pelo período de:",
+      "imagem": "4974.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4974.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Dois anos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Três anos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Um ano.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4975",
+      "url": "https://www.bomcondutor.pt/questao/4975",
+      "pergunta": "Que tractores agrícolas pode conduzir o titular da carta de condução da categoria B+E?",
+      "imagem": "4975.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4975.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Somente tractores agrícolas sem reboque.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Todos os tractores agrícolas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tractores agrícolas com reboque, se o peso bruto do conjunto não exceder 6000 kg.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4976",
+      "url": "https://www.bomcondutor.pt/questao/4976",
+      "pergunta": "Que veículos pode conduzir o titular da carta de condução da categoria B?",
+      "imagem": "4976.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4976.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros com reboque cuja soma dos pesos brutos seja superior a 3,5T .",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Máquinas agrícolas ligeiras.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os motociclos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4977",
+      "url": "https://www.bomcondutor.pt/questao/4977",
+      "pergunta": "Que veículos pode conduzir o titular da carta de condução para automóveis ligeiros?",
+      "imagem": "4977.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4977.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis com lotação até 9 lugares e peso bruto não superior a 3500 kg.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Todos os automóveis de passageiros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os automóveis de tara inferior a 5000 kg.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4978",
+      "url": "https://www.bomcondutor.pt/questao/4978",
+      "pergunta": "Que veículos pode conduzir o titular de carta de condução de automóveis ligeiros?",
+      "imagem": "4978.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4978.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis cuja lotação não exceda 12 lugares.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Automóveis ligeiros, com reboque de peso bruto até 750 Kg.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Motociclos até 75cc.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4979",
+      "url": "https://www.bomcondutor.pt/questao/4979",
+      "pergunta": "Que veículos pode conduzir o titular de uma carta de condução de automóveis pesados de mercadorias?",
+      "imagem": "4979.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4979.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros, automóveis pesados de mercadorias e tractores.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Só automóveis ligeiros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Só automóveis pesados de mercadorias.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4980",
+      "url": "https://www.bomcondutor.pt/questao/4980",
+      "pergunta": "Que veículos pode conduzir um condutor habilitado com a carta de condução para automóveis ligeiros?",
+      "imagem": "4980.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4980.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis cujo peso bruto não exceda 6000 kg.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Qualquer motociclo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tractores agrícolas com equipamentos, se o peso máximo não exceder 3500 kg.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4981",
+      "url": "https://www.bomcondutor.pt/questao/4981",
+      "pergunta": "Quem é responsável quando um menor não utiliza equipamento de retenção?",
+      "imagem": "4981.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4981.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O condutor.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O menor, desde que tenha tido formação rodoviária na escola.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Os pais, ainda que não sejam os condutores do veículo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4982",
+      "url": "https://www.bomcondutor.pt/questao/4982",
+      "pergunta": "Quem for condenado pela prática de uma contra-ordenação muito grave durante o período em que o seu título de condução é provisório:",
+      "imagem": "4982.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4982.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fica com o título caducado.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Mantém o título.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4983",
+      "url": "https://www.bomcondutor.pt/questao/4983",
+      "pergunta": "Quem for titular de carta de condução da categoria B está autorizado a conduzir tractocarros e máquinas industriais ligeiras?",
+      "imagem": "4983.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4983.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas tractocarros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4984",
+      "url": "https://www.bomcondutor.pt/questao/4984",
+      "pergunta": "Quem permitir a utilização do seu veículo por pessoa que esteja sob o efeito do álcool também é responsável pelas infracções que forem praticadas.",
+      "imagem": "4984.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4984.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4985",
+      "url": "https://www.bomcondutor.pt/questao/4985",
+      "pergunta": "Regra geral, o estacionamento abusivo implica:",
+      "imagem": "4985.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4985.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A apreensão dos documentos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A remoção do veículo.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Uma contra-ordenação grave.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4986",
+      "url": "https://www.bomcondutor.pt/questao/4986",
+      "pergunta": "Se circular na via pública com veículo a motor sem ter efectuado seguro de responsabilidade civil posso ficar inibido de conduzir?",
+      "imagem": "4986.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4986.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4987",
+      "url": "https://www.bomcondutor.pt/questao/4987",
+      "pergunta": "Se circular na via pública sem o certificado de seguro automóvel, o que devo fazer?",
+      "imagem": "4987.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4987.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apresentar no prazo de 20 dias o documento à autoridade indicada pelo agente de fiscalização.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Apresentar no prazo de 8 dias o documento à autoridade indicada pelo agente de fiscalização e pagar coima.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4988",
+      "url": "https://www.bomcondutor.pt/questao/4988",
+      "pergunta": "Se ficar inibido(a) de conduzir por dois anos, posso conduzir um motociclo durante o período da inibição?",
+      "imagem": "4988.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4988.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a inibição de conduzir aplica-se a todos os veículos a motor.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, a inibição de conduzir não se aplica a todos os veículos a motor.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, a inibição de conduzir não se aplica aos motociclos de cilindrada não superior a 50 cm3.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4989",
+      "url": "https://www.bomcondutor.pt/questao/4989",
+      "pergunta": "Se já for titular de carta de condução válida apenas para a categoria B1 e pretender obter habilitação para a categoria B fico sujeito ao período provisório do título de condução?",
+      "imagem": "4989.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4989.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque já me encontro habilitado com a Categoria B1.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, por três anos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, por um ano.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4990",
+      "url": "https://www.bomcondutor.pt/questao/4990",
+      "pergunta": "Se já for titular de carta de condução válida para a categoria A1 e pretender obter habilitação para a categoria B fico sujeito ao período provisório do título de condução?",
+      "imagem": "4990.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4990.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque já me encontro habilitado a conduzir.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, pelo período de três anos.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, salvo se já for titular de carta de condução há mais de três anos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4991",
+      "url": "https://www.bomcondutor.pt/questao/4991",
+      "pergunta": "Se o agente no momento da fiscalização, considerar ilegível o título de condução, pode apreendê-lo?",
+      "imagem": "4991.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4991.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas se o condutor for interveniente em acidente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4992",
+      "url": "https://www.bomcondutor.pt/questao/4992",
+      "pergunta": "Se um condutor não parar perante a luz vermelha de regulação do trânsito fica sempre inibido de conduzir?",
+      "imagem": "4992.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4992.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, o condutor pode não ficar inibido de conduzir se for a sua primeira infracção ao Código da Estrada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, mas a sanção acessória de inibição de conduzir pode ser reduzida para metade em certas circunstâncias.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4993",
+      "url": "https://www.bomcondutor.pt/questao/4993",
+      "pergunta": "Sempre que um veículo a motor transite na via pública, o seu condutor deve ser portador:",
+      "imagem": "4993.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4993.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "De documento legal de identificação pessoal, título de condução e certificado de seguro.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sempre de ficha de Inspecção periódica do veículo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Unicamente do documento de identificação pessoal.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4994",
+      "url": "https://www.bomcondutor.pt/questao/4994",
+      "pergunta": "Um automóvel deverá ser apreendido pelas autoridades fiscalizadoras do trânsito quando:",
+      "imagem": "4994.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4994.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Circule com lotação superior à permitida.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O registo de propriedade não está actualizado.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O seu condutor incorra numa contra-ordenação muito grave.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4995",
+      "url": "https://www.bomcondutor.pt/questao/4995",
+      "pergunta": "Um automóvel sem matrícula pode transitar na via pública?",
+      "imagem": "4995.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4995.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, mesmo os veículos sem motor são obrigados a ter matrícula.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, pois os veículos a motor e seus reboques são obrigados a ter matrícula.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que a uma velocidade reduzida.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4996",
+      "url": "https://www.bomcondutor.pt/questao/4996",
+      "pergunta": "Um candidato a condutor deve saber que a carta de condução obtida para conduzir automóveis ligeiros tem um carácter provisório por um período de:",
+      "imagem": "4996.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4996.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "1 ano.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "2 anos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "3 anos.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4997",
+      "url": "https://www.bomcondutor.pt/questao/4997",
+      "pergunta": "Um cidadão que resida no Estrangeiro pode obter título de condução da categoria B em Portugal?",
+      "imagem": "4997.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4997.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas se souber ler e escrever em Português.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4998",
+      "url": "https://www.bomcondutor.pt/questao/4998",
+      "pergunta": "Um condutor a quem tenha sido cassada a carta de condução por praticar infracções ao Código da Estrada pode ficar impedido de obter novo título?",
+      "imagem": "4998.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4998.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, excepto quando pratica um crime rodoviário.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, pelo período de dois anos.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4999",
+      "url": "https://www.bomcondutor.pt/questao/4999",
+      "pergunta": "Um condutor com a carta de condução da categoria B pode conduzir:",
+      "imagem": "4999.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4999.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis com peso bruto até 5.000 kgs.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Todos os motociclos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tractores agrícolas com equipamentos se o peso máximo não exceder 3.500 kgs.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "5000",
+      "url": "https://www.bomcondutor.pt/questao/5000",
+      "pergunta": "Um condutor com a carta de condução da categoria C pode conduzir:",
+      "imagem": "5000.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/5000.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros e todos os automóveis pesados.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Automóveis ligeiros, tractores agrícolas e automóveis pesados de mercadorias.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Motociclos de duas rodas, automóveis ligeiros e pesados.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "5001",
+      "url": "https://www.bomcondutor.pt/questao/5001",
+      "pergunta": "Um condutor deve saber que a cassação da carta de condução origina que:",
+      "imagem": "5001.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/5001.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não pode ser concedido novo título de condução pelo período de dois anos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O condutor fica inibido de conduzir qualquer veículo a motor pelo período de um mês.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O condutor fica inibido de conduzir veículos ligeiros pelo período de um mês.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "5002",
+      "url": "https://www.bomcondutor.pt/questao/5002",
+      "pergunta": "Um condutor deve saber que as licenças de condução são documentos que permitem conduzir:",
+      "imagem": "5002.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/5002.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Motociclos de cilindrada não superior a 50 cm3 e ciclomotores.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tractores e máquinas agrícolas ou florestais.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "5003",
+      "url": "https://www.bomcondutor.pt/questao/5003",
+      "pergunta": "Um condutor deve saber que o carácter provisório da carta de condução obriga sempre a:",
+      "imagem": "5003.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/5003.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Realizar novo exame para obter a carta de condução definitiva.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Ter que aguardar o fim do período probatório para obter o título definitivo independentemente das infracções que pratique.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Um regime contra-ordenacional mais penalizante.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "5004",
+      "url": "https://www.bomcondutor.pt/questao/5004",
+      "pergunta": "Um condutor habilitado com a carta de condução da categoria B+E, pode conduzir:",
+      "imagem": "5004.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/5004.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Tractores agrícolas, com reboque até 6000 kg de peso bruto do conjunto.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Tractores agrícolas, com reboque, com peso bruto do conjunto superior a 6000 kg.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tractores agrícolas, sem reboque, de peso máximo superior a 6000 kg.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "5005",
+      "url": "https://www.bomcondutor.pt/questao/5005",
+      "pergunta": "Um condutor habilitado com a carta de condução de automóveis ligeiros pode conduzir uma máquina industrial?",
+      "imagem": "5005.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/5005.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não pode.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Pode conduzir qualquer máquina.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pode, se a máquina for ligeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "5006",
+      "url": "https://www.bomcondutor.pt/questao/5006",
+      "pergunta": "Um condutor habilitado com a carta de condução para automóveis ligeiros pode conduzir um tractor agrícola?",
+      "imagem": "5006.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/5006.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não pode.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Pode, desde que o peso máximo não exceda 3500 kg.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, pode conduzir todos os tractores.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "5007",
+      "url": "https://www.bomcondutor.pt/questao/5007",
+      "pergunta": "Um condutor habilitado com a categoria B, da carta de condução pode conduzir:",
+      "imagem": "5007.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/5007.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Máquinas agrícolas sem restrição de peso.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Máquinas florestais ligeiras.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Tractores com peso bruto de 7.500 kgs.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "5008",
+      "url": "https://www.bomcondutor.pt/questao/5008",
+      "pergunta": "Um condutor habilitado com carta de condução da categoria B pode conduzir um tractor agrícola sem reboque?",
+      "imagem": "5008.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/5008.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não pode.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Pode, independentemente do seu peso máximo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pode, se o peso máximo com equipamentos não exceder 3500 Kg.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "5009",
+      "url": "https://www.bomcondutor.pt/questao/5009",
+      "pergunta": "Um condutor que circule com uma taxa de álcool no sangue superior a 0,8 g/l e inferior a 1,2 g/l comete uma contra-ordenação muito grave. Concorda com esta afirmação?",
+      "imagem": "5009.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/5009.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, salvo se apresentar defesa.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "5010",
+      "url": "https://www.bomcondutor.pt/questao/5010",
+      "pergunta": "Um condutor que tenha sido condenado por conduzir sob a influência de substâncias psicotrópicas pode conduzir algum veículo a motor durante o período da inibição?",
+      "imagem": "5010.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/5010.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que não seja um automóvel pesado.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, mas apenas ciclomotores ou motociclos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "5011",
+      "url": "https://www.bomcondutor.pt/questao/5011",
+      "pergunta": "Um condutor titular de carta de condução da categoria B pode conduzir triciclos e quadriciclos?",
+      "imagem": "5011.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/5011.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas triciclos e quadriciclos ligeiros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "5012",
+      "url": "https://www.bomcondutor.pt/questao/5012",
+      "pergunta": "Um veículo que apresente sinais exteriores evidentes de abandono está em estacionamento abusivo, se:",
+      "imagem": "5012.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/5012.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Permanecer no mesmo local por mais de 24 horas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Permanecer no mesmo local por mais de 36 horas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Permanecer no mesmo local por mais de 48 horas.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    }
+  ]
+}

@@ -1,0 +1,2792 @@
+{
+  "tema": "Vias de trânsito, condições ambientais adversas",
+  "slug": "vias-transito-condicoes-ambientais-adversas",
+  "total": 116,
+  "questoes": [
+    {
+      "numero": "4768",
+      "url": "https://www.bomcondutor.pt/questao/4768",
+      "pergunta": "A aquaplanagem pode ocorrer:",
+      "imagem": "4768.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4768.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas com pneus lisos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Se eu não adaptar a velocidade às condições do piso.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4769",
+      "url": "https://www.bomcondutor.pt/questao/4769",
+      "pergunta": "A aquaplanagem, regra geral, é provocada por:",
+      "imagem": "4769.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4769.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Água.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Óleo na estrada.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Qualquer substância que se encontre entre o pneu e o piso.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4770",
+      "url": "https://www.bomcondutor.pt/questao/4770",
+      "pergunta": "A condução nestas condições afecta:",
+      "imagem": "4770.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4770.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A distância de reacção.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A distância de travagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O tempo de reacção.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4771",
+      "url": "https://www.bomcondutor.pt/questao/4771",
+      "pergunta": "A distância de paragem aumenta quando a aderência ao piso é:",
+      "imagem": "4771.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4771.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Maior.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Menor.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4772",
+      "url": "https://www.bomcondutor.pt/questao/4772",
+      "pergunta": "A perda de informação visual que se verifica durante a noite dificulta os processos de percepção e de tomada de decisão ao volante.",
+      "imagem": "4772.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4772.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4773",
+      "url": "https://www.bomcondutor.pt/questao/4773",
+      "pergunta": "A sinalização adverte-me para a possível diminuição de aderência. Devo:",
+      "imagem": "4773.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4773.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Diminuir a distância de paragem e aumentar a velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuir a distância de segurança e aumentar a distância de paragem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Diminuir a velocidade e aumentar a distância de segurança.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4774",
+      "url": "https://www.bomcondutor.pt/questao/4774",
+      "pergunta": "A velocidade deve ser especialmente moderada quando as condições atmosféricas são desfavoráveis.",
+      "imagem": "4774.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4774.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4775",
+      "url": "https://www.bomcondutor.pt/questao/4775",
+      "pergunta": "A via de trânsito destina-se à circulação de quantas filas de veículos?",
+      "imagem": "4775.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4775.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Duas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Três ou mais.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4776",
+      "url": "https://www.bomcondutor.pt/questao/4776",
+      "pergunta": "A visibilidade é reduzida ou insuficiente sempre que o condutor não possa avistar a faixa de rodagem em toda a sua largura numa extensão de, pelo menos, 50 metros.",
+      "imagem": "4776.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4776.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4777",
+      "url": "https://www.bomcondutor.pt/questao/4777",
+      "pergunta": "Ao circular em auto-estrada estou obrigado a circular:",
+      "imagem": "4777.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4777.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Pela via de trânsito mais à direita.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Pela via de trânsito mais à esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pela via de trânsito mais conveniente ao meu destino.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4778",
+      "url": "https://www.bomcondutor.pt/questao/4778",
+      "pergunta": "Ao circular fora de uma localidade em marcha lenta, o condutor de um automóvel pesado deve manter em relação ao veículo que circula à sua frente uma distância mínima de 50 metros.",
+      "imagem": "4778.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4778.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação está correcta.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação está incorrecta.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4779",
+      "url": "https://www.bomcondutor.pt/questao/4779",
+      "pergunta": "Ao circular nesta via pública, o condutor de um automóvel pesado deve manter uma distância mínima que permita a sua ultrapassagem com segurança. Concorda com esta afirmação?",
+      "imagem": "4779.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4779.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a afirmação está incorrecta.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, deve manter uma distância máxima de 50 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, deve manter uma distância mínima de 50 metros.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4780",
+      "url": "https://www.bomcondutor.pt/questao/4780",
+      "pergunta": "Ao circular nesta via, devo moderar especialmente a velocidade?",
+      "imagem": "4780.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4780.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, apenas estou obrigado a regular a velocidade em função do limite máximo para esta via.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, devo adequar a velocidade atendendo às condições meteorológicas.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4781",
+      "url": "https://www.bomcondutor.pt/questao/4781",
+      "pergunta": "Ao circular neste local devo:",
+      "imagem": "4781.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4781.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Circular sempre à velocidade máxima de 120 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Circular sempre com as luzes de presença ligadas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Manter sempre uma distância de segurança.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4782",
+      "url": "https://www.bomcondutor.pt/questao/4782",
+      "pergunta": "Ao circular numa auto-estrada e sempre que a visibilidade seja insuficiente, como devo proceder em caso de avaria da luz de cruzamento do lado direito?",
+      "imagem": "4782.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4782.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A circulação apenas é permitida até à próxima área de serviço ou saída mais próxima.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A circulação é permitida até ao local de destino.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Devo imobilizar imediatamente o veículo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4783",
+      "url": "https://www.bomcondutor.pt/questao/4783",
+      "pergunta": "Ao circular numa auto-estrada e sempre que a visibilidade seja insuficiente, como devo proceder em caso de avaria da luz de cruzamento do lado esquerdo?",
+      "imagem": "4783.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4783.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A circulação apenas é permitida até à próxima área de serviço ou saída mais próxima.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A circulação é permitida até ao local de destino.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Devo imobilizar o veículo em segurança, o mais rapidamente possível.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4784",
+      "url": "https://www.bomcondutor.pt/questao/4784",
+      "pergunta": "As condições meteorológicas ou ambientais podem obrigar-me a moderar especialmente a velocidade?",
+      "imagem": "4784.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4784.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sim, mas apenas quando chove ou está nevoeiro.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas quando chove, neva, está nevoeiro, há gelo ou é de noite.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, sempre que a visibilidade é afectada.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4785",
+      "url": "https://www.bomcondutor.pt/questao/4785",
+      "pergunta": "Circulo numa auto-estrada. Posso inverter o sentido da marcha?",
+      "imagem": "4785.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4785.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "É permitido com baixo volume de trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "É permitido junto às portagens.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Não, é proibido.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4786",
+      "url": "https://www.bomcondutor.pt/questao/4786",
+      "pergunta": "Circulo numa via reservada a automóveis e motociclos. Logo na via de trânsito em que me encontro podem circular, para ultrapassar:",
+      "imagem": "4786.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4786.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Todos os automóveis, menos os pesados de mercadorias ou conjunto de veículos cujo comprimento exceda 7 metros.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Todos os automóveis, menos os pesados de passageiros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os veículos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4787",
+      "url": "https://www.bomcondutor.pt/questao/4787",
+      "pergunta": "Com estas condições atmosféricas posso ultrapassar?",
+      "imagem": "4787.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4787.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque não tenho visibilidade suficiente.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque não vêm veículos em sentido contrário.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4788",
+      "url": "https://www.bomcondutor.pt/questao/4788",
+      "pergunta": "Com o piso escorregadio, devo:",
+      "imagem": "4788.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4788.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentar a distância de segurança.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuir a distância de segurança.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Manter a distância de segurança.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4789",
+      "url": "https://www.bomcondutor.pt/questao/4789",
+      "pergunta": "Como devo proceder na situação em que me encontro?",
+      "imagem": "4789.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4789.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentar a distância de segurança.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Circular junto ao eixo da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ligar os máximos e reduzir a velocidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4790",
+      "url": "https://www.bomcondutor.pt/questao/4790",
+      "pergunta": "Como devo proceder no local em que circulo?",
+      "imagem": "4790.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4790.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Adaptar a velocidade às condições da via.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Fazer uso das luzes de perigo para assinalar a minha presença.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Reduzir a distância que me separa do veículo da frente.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Reduzir a velocidade e circular com as luzes de estrada.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4791",
+      "url": "https://www.bomcondutor.pt/questao/4791",
+      "pergunta": "Como devo proceder para circular em segurança no local em que me encontro?",
+      "imagem": "4791.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4791.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentar a distância de paragem do veículo que conduzo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Circular em marcha lenta fazendo uso das luzes de perigo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Guardar distância de segurança em relação ao veículo da frente.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4792",
+      "url": "https://www.bomcondutor.pt/questao/4792",
+      "pergunta": "Como devo proceder para circular em segurança no local em que me encontro?",
+      "imagem": "4792.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4792.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Adaptar a velocidade às características da via e condições atmosféricas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Aproximar o veículo o mais possível do eixo da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Travar a fundo antes de entrar na curva.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4793",
+      "url": "https://www.bomcondutor.pt/questao/4793",
+      "pergunta": "Como devo proceder quando a via se encontra em mau estado de conservação?",
+      "imagem": "4793.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4793.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Circular pela parte que estiver em melhores condições.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Devo circular pela direita da faixa de rodagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Devo circular pela esquerda da faixa de rodagem, se a via for de sentido único.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4794",
+      "url": "https://www.bomcondutor.pt/questao/4794",
+      "pergunta": "Como se chama a via de trânsito à minha direita?",
+      "imagem": "4794.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4794.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Berma.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Via de abrandamento.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Via de aceleração.",
+          "correta": true
+        },
+        {
+          "letra": "D",
+          "texto": "Via rápida.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4795",
+      "url": "https://www.bomcondutor.pt/questao/4795",
+      "pergunta": "Como se designa a via de trânsito à minha direita e que permite a entrada na auto-estrada?",
+      "imagem": "4795.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4795.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Via de abrandamento.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Via de aceleração.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Via reversível.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4796",
+      "url": "https://www.bomcondutor.pt/questao/4796",
+      "pergunta": "Conduzir com chuva provoca:",
+      "imagem": "4796.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4796.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A diminuição da distância de paragem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A redução da visibilidade.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O aumento da aderência ao piso.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4797",
+      "url": "https://www.bomcondutor.pt/questao/4797",
+      "pergunta": "Conduzo um automóvel ligeiro de mercadorias sem reboque. Qual é a velocidade máxima permitida neste local?",
+      "imagem": "4797.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4797.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "100 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "110 Km/h.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "90 Km/h.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4798",
+      "url": "https://www.bomcondutor.pt/questao/4798",
+      "pergunta": "Devo ligar as luzes de cruzamento, quando:",
+      "imagem": "4798.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4798.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A intensidade do trânsito é maior.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A redução de velocidade for súbita.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A redução de visibilidade o justificar.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4799",
+      "url": "https://www.bomcondutor.pt/questao/4799",
+      "pergunta": "É permitido inverter o sentido de marcha neste local?",
+      "imagem": "4799.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4799.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4800",
+      "url": "https://www.bomcondutor.pt/questao/4800",
+      "pergunta": "É possível conduzir de forma segura com condições atmosféricas desfavoráveis?",
+      "imagem": "4800.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4800.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, é impossível manter uma condução segura.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que adapte a minha condução às condições atmosféricas adversas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que respeite os limites de velocidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4801",
+      "url": "https://www.bomcondutor.pt/questao/4801",
+      "pergunta": "Em auto-estrada devo adaptar a velocidade do meu veículo em função das características e estado da via?",
+      "imagem": "4801.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4801.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, desde que não ultrapasse os 120 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, de modo a que consiga fazer parar o veículo no espaço livre e visível à minha frente.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4802",
+      "url": "https://www.bomcondutor.pt/questao/4802",
+      "pergunta": "Em caso de súbita redução de velocidade, provocada por condições meteorológicas adversas, devo utilizar as luzes avisadoras de perigo?",
+      "imagem": "4802.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4802.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4803",
+      "url": "https://www.bomcondutor.pt/questao/4803",
+      "pergunta": "Em que consiste o fenómeno de encandeamento?",
+      "imagem": "4803.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4803.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Na diminuição do tempo de fixação dos olhos nos objectos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Na perda momentânea da capacidade de visão.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "No aumento do tempo de fixação dos olhos nos objectos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4804",
+      "url": "https://www.bomcondutor.pt/questao/4804",
+      "pergunta": "Encontro-me correctamente posicionado nesta via de trânsito para seguir para Vila Franca?",
+      "imagem": "4804.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4804.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, devo circular na via de trânsito da esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, devo circular nesta via de trânsito mais à direita.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, embora possa circular noutra via de trânsito independentemente do meu destino.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4805",
+      "url": "https://www.bomcondutor.pt/questao/4805",
+      "pergunta": "Encontro-me correctamente posicionado nesta via de trânsito se pretender seguir a direcção de Elvas?",
+      "imagem": "4805.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4805.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, deveria estar já posicionado na via à minha direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, deveria ocupar a via imediatamente à minha esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, é esta a via que me permite seguir na direcção pretendida.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4806",
+      "url": "https://www.bomcondutor.pt/questao/4806",
+      "pergunta": "Menor aderência deve implicar sempre:",
+      "imagem": "4806.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4806.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Maior atenção e uma diminuição da distância de travagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Moderação especial da velocidade.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Uma diminuição da visibilidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4807",
+      "url": "https://www.bomcondutor.pt/questao/4807",
+      "pergunta": "Na condução com chuva deve ter-se o seguinte comportamento:",
+      "imagem": "4807.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4807.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentar a distância de segurança.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuir a distância de segurança.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Diminuir a recolha de informação.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4808",
+      "url": "https://www.bomcondutor.pt/questao/4808",
+      "pergunta": "Na condução com chuva é necessário ter em atenção:",
+      "imagem": "4808.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4808.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A redução da aderência ao piso e a diminuição da visibilidade.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A redução de visibilidade e o aumento da aderência ao piso.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O aumento da aderência ao piso.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4809",
+      "url": "https://www.bomcondutor.pt/questao/4809",
+      "pergunta": "Na condução com condições atmosféricas adversas, como é o caso, devo ter especial atenção ao comportamento inesperado dos peões.",
+      "imagem": "4809.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4809.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4810",
+      "url": "https://www.bomcondutor.pt/questao/4810",
+      "pergunta": "Nas auto-estradas com três ou mais vias de trânsito afectas ao mesmo sentido, que veículos se encontram proibidos de utilizar a via de trânsito mais à esquerda?",
+      "imagem": "4810.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4810.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Os automóveis ligeiros de mercadorias e os mistos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Os automóveis pesados de mercadorias ou conjuntos de veículos cujo comprimento exceda 7 m.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Os automóveis pesados de passageiros.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Os motociclos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4811",
+      "url": "https://www.bomcondutor.pt/questao/4811",
+      "pergunta": "Nas auto-estradas só podem circular veículos cujas características lhes permitam atingir uma velocidade em patamar superior a:",
+      "imagem": "4811.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4811.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "40 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "50 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "60 km/h.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4812",
+      "url": "https://www.bomcondutor.pt/questao/4812",
+      "pergunta": "Nesta auto-estrada podem circular:",
+      "imagem": "4812.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4812.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Todos os automóveis.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Todos os motociclos e automóveis.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os veículos, excepto os velocípedes.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4813",
+      "url": "https://www.bomcondutor.pt/questao/4813",
+      "pergunta": "Nesta situação a velocidade deve ser moderada, porque:",
+      "imagem": "4813.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4813.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "As condições ambientais e de circulação são desfavoráveis.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Circulo em auto-estrada.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4814",
+      "url": "https://www.bomcondutor.pt/questao/4814",
+      "pergunta": "Nesta situação de chuva estou a ultrapassar. Devo:",
+      "imagem": "4814.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4814.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Terminar a manobra rapidamente e travar assim que retomar a direita.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Terminar a ultrapassagem evitando manobras bruscas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Travar e desistir da manobra.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4815",
+      "url": "https://www.bomcondutor.pt/questao/4815",
+      "pergunta": "Nesta situação devo acender os médios para:",
+      "imagem": "4815.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4815.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Assinalar a presença do veículo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Assinalar uma ultrapassagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Estacionar na faixa de rodagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4816",
+      "url": "https://www.bomcondutor.pt/questao/4816",
+      "pergunta": "Nesta situação devo evitar:",
+      "imagem": "4816.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4816.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fazer travagens bruscas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Utilizar o motor como auxiliar de travagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar o travão de serviço.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4817",
+      "url": "https://www.bomcondutor.pt/questao/4817",
+      "pergunta": "Nesta situação devo transitar com velocidade especialmente moderada, devido:",
+      "imagem": "4817.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4817.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Às condições de aderência e à existência de uma linha contínua.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Às condições de aderência e visibilidade.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Às condições de visibilidade e à existência de uma linha contínua.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4818",
+      "url": "https://www.bomcondutor.pt/questao/4818",
+      "pergunta": "Nesta situação devo utilizar as luzes de cruzamento?",
+      "imagem": "4818.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4818.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, desde que não circule nenhum veículo à minha frente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, é obrigatório.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4819",
+      "url": "https://www.bomcondutor.pt/questao/4819",
+      "pergunta": "Nesta situação devo:",
+      "imagem": "4819.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4819.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Buzinar para advertir o condutor que tem as luzes ligadas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Procurar afastar-me dos lençóis de água a fim de evitar uma possível aquaplanagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Reduzir a velocidade e colocar-me o mais à direita possível.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4820",
+      "url": "https://www.bomcondutor.pt/questao/4820",
+      "pergunta": "Nesta situação devo:",
+      "imagem": "4820.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4820.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Circular com as luzes avisadoras de perigo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Circular com as luzes de presença ligadas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Circular com velocidade especialmente moderada.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4821",
+      "url": "https://www.bomcondutor.pt/questao/4821",
+      "pergunta": "Nesta situação devo:",
+      "imagem": "4821.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4821.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentar a velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuir a distância de segurança.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ligar as luzes de cruzamento e adaptar a velocidade.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4822",
+      "url": "https://www.bomcondutor.pt/questao/4822",
+      "pergunta": "Nesta situação devo:",
+      "imagem": "4822.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4822.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Utilizar apenas o travão de serviço.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Utilizar o motor como auxiliar do travão, de maneira a aumentar a velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar o motor como auxiliar do travão.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4823",
+      "url": "https://www.bomcondutor.pt/questao/4823",
+      "pergunta": "Nesta situação devo:",
+      "imagem": "4823.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4823.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Parar, porque as condições atmosféricas não são favoráveis a uma condução segura.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Utilizar o motor como auxiliar do travão e moderar a velocidade.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar o travão de serviço e nunca o motor como auxiliar, porque a via não é inclinada.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4824",
+      "url": "https://www.bomcondutor.pt/questao/4824",
+      "pergunta": "Nesta situação devo:",
+      "imagem": "4824.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4824.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estar especialmente atento às condições do piso.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Utilizar a berma ou a faixa de rodagem consoante o estado do piso.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar a berma se na faixa de rodagem, existirem poças de água.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4825",
+      "url": "https://www.bomcondutor.pt/questao/4825",
+      "pergunta": "Nesta situação em que as condições atmosféricas são adversas, devo:",
+      "imagem": "4825.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4825.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentar a distância de segurança.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Moderar a velocidade e diminuir a distância de segurança.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4826",
+      "url": "https://www.bomcondutor.pt/questao/4826",
+      "pergunta": "Nesta situação o que devo fazer?",
+      "imagem": "4826.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4826.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Acender os máximos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Transitar a velocidade moderada.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Travar a fundo imediatamente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4827",
+      "url": "https://www.bomcondutor.pt/questao/4827",
+      "pergunta": "Nesta situação posso circular com as luzes de estrada.",
+      "imagem": "4827.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4827.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4828",
+      "url": "https://www.bomcondutor.pt/questao/4828",
+      "pergunta": "Nesta situação se precisar de travar posso fazê-lo:",
+      "imagem": "4828.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4828.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Bloqueando as rodas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Com o motor.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Com o travão de mão.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4829",
+      "url": "https://www.bomcondutor.pt/questao/4829",
+      "pergunta": "Nesta situação, a acção de vento lateral influencia principalmente:",
+      "imagem": "4829.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4829.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A estabilidade e trajectória do veículo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O aumento de velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O sistema de iluminação.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4830",
+      "url": "https://www.bomcondutor.pt/questao/4830",
+      "pergunta": "Nesta situação, a minha condução pode ser especialmente condicionada pela:",
+      "imagem": "4830.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4830.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aderência.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ausência de sinalização vertical.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Visibilidade.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4831",
+      "url": "https://www.bomcondutor.pt/questao/4831",
+      "pergunta": "Nesta situação, a presença de vento lateral pode afectar a minha condução?",
+      "imagem": "4831.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4831.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4832",
+      "url": "https://www.bomcondutor.pt/questao/4832",
+      "pergunta": "Nesta situação, a sinalização indica perigo de vento lateral intenso, que incide:",
+      "imagem": "4832.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4832.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Da direita para a esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Da esquerda para a direita.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4833",
+      "url": "https://www.bomcondutor.pt/questao/4833",
+      "pergunta": "Nesta situação, devo dar especial atenção:",
+      "imagem": "4833.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4833.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ao comportamento do peão.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ao veículo que circula atrás do meu veículo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ao veículo, que já iniciou a marcha.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4834",
+      "url": "https://www.bomcondutor.pt/questao/4834",
+      "pergunta": "Nesta situação, devo moderar especialmente a minha velocidade tendo em atenção qual dos seguintes factores?",
+      "imagem": "4834.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4834.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A sinalização horizontal.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A sinalização vertical.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "As condições de aderência da via.",
+          "correta": true
+        },
+        {
+          "letra": "D",
+          "texto": "O veículo que me precede.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4835",
+      "url": "https://www.bomcondutor.pt/questao/4835",
+      "pergunta": "Nesta situação, em que a visibilidade é reduzida, devo:",
+      "imagem": "4835.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4835.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Transitar com as luzes de cruzamento e utilizar com frequência o travão de serviço para ser visto.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Transitar com as luzes de cruzamento, de modo a ver e a ser visto.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Transitar com as luzes de nevoeiro apenas se circularem veículos atrás de mim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4836",
+      "url": "https://www.bomcondutor.pt/questao/4836",
+      "pergunta": "Nesta situação, porque me encontro a menos de 250 metros da próxima saída estou proibido de ultrapassar.",
+      "imagem": "4836.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4836.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4837",
+      "url": "https://www.bomcondutor.pt/questao/4837",
+      "pergunta": "Nesta situação, torna-se importante estar atento:",
+      "imagem": "4837.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4837.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas ao número de vias de trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas aos limites de velocidade impostos por sinalização.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "E adaptar a velocidade.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4838",
+      "url": "https://www.bomcondutor.pt/questao/4838",
+      "pergunta": "Nesta via não podem transitar:",
+      "imagem": "4838.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4838.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Automóveis pesados.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Motociclos com cilindrada igual ou inferior a 50 cm3.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4839",
+      "url": "https://www.bomcondutor.pt/questao/4839",
+      "pergunta": "Nesta via podem circular:",
+      "imagem": "4839.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4839.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros e pesados.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Peões, animais, carros de mão e ciclomotores.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Peões, animais, velocípedes e veículos de tracção animal.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4840",
+      "url": "https://www.bomcondutor.pt/questao/4840",
+      "pergunta": "Neste local é proibido:",
+      "imagem": "4840.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4840.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Acender os máximos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Parar e estacionar.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Parar e ultrapassar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4841",
+      "url": "https://www.bomcondutor.pt/questao/4841",
+      "pergunta": "Neste local é proibido:",
+      "imagem": "4841.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4841.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Circular a mais de 90 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Circular a menos de 60 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Parar.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4842",
+      "url": "https://www.bomcondutor.pt/questao/4842",
+      "pergunta": "Neste local é proibido:",
+      "imagem": "4842.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4842.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Circular a menos de 60 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Circular com os máximos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Fazer marcha atrás.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4843",
+      "url": "https://www.bomcondutor.pt/questao/4843",
+      "pergunta": "Neste local posso ultrapassar pela direita.",
+      "imagem": "4843.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4843.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4844",
+      "url": "https://www.bomcondutor.pt/questao/4844",
+      "pergunta": "Neste local posso utilizar a via de trânsito mais à esquerda:",
+      "imagem": "4844.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4844.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Desde que não circule outro veículo à minha retaguarda.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Durante o tempo necessário para efectuar uma ultrapassagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sempre que circule a mais de 60 Km/h.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4845",
+      "url": "https://www.bomcondutor.pt/questao/4845",
+      "pergunta": "Neste momento chove e a intensidade do trânsito aumenta. Devo:",
+      "imagem": "4845.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4845.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Adaptar a minha condução às condições adversas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ligar as luzes de cruzamento e aumentar a velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Transitar com a máxima prudência, porque a distância de travagem diminui.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4846",
+      "url": "https://www.bomcondutor.pt/questao/4846",
+      "pergunta": "O condutor do veículo, que me precede, pode circular na via de trânsito mais à esquerda?",
+      "imagem": "4846.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4846.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4847",
+      "url": "https://www.bomcondutor.pt/questao/4847",
+      "pergunta": "O que se entende por via de trânsito?",
+      "imagem": "4847.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4847.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Via de comunicação terrestre do domínio privado aberta ao trânsito público.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Via de tráfego resultante do alargamento da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Zona longitudinal da faixa de rodagem destinada à circulação de uma única fila de veículos.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4848",
+      "url": "https://www.bomcondutor.pt/questao/4848",
+      "pergunta": "O símbolo do lado esquerdo da via indica que o vento sopra :",
+      "imagem": "4848.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4848.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Da direita para a esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Da esquerda para a direita.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4849",
+      "url": "https://www.bomcondutor.pt/questao/4849",
+      "pergunta": "O sinal avisa-me que a minha velocidade deve ser especialmente adaptada:",
+      "imagem": "4849.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4849.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "À inclinação da via.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Às condições de aderência da faixa de rodagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Às condições de visibilidade do local.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4850",
+      "url": "https://www.bomcondutor.pt/questao/4850",
+      "pergunta": "O sinal de fundo azul determina a velocidade:",
+      "imagem": "4850.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4850.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Máxima aconselhável.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Máxima obrigatória.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Mínima aconselhável.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Mínima obrigatória.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "D"
+    },
+    {
+      "numero": "4851",
+      "url": "https://www.bomcondutor.pt/questao/4851",
+      "pergunta": "O sinal de fundo azul significa:",
+      "imagem": "4851.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4851.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Velocidade máxima permitida de 50 Km/h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Velocidade mínima aconselhável de 50 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Velocidade mínima obrigatória de 50 km/h.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4852",
+      "url": "https://www.bomcondutor.pt/questao/4852",
+      "pergunta": "O sinal vertical do lado direito indica-me que me encontro a:",
+      "imagem": "4852.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4852.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "100 metros da próxima saída.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "150 metros da próxima saída.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "250 metros da próxima saída.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4853",
+      "url": "https://www.bomcondutor.pt/questao/4853",
+      "pergunta": "Os ciclomotores podem transitar em auto-estrada?",
+      "imagem": "4853.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4853.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não podem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Podem, dentro dos limites de velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Podem, em qualquer circunstância.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4854",
+      "url": "https://www.bomcondutor.pt/questao/4854",
+      "pergunta": "Os condutores apenas devem utilizar as luzes de nevoeiro quando as condições meteorológicas ou ambientais o justifiquem. Concorda com a afirmação?",
+      "imagem": "4854.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4854.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4855",
+      "url": "https://www.bomcondutor.pt/questao/4855",
+      "pergunta": "Os condutores de automóveis pesados de mercadorias ou conjuntos de veículos cujo comprimento exceda 7 m apenas podem circular nas duas vias de trânsito mais à direita.",
+      "imagem": "4855.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4855.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A afirmação é falsa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação é verdadeira.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4856",
+      "url": "https://www.bomcondutor.pt/questao/4856",
+      "pergunta": "Os condutores estão obrigados a regular a velocidade atendendo às condições meteorológicas ou ambientais. Concorda com esta afirmação?",
+      "imagem": "4856.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4856.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4857",
+      "url": "https://www.bomcondutor.pt/questao/4857",
+      "pergunta": "Para circular em segurança com vento lateral intenso, devo:",
+      "imagem": "4857.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4857.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentar a velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Manter a velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Reduzir a velocidade.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4858",
+      "url": "https://www.bomcondutor.pt/questao/4858",
+      "pergunta": "Para transitar em segurança neste local, devo:",
+      "imagem": "4858.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4858.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Diminuir a pressão dos pneus, para que a aderência ao piso seja maior.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Estar especialmente atento e adaptar a velocidade.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Reduzir a velocidade e transitar no eixo da faixa de rodagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4859",
+      "url": "https://www.bomcondutor.pt/questao/4859",
+      "pergunta": "Perante a manga de vento do lado esquerdo da via, fico a saber que o vento:",
+      "imagem": "4859.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4859.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Afecta o consumo do combustível no veículo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Não afecta o consumo do combustível no veículo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4860",
+      "url": "https://www.bomcondutor.pt/questao/4860",
+      "pergunta": "Perante a sinalização, que encontro neste local, devo:",
+      "imagem": "4860.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4860.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Diminuir a distância de paragem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuir a distância de segurança.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Moderar a velocidade.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4861",
+      "url": "https://www.bomcondutor.pt/questao/4861",
+      "pergunta": "Perante o sinal de obrigação devo:",
+      "imagem": "4861.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4861.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Circular à distância mínima de 50 km/h do veículo que segue à frente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Circular à velocidade máxima de 50 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Circular a velocidade não inferior a 50 km/h.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4862",
+      "url": "https://www.bomcondutor.pt/questao/4862",
+      "pergunta": "Posso fazer marcha atrás nesta via?",
+      "imagem": "4862.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4862.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, nunca posso.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Posso, se fizer a manobra muito rapidamente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Posso, se houver pouca intensidade de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4863",
+      "url": "https://www.bomcondutor.pt/questao/4863",
+      "pergunta": "Posso transpor as aberturas existentes nos separadores de trânsito?",
+      "imagem": "4863.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4863.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, em circunstância alguma.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas para inverter o sentido de marcha.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, mas apenas para mudar de direcção à esquerda.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4864",
+      "url": "https://www.bomcondutor.pt/questao/4864",
+      "pergunta": "Posso transpor os separadores de trânsito existentes nesta via pública?",
+      "imagem": "4864.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4864.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, excepto nas auto-estradas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4865",
+      "url": "https://www.bomcondutor.pt/questao/4865",
+      "pergunta": "Posso utilizar a via da esquerda:",
+      "imagem": "4865.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4865.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Em qualquer circunstância, porque circulo numa auto-estrada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Para efectuar uma ultrapassagem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4866",
+      "url": "https://www.bomcondutor.pt/questao/4866",
+      "pergunta": "Qual das seguintes afirmações está correcta?",
+      "imagem": "4866.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4866.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Em meio urbano a distância de segurança deve ser maior que em meio não urbano.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Enquanto que em estrada a condução provoca sono, em meio urbano provoca fadiga.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4867",
+      "url": "https://www.bomcondutor.pt/questao/4867",
+      "pergunta": "Quando a via se encontra molhada, como devo proceder para evitar a hidroplanagem?",
+      "imagem": "4867.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4867.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Conduzir a velocidade moderada.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Fazer uso constante do travão.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Fazer uso de pneus de chuva.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Utilizar os limpa-pára-brisas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4868",
+      "url": "https://www.bomcondutor.pt/questao/4868",
+      "pergunta": "Quando chove, a aderência ao piso:",
+      "imagem": "4868.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4868.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumenta, diminuindo no entanto a distância de segurança.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminui, aumentando a distância de travagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Diminui, e a distância de travagem também diminui.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4869",
+      "url": "https://www.bomcondutor.pt/questao/4869",
+      "pergunta": "Quando o piso está escorregadio, a aderência diminui e:",
+      "imagem": "4869.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4869.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A distância de paragem não se altera.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A distância de travagem aumenta.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "A distância percorrida durante o tempo de reacção diminui.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4870",
+      "url": "https://www.bomcondutor.pt/questao/4870",
+      "pergunta": "Quando o piso está escorregadio:",
+      "imagem": "4870.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4870.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A aderência aumenta e a distância de segurança diminui.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A aderência aumenta e a distância de travagem diminui.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A aderência diminui e a distância de paragem aumenta.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4871",
+      "url": "https://www.bomcondutor.pt/questao/4871",
+      "pergunta": "Quando o piso está escorregadio:",
+      "imagem": "4871.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4871.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A distância de travagem aumenta.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A distância de travagem diminui.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A distância de travagem não se altera.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4872",
+      "url": "https://www.bomcondutor.pt/questao/4872",
+      "pergunta": "Que veículos podem circular numa auto-estrada?",
+      "imagem": "4872.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4872.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas os automóveis ligeiros e os pesados.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Os automóveis, os motociclos e os triciclos de cilindrada superior a 50cm3 e as máquinas industriais com matrícula.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Todos, à excepção dos tractores agrícolas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4873",
+      "url": "https://www.bomcondutor.pt/questao/4873",
+      "pergunta": "Regra geral, qual dos seguintes factores condiciona mais a condução nocturna?",
+      "imagem": "4873.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4873.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A audição.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A ausência de trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "As condições de visibilidade.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4874",
+      "url": "https://www.bomcondutor.pt/questao/4874",
+      "pergunta": "Se a visibilidade é menor a velocidade deve ser moderada, porque:",
+      "imagem": "4874.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4874.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Há mais dificuldade em recolher informação, logo há uma maior capacidade de previsão.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Há mais informação a recolher.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Há uma maior dificuldade em recolher informação.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4875",
+      "url": "https://www.bomcondutor.pt/questao/4875",
+      "pergunta": "Se o peão iniciar a travessia, o veículo que se encontra à minha frente deve:",
+      "imagem": "4875.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4875.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ceder-lhe a passagem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Utilizar os sinais sonoros e prosseguir a marcha.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4876",
+      "url": "https://www.bomcondutor.pt/questao/4876",
+      "pergunta": "Sempre que a visibilidade diminui e a intensidade de trânsito aumenta:",
+      "imagem": "4876.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4876.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A velocidade deve aumentar.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A velocidade deve diminuir.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "A velocidade não pode diminuir.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4877",
+      "url": "https://www.bomcondutor.pt/questao/4877",
+      "pergunta": "Sempre que se verifiquem condições meteorológicas ou ambientais que tornem a visibilidade insuficiente, nomeadamente, em caso de queda de neve, os condutores devem utilizar as luzes:",
+      "imagem": "4877.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4877.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "De cruzamento.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "De estrada.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "De presença.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4878",
+      "url": "https://www.bomcondutor.pt/questao/4878",
+      "pergunta": "Sempre que se verifiquem condições meteorológicas ou ambientais que tornem a visibilidade insuficiente, os condutores devem utilizar as luzes do seu veículo?",
+      "imagem": "4878.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4878.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas durante a noite.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4879",
+      "url": "https://www.bomcondutor.pt/questao/4879",
+      "pergunta": "Tendo acabado de ultrapassar o veículo que circulava na via mais à direita, posso continuar a circular nesta via ou estou obrigado a passar para a via da direita?",
+      "imagem": "4879.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4879.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Estou obrigado a passar para a via de trânsito mais à direita, logo que o possa fazer sem perigo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Posso continuar a circular nesta ou na via de trânsito mais à esquerda.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Posso continuar a circular nesta via de trânsito.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4880",
+      "url": "https://www.bomcondutor.pt/questao/4880",
+      "pergunta": "Todas as manobras, que são executadas, com o pavimento molhado ou escorregadio, devem:",
+      "imagem": "4880.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4880.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Implicar uma atenção especial.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ser feitas com as luzes de perigo ligadas.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ser feitas rapidamente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4881",
+      "url": "https://www.bomcondutor.pt/questao/4881",
+      "pergunta": "Uma das consequências da condução com chuva é:",
+      "imagem": "4881.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4881.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A diminuição da distância de paragem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A diminuição da distância de travagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A diminuição da visibilidade.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4882",
+      "url": "https://www.bomcondutor.pt/questao/4882",
+      "pergunta": "Uma das precauções que deve ser tomada na condução com gelo, será:",
+      "imagem": "4882.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4882.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A utilização das luzes de nevoeiro e o aumento da distância de paragem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A utilização das luzes de nevoeiro.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O aumento da distância de segurança.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4883",
+      "url": "https://www.bomcondutor.pt/questao/4883",
+      "pergunta": "Uma das principais características de uma auto-estrada é:",
+      "imagem": "4883.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4883.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Haver cruzamentos de nível e acesso a propriedades marginais.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Ser uma via pública destinada a trânsito rápido.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Ser uma via pública localizada numa zona com edificações.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    }
+  ]
+}

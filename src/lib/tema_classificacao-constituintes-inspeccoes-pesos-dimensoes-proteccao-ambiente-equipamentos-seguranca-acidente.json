@@ -1,0 +1,3137 @@
+{
+  "tema": "Classificação, constituintes, inspecções, pesos e dimensões, protecção de ambiente, equipamentos de segurança, acidente",
+  "slug": "classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente",
+  "total": 130,
+  "questoes": [
+    {
+      "numero": "4274",
+      "url": "https://www.bomcondutor.pt/questao/4274",
+      "pergunta": "A almofada de ar (airbag) é obrigatória em todos os automóveis ligeiros.",
+      "imagem": "4274.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4274.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4275",
+      "url": "https://www.bomcondutor.pt/questao/4275",
+      "pergunta": "A almofada de ar frontal (airbag) é um elemento de segurança?",
+      "imagem": "4275.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4275.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, segurança activa.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, segurança passiva.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4276",
+      "url": "https://www.bomcondutor.pt/questao/4276",
+      "pergunta": "A forma como se utiliza o veículo, influencia a sua manutenção?",
+      "imagem": "4276.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4276.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, a forma como eu conduzo nada tem a ver com a manutenção do veículo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas em grandes viagens.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4277",
+      "url": "https://www.bomcondutor.pt/questao/4277",
+      "pergunta": "A inspecção periódica obrigatória é efectuada:",
+      "imagem": "4277.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4277.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Em qualquer centro de inspecções devidamente acreditado.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Num centro de inspecções localizado no concelho da área de residência do condutor.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4278",
+      "url": "https://www.bomcondutor.pt/questao/4278",
+      "pergunta": "A parte mecânica do veículo tem influência na condução?",
+      "imagem": "4278.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4278.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque a forma como se conduz um veículo, nada tem a ver com seu funcionamento.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas se eu pretender atingir «grandes velocidades».",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque um funcionamento incorrecto do veículo pode influenciar de forma negativa a minha condução.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4279",
+      "url": "https://www.bomcondutor.pt/questao/4279",
+      "pergunta": "A placa serve para sinalizar os automóveis ou conjunto de veículos:",
+      "imagem": "4279.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4279.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Cuja tara exceda 3500 Kg.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Cujo peso bruto exceda 3500 Kg.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4280",
+      "url": "https://www.bomcondutor.pt/questao/4280",
+      "pergunta": "A pressão do ar dos pneus deve ser verificada quando estão:",
+      "imagem": "4280.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4280.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Frios.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Quentes.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4281",
+      "url": "https://www.bomcondutor.pt/questao/4281",
+      "pergunta": "A pressão dos pneus deve ser verificada:",
+      "imagem": "4281.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4281.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas quando o condutor pretende fazer uma grande viagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas quando o veículo é sujeito à inspecção periódica.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Regularmente.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4282",
+      "url": "https://www.bomcondutor.pt/questao/4282",
+      "pergunta": "A pressão dos pneus deve ser verificada:",
+      "imagem": "4282.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4282.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Depois de uma viagem, imediatamente após a imobilização do veículo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Durante a viagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Regularmente.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4283",
+      "url": "https://www.bomcondutor.pt/questao/4283",
+      "pergunta": "A pressão dos pneus deve ser:",
+      "imagem": "4283.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4283.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aquela que o condutor achar mais adequada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Aquela que o fabricante indicar.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Igual para todos os veículos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4284",
+      "url": "https://www.bomcondutor.pt/questao/4284",
+      "pergunta": "A que distância deve ser bem visível este sinal?",
+      "imagem": "4284.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4284.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A pelo menos 100 metros.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A pelo menos 150 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A pelo menos 200 metros.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "A pelo menos 30 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4285",
+      "url": "https://www.bomcondutor.pt/questao/4285",
+      "pergunta": "A que distância deve ser visível este sinal?",
+      "imagem": "4285.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4285.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A pelo menos 100 metros.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A pelo menos 150 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A pelo menos 200 metros.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "A pelo menos 50 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4286",
+      "url": "https://www.bomcondutor.pt/questao/4286",
+      "pergunta": "A que distância deve ser visível o triângulo de pré-sinalização de perigo?",
+      "imagem": "4286.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4286.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A pelo menos 100 metros.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A pelo menos 120 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A pelo menos 30 metros.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "A pelo menos 80 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4287",
+      "url": "https://www.bomcondutor.pt/questao/4287",
+      "pergunta": "A utilização de pneumáticos com pressão superior à recomendada pelo construtor provoca o desgaste prematuro:",
+      "imagem": "4287.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4287.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Da zona central do piso e diminui a aderência.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Das zonas laterais do piso e diminui a aderência.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Das zonas laterais do pneu, mas aumenta a aderência.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4288",
+      "url": "https://www.bomcondutor.pt/questao/4288",
+      "pergunta": "A verificação do líquido refrigerante deve ser feita:",
+      "imagem": "4288.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4288.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Com o motor desligado e frio.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Com o motor desligado, imediatamente depois de ter parado.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sempre com o motor a trabalhar.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4289",
+      "url": "https://www.bomcondutor.pt/questao/4289",
+      "pergunta": "A verificação do nível do óleo deve ser feita:",
+      "imagem": "4289.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4289.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas quando pretendo fazer uma viagem grande.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Regularmente com o motor a frio.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Regularmente com o motor a quente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4290",
+      "url": "https://www.bomcondutor.pt/questao/4290",
+      "pergunta": "A verificação do nível do óleo pode ser feita pelo condutor?",
+      "imagem": "4290.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4290.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque esta verificação só pode ser feita por técnicos especializados.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que mantenha o motor do veículo a trabalhar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, desde que saiba a forma correcta de o verificar.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4291",
+      "url": "https://www.bomcondutor.pt/questao/4291",
+      "pergunta": "A verificação dos níveis do óleo e do líquido de refrigeração deve ser feita:",
+      "imagem": "4291.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4291.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas quando no painel de instrumentos for dada essa indicação.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Regularmente, pelo condutor.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Sempre nas oficinas especializadas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4292",
+      "url": "https://www.bomcondutor.pt/questao/4292",
+      "pergunta": "Actualmente, os automóveis ligeiros devem estar providos de cintos de segurança em todos os lugares?",
+      "imagem": "4292.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4292.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, apenas no lugar do condutor.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, só nos lugares da frente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, em todos os lugares.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4293",
+      "url": "https://www.bomcondutor.pt/questao/4293",
+      "pergunta": "Amortecedores com fugas de óleo causam:",
+      "imagem": "4293.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4293.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumento de comodidade dos passageiros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Desequilíbrio do veículo.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Maior eficácia na travagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4294",
+      "url": "https://www.bomcondutor.pt/questao/4294",
+      "pergunta": "Amortecedores em mau estado de conservação originam:",
+      "imagem": "4294.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4294.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumento da velocidade.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuição da distância de paragem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Perda de aderência.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4295",
+      "url": "https://www.bomcondutor.pt/questao/4295",
+      "pergunta": "Ao iniciar a marcha, o que deve fazer o condutor caso verifique que o sistema de escape está defeituoso e causa demasiado ruído?",
+      "imagem": "4295.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4295.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Desmontar o sistema de escape.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Mandá-lo reparar.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4296",
+      "url": "https://www.bomcondutor.pt/questao/4296",
+      "pergunta": "Ao parar um automóvel um condutor deve ter em consideração os seguintes factores:",
+      "imagem": "4296.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4296.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A carga do veículo e a velocidade a que circula.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas a carga do veículo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Unicamente o local escolhido para a paragem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4297",
+      "url": "https://www.bomcondutor.pt/questao/4297",
+      "pergunta": "Ao prestar auxílio em caso de acidente e se houver suspeita de fractura nas costas da vítima devo evitar movê-la para outro local. Concorda com a afirmação?",
+      "imagem": "4297.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4297.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, salvo se houver suspeita de fractura no pescoço.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4298",
+      "url": "https://www.bomcondutor.pt/questao/4298",
+      "pergunta": "Ao transitar na via pública o veículo de tracção animal está sujeito a matrícula?",
+      "imagem": "4298.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4298.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4299",
+      "url": "https://www.bomcondutor.pt/questao/4299",
+      "pergunta": "As máquinas industriais:",
+      "imagem": "4299.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4299.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Eventualmente podem transitar na via pública.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Nunca podem transitar na via pública.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Podem transitar na via pública, sem quaisquer limitações.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4300",
+      "url": "https://www.bomcondutor.pt/questao/4300",
+      "pergunta": "Automóveis com lotação de 10 lugares, denominam-se:",
+      "imagem": "4300.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4300.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros de passageiros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Automóveis ligeiros mistos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Automóveis pesados de passageiros.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4301",
+      "url": "https://www.bomcondutor.pt/questao/4301",
+      "pergunta": "Como devo classificar o veículo que transita à minha frente?",
+      "imagem": "4301.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4301.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Ciclomotor, se a sua cilindrada não for superior a 125 cm3.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Motociclo, se a sua tara não exceder 750 Kg.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Tratocarro, se o seu peso bruto não ultrapassar 3500 Kg.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4302",
+      "url": "https://www.bomcondutor.pt/questao/4302",
+      "pergunta": "Considera-se que existem condições de má visibilidade para a condução:",
+      "imagem": "4302.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4302.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Sempre que haja um elevado número de veículos em circulação.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sempre que o condutor não aviste a via de trânsito numa extensão e largura de, pelo menos, 50 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sempre que o veículo não tenha realizado a inspecção periódica.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4303",
+      "url": "https://www.bomcondutor.pt/questao/4303",
+      "pergunta": "Consideram-se automóveis ligeiros:",
+      "imagem": "4303.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4303.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Os automóveis com lotação até 9 lugares e cujo peso bruto não exceda 3.500 kg.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Os automóveis cuja lotação não exceda 10 lugares.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os automóveis até 4500 kg.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4304",
+      "url": "https://www.bomcondutor.pt/questao/4304",
+      "pergunta": "De dia este sinal é obrigatório para avisar da existência de:",
+      "imagem": "4304.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4304.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Perigos vários.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Veículos estacionados fora da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Veículos parados ou estacionados parcial ou totalmente na faixa de rodagem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4305",
+      "url": "https://www.bomcondutor.pt/questao/4305",
+      "pergunta": "Depois de lavar o veículo, é necessário o condutor testar principalmente:",
+      "imagem": "4305.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4305.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A bateria.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "As luzes.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Os travões.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4306",
+      "url": "https://www.bomcondutor.pt/questao/4306",
+      "pergunta": "Devem obrigatoriamente estar apetrechados com este sinal:",
+      "imagem": "4306.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4306.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros e pesados em circulação .",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Todos os veículos a motor.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4307",
+      "url": "https://www.bomcondutor.pt/questao/4307",
+      "pergunta": "Devem ser submetidos a inspecção periódica obrigatória:",
+      "imagem": "4307.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4307.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Apenas os conjuntos de veículos compostos por automóvel ligeiro e reboque de peso bruto até 750 Kg.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas os motociclos de cilindrada superior a 50 cm3, com ou sem carro lateral.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Os automóveis ligeiros e pesados com reboque.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4308",
+      "url": "https://www.bomcondutor.pt/questao/4308",
+      "pergunta": "Dos factores integrantes da circulação rodoviária o mais importante é:",
+      "imagem": "4308.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4308.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A via pública.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O Homem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O veículo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4309",
+      "url": "https://www.bomcondutor.pt/questao/4309",
+      "pergunta": "Dos seguintes combustíveis qual é o menos poluente?",
+      "imagem": "4309.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4309.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Gás",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Gasolina com chumbo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Gasolina sem chumbo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4310",
+      "url": "https://www.bomcondutor.pt/questao/4310",
+      "pergunta": "É o velocímetro que me dá indicação:",
+      "imagem": "4310.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4310.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Da velocidade a que circulo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Do número de quilómetros percorridos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Do número de rotações do motor por minuto.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4311",
+      "url": "https://www.bomcondutor.pt/questao/4311",
+      "pergunta": "É obrigatória a utilização do cinto de segurança:",
+      "imagem": "4311.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4311.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Dentro e fora das localidades.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Somente dentro das localidades.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Somente fora das localidades.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4312",
+      "url": "https://www.bomcondutor.pt/questao/4312",
+      "pergunta": "É obrigatória a utilização do triângulo, quando:",
+      "imagem": "4312.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4312.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O sistema de luzes do veículo imobilizado estiver avariado.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O veículo imobilizado não for visível a 200 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O veículo ou carga imobilizados na faixa de rodagem, não forem visíveis a 100 metros.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4313",
+      "url": "https://www.bomcondutor.pt/questao/4313",
+      "pergunta": "É responsável pela manutenção do veículo:",
+      "imagem": "4313.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4313.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A oficina que o repara.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O seu construtor.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O seu utilizador.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4314",
+      "url": "https://www.bomcondutor.pt/questao/4314",
+      "pergunta": "Entende-se por corredor de circulação:",
+      "imagem": "4314.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4314.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A via de trânsito destinada à circulação de veículos.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A via de trânsito reservada a veículos de determinada espécie ou afectos a determinados transportes.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Toda a faixa de rodagem.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4315",
+      "url": "https://www.bomcondutor.pt/questao/4315",
+      "pergunta": "Entende-se por via pública a que:",
+      "imagem": "4315.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4315.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Permite a livre circulação de ciclomotores e de automóveis.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Permite a livre circulação de todos os veículos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Permite a livre circulação de veículos, peões e animais com as restrições impostas pelo Código da Estrada.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4316",
+      "url": "https://www.bomcondutor.pt/questao/4316",
+      "pergunta": "Este sinal avisa-me da existência:",
+      "imagem": "4316.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4316.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "De trabalhos na via.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "De um veículo imobilizado na faixa de rodagem.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "De um veículo que circula em marcha lenta.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4317",
+      "url": "https://www.bomcondutor.pt/questao/4317",
+      "pergunta": "Este sinal deve ser colocado a 20 metros de um veículo imobilizado.",
+      "imagem": "4317.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4317.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4318",
+      "url": "https://www.bomcondutor.pt/questao/4318",
+      "pergunta": "Este sinal indica que:",
+      "imagem": "4318.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4318.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Irei encontrar um obstáculo, pelo menos, a 100 metros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Irei encontrar um obstáculo, pelo menos, a 30 metros.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Irei encontrar uma curva perigosa a 30 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4319",
+      "url": "https://www.bomcondutor.pt/questao/4319",
+      "pergunta": "Este sinal pode indicar a aproximação de:",
+      "imagem": "4319.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4319.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Trabalhos na estrada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Veículos estacionados fora da faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Veículos imobilizados por avaria, na faixa de rodagem.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4320",
+      "url": "https://www.bomcondutor.pt/questao/4320",
+      "pergunta": "Este veículo é:",
+      "imagem": "4320.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4320.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Um tractor agrícola.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Uma máquina agrícola.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma máquina industrial.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4321",
+      "url": "https://www.bomcondutor.pt/questao/4321",
+      "pergunta": "Este veículo pesado pode ter 4,2 m de altura?",
+      "imagem": "4321.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4321.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4322",
+      "url": "https://www.bomcondutor.pt/questao/4322",
+      "pergunta": "Estou obrigado a prestar auxílio em caso de acidente?",
+      "imagem": "4322.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4322.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, excepto nos casos em que não tenha sido interveniente no acidente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, sempre.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4323",
+      "url": "https://www.bomcondutor.pt/questao/4323",
+      "pergunta": "Na circulação rodoviária deve ser utilizada uma condução económica.",
+      "imagem": "4323.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4323.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4324",
+      "url": "https://www.bomcondutor.pt/questao/4324",
+      "pergunta": "Neste local é obrigatório o uso do triângulo de pré-sinalização, quando:",
+      "imagem": "4324.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4324.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Há fraca intensidade de trânsito.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O veículo parado na faixa de rodagem não é visível a 100 metros.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O veiculo parado não é visível a 150 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4325",
+      "url": "https://www.bomcondutor.pt/questao/4325",
+      "pergunta": "No habitáculo do veículo, existe um painel de instrumentos que:",
+      "imagem": "4325.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4325.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Deve ser conhecido pelo seu condutor.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "É igual em todos os veículos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Não tem grande interesse para a condução.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4326",
+      "url": "https://www.bomcondutor.pt/questao/4326",
+      "pergunta": "Nos automóveis ligeiros, quem deve utilizar obrigatoriamente o cinto de segurança?",
+      "imagem": "4326.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4326.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O condutor e o passageiro do banco da frente.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O condutor e os passageiros do banco de trás, se forem crianças.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os passageiros e o condutor.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4327",
+      "url": "https://www.bomcondutor.pt/questao/4327",
+      "pergunta": "Num acidente entre dois automóveis em que um dos condutores apresenta uma taxa de álcool no sangue de 0,9 g/l:",
+      "imagem": "4327.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4327.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O condutor deve saber que a seguradora pode não se responsabilizar pelos danos causados, mesmo que o seguro do veículo seja válido.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O condutor fica detido.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O condutor incorre numa contra-ordenação leve.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4328",
+      "url": "https://www.bomcondutor.pt/questao/4328",
+      "pergunta": "Num automóvel ligeiro de passageiros, a lotação máxima, incluindo o lugar do condutor, é de:",
+      "imagem": "4328.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4328.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "7 lugares.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "8 lugares.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "9 lugares.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4329",
+      "url": "https://www.bomcondutor.pt/questao/4329",
+      "pergunta": "Num automóvel, os amortecedores:",
+      "imagem": "4329.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4329.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Auxiliam a travagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Contrariam as oscilações das molas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Suportam o excesso de carga.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4330",
+      "url": "https://www.bomcondutor.pt/questao/4330",
+      "pergunta": "O airbag é um elemento de segurança:",
+      "imagem": "4330.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4330.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Activa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Passiva.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4331",
+      "url": "https://www.bomcondutor.pt/questao/4331",
+      "pergunta": "O automóvel imediatamente à minha frente está imobilizado. Está correctamente sinalizado?",
+      "imagem": "4331.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4331.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4332",
+      "url": "https://www.bomcondutor.pt/questao/4332",
+      "pergunta": "O bom funcionamento do veículo é um factor que tem influência no desempenho da tarefa da condução.",
+      "imagem": "4332.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4332.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4333",
+      "url": "https://www.bomcondutor.pt/questao/4333",
+      "pergunta": "O combustível a utilizar em cada veículo:",
+      "imagem": "4333.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4333.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Deve ser escolhido pelo condutor.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Deve ser o indicado pelo fabricante.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Pode ser um qualquer.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4334",
+      "url": "https://www.bomcondutor.pt/questao/4334",
+      "pergunta": "O condutor contribui para uma maior protecção do ambiente:",
+      "imagem": "4334.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4334.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Fazendo acelerações bruscas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Praticando uma condução económica.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizando exageradamente os travões.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4335",
+      "url": "https://www.bomcondutor.pt/questao/4335",
+      "pergunta": "O condutor do veículo que emita ruído superior ao determinado por lei:",
+      "imagem": "4335.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4335.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Deve primeiro mandar reparar o veículo para poder transitar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Só pode transitar a menos de 60 km/h.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Só pode transitar fora das localidades.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4336",
+      "url": "https://www.bomcondutor.pt/questao/4336",
+      "pergunta": "O condutor tem um papel fundamental na preservação do meio ambiente?",
+      "imagem": "4336.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4336.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, são atribuições que competem a outras entidades.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque deve contribuir para evitar a sua degradação.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4337",
+      "url": "https://www.bomcondutor.pt/questao/4337",
+      "pergunta": "O conjunto de veículos que segue à minha frente tem:",
+      "imagem": "4337.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4337.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Mais de 10 metros de comprimento.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Mais de 12 metros de comprimento.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Mais de 8 metros de comprimento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4338",
+      "url": "https://www.bomcondutor.pt/questao/4338",
+      "pergunta": "O conta rotações é um elemento que faz parte do painel de instrumentos?",
+      "imagem": "4338.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4338.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque o conta rotações faz parte do motor do veículo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, dá indicação da temperatura do líquido de refrigeração do motor.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, dá indicação do número de rotações do motor por minuto.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4339",
+      "url": "https://www.bomcondutor.pt/questao/4339",
+      "pergunta": "O conta-rotações indica:",
+      "imagem": "4339.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4339.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O número de rotações do motor por metro percorrido.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O número de rotações do motor por minuto.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O número de rotações do motor por quilómetro percorrido.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4340",
+      "url": "https://www.bomcondutor.pt/questao/4340",
+      "pergunta": "O contacto dos pneumáticos com o solo pode diminuir devido:",
+      "imagem": "4340.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4340.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "À altura da suspensão.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "À velocidade a que o automóvel circula.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Ao diâmetro do eixo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4341",
+      "url": "https://www.bomcondutor.pt/questao/4341",
+      "pergunta": "O estado de limpeza dos faróis pode influenciar a eficácia das luzes.",
+      "imagem": "4341.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4341.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4342",
+      "url": "https://www.bomcondutor.pt/questao/4342",
+      "pergunta": "O extintor é um equipamento obrigatório nos automóveis:",
+      "imagem": "4342.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4342.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Pesados de mercadorias e passageiros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Pesados de mercadorias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pesados de passageiros.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4343",
+      "url": "https://www.bomcondutor.pt/questao/4343",
+      "pergunta": "O painel de instrumentos tem a função de:",
+      "imagem": "4343.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4343.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Dar apenas informações relativas a uma eventual avaria durante a viagem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Indicar apenas a velocidade média a que o veículo circula.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Informar sobre o funcionamento do veículo e auxiliar no cumprimento das normas legais.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4344",
+      "url": "https://www.bomcondutor.pt/questao/4344",
+      "pergunta": "O que acontece se os travões actuarem de modo desigual sobre as rodas do mesmo eixo?",
+      "imagem": "4344.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4344.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A distância de paragem diminui.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O veículo altera a trajectória.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4345",
+      "url": "https://www.bomcondutor.pt/questao/4345",
+      "pergunta": "O que deve fazer o condutor caso verifique que o sistema de escape do veículo está defeituoso ou causa um ruído anormal?",
+      "imagem": "4345.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4345.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Desmontar o sistema de escape.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Mandar reparar o sistema de escape.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Nada, não é obrigatório o correcto funcionamento do escape.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4346",
+      "url": "https://www.bomcondutor.pt/questao/4346",
+      "pergunta": "O que pode acontecer se os travões actuarem de modo desigual sobre as rodas do mesmo eixo?",
+      "imagem": "4346.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4346.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A distância de paragem diminui.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A estabilidade do veículo é afectada.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O veículo não altera a trajectória.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4347",
+      "url": "https://www.bomcondutor.pt/questao/4347",
+      "pergunta": "O que pode provocar sobreaquecimento nos pneus?",
+      "imagem": "4347.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4347.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Circular muito tempo a velocidade lenta.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Pressão exagerada de ar no interior dos pneus.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Pressão insuficiente de ar no interior dos pneus.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4348",
+      "url": "https://www.bomcondutor.pt/questao/4348",
+      "pergunta": "O sinal colocado no pavimento, faz parte obrigatória do equipamento de todos os automóveis.",
+      "imagem": "4348.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4348.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4349",
+      "url": "https://www.bomcondutor.pt/questao/4349",
+      "pergunta": "O sistema de direcção assistida aplicado aos automóveis tem como função:",
+      "imagem": "4349.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4349.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Aumentar a segurança na viragem.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar o conforto do condutor.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Permitir que o veículo oscile menos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4350",
+      "url": "https://www.bomcondutor.pt/questao/4350",
+      "pergunta": "O tipo de combustível a utilizar no veículo, deve ser o referido pelo seu construtor?",
+      "imagem": "4350.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4350.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, quem decide qual o combustível a utilizar é o condutor.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não, quem decide qual o combustível a utilizar é sempre o proprietário.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, é ele quem indica qual o combustível a utilizar.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4351",
+      "url": "https://www.bomcondutor.pt/questao/4351",
+      "pergunta": "O trânsito de veículos de tracção animal é equiparado ao trânsito de peões.",
+      "imagem": "4351.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4351.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4352",
+      "url": "https://www.bomcondutor.pt/questao/4352",
+      "pergunta": "O triângulo de pré-sinalização de perigo está correctamente colocado?",
+      "imagem": "4352.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4352.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque está dentro do veículo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque é visível a 100 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque é visível a 30 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4353",
+      "url": "https://www.bomcondutor.pt/questao/4353",
+      "pergunta": "O triângulo de pré-sinalização de perigo está correctamente colocado?",
+      "imagem": "4353.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4353.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque não se encontra colocado no pavimento a, pelo menos, 30 m da retaguarda do veículo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque assinala claramente o obstáculo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque o automóvel está imobilizado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4354",
+      "url": "https://www.bomcondutor.pt/questao/4354",
+      "pergunta": "O triângulo de pré-sinalização de perigo está correctamente colocado?",
+      "imagem": "4354.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4354.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque deve estar colocado sobre a viatura imobilizada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que esteja no pavimento em qualquer posição.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, porque deve estar colocado verticalmente em relação ao pavimento.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4355",
+      "url": "https://www.bomcondutor.pt/questao/4355",
+      "pergunta": "O triângulo de pré-sinalização deve ser bem visível a uma distância de, pelo menos:",
+      "imagem": "4355.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4355.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "100 metros.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "150 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "200 metros.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "50 metros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4356",
+      "url": "https://www.bomcondutor.pt/questao/4356",
+      "pergunta": "O triângulo de pré-sinalização pode ser colocado deste modo?",
+      "imagem": "4356.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4356.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Nunca, pois deve ser colocado a, pelo menos, 30 metros do veículo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, quando o veículo é visível a 100 metros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, sempre que existe perigo de furto do triângulo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4357",
+      "url": "https://www.bomcondutor.pt/questao/4357",
+      "pergunta": "O uso pelo condutor do colete retroreflector, é obrigatório:",
+      "imagem": "4357.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4357.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Depois do condutor colocar o sinal de pré-sinalização de perigo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Em caso de avaria ou acidente, salvo se o veículo se encontrar imobilizado na faixa de rodagem.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sempre que o condutor proceda à colocação do sinal de pré-sinalização de perigo.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4358",
+      "url": "https://www.bomcondutor.pt/questao/4358",
+      "pergunta": "O veículo à minha frente é um velocípede?",
+      "imagem": "4358.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4358.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, porque é equiparado a um peão.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, porque é um veículo de duas rodas e pode ser accionado só pelo esforço do condutor",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4359",
+      "url": "https://www.bomcondutor.pt/questao/4359",
+      "pergunta": "O veículo de tracção animal é considerado um automóvel, se tiver quatro rodas?",
+      "imagem": "4359.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4359.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, se o seu peso não ultrapassar os 550 Kg.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4360",
+      "url": "https://www.bomcondutor.pt/questao/4360",
+      "pergunta": "O veículo que circula à minha frente:",
+      "imagem": "4360.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4360.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "É destinado ao transporte de passageiros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "É um veículo de marcha lenta.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Não pode transitar na via pública.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4361",
+      "url": "https://www.bomcondutor.pt/questao/4361",
+      "pergunta": "O veículo que transita à minha frente é:",
+      "imagem": "4361.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4361.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Um tractor agrícola.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Uma máquina agrícola.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Uma máquina industrial.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4362",
+      "url": "https://www.bomcondutor.pt/questao/4362",
+      "pergunta": "O veículo que transita à minha frente, está obrigado a ter matrícula?",
+      "imagem": "4362.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4362.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, mas apenas pode transitar em caminhos particulares.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4363",
+      "url": "https://www.bomcondutor.pt/questao/4363",
+      "pergunta": "O velocímetro indica:",
+      "imagem": "4363.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4363.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A velocidade instantânea.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "A velocidade máxima a transitar no local.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "A velocidade média.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4364",
+      "url": "https://www.bomcondutor.pt/questao/4364",
+      "pergunta": "O velocímetro indica:",
+      "imagem": "4364.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4364.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A velocidade instantânea.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "O número de quilómetros a percorrer.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "O número de quilómetros percorridos.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4365",
+      "url": "https://www.bomcondutor.pt/questao/4365",
+      "pergunta": "Os automóveis destinados ao transporte de mercadorias, cujo peso bruto não exceda 3500 Kg, designam-se por:",
+      "imagem": "4365.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4365.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros de mercadorias.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Automóveis pesados de mercadorias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Automóveis pesados.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4366",
+      "url": "https://www.bomcondutor.pt/questao/4366",
+      "pergunta": "Os automóveis ligeiros devem estar equipados com um sinal de pré-sinalização?",
+      "imagem": "4366.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4366.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4367",
+      "url": "https://www.bomcondutor.pt/questao/4367",
+      "pergunta": "Os automóveis podem circular sem dispositivo destinado a tornar silencioso o motor?",
+      "imagem": "4367.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4367.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não, não podem.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, se estiverem equipados com motor diesel.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, se forem ligeiros e não transitarem dentro das localidades.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4368",
+      "url": "https://www.bomcondutor.pt/questao/4368",
+      "pergunta": "Os automóveis são obrigados a ter pelo menos um colete retroreflector que tem como função:",
+      "imagem": "4368.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4368.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Permitir diferenciar os condutores dos agentes de autoridade e de quem presta assistência.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Permitir diferenciar um dos ocupantes do veículo dos agentes de autoridade que se encontram no local, em caso de acidente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Permitir que, em caso de avaria ou acidente, o condutor possa ser visto pelos outros condutores.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4369",
+      "url": "https://www.bomcondutor.pt/questao/4369",
+      "pergunta": "Os catalisadores, são dispositivos que têm como função:",
+      "imagem": "4369.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4369.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Diminuir a emissão de poluentes atmosféricos.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuir o consumo de combustível.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Diminuir os ruídos de escape.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4370",
+      "url": "https://www.bomcondutor.pt/questao/4370",
+      "pergunta": "Os factores integrantes da circulação rodoviária são:",
+      "imagem": "4370.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4370.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O Homem como condutor e peão.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O Homem, o veículo e a via.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O veículo e o condutor.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4371",
+      "url": "https://www.bomcondutor.pt/questao/4371",
+      "pergunta": "Os painéis retroreflectores servem para sinalizar os automóveis ou conjunto de veículos:",
+      "imagem": "4371.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4371.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Com peso bruto superior a 3,5 toneladas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Com tara superior a 3,5 toneladas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4372",
+      "url": "https://www.bomcondutor.pt/questao/4372",
+      "pergunta": "Os pneus dos automóveis ligeiros devem apresentar um relevo de, pelo menos:",
+      "imagem": "4372.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4372.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "1 mm.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "1,5 mm.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "1,6 mm.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4373",
+      "url": "https://www.bomcondutor.pt/questao/4373",
+      "pergunta": "Os pneus dos automóveis pesados de mercadorias devem apresentar um relevo de, pelo menos:",
+      "imagem": "4373.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4373.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "1 mm.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "1,5 mm.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "1,6 mm.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4374",
+      "url": "https://www.bomcondutor.pt/questao/4374",
+      "pergunta": "Os veículos agrícolas destinam-se:",
+      "imagem": "4374.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4374.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A trabalhos agrícolas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ao transporte de mercadorias.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Ao transporte de passageiros ou a trabalhos agrícolas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4375",
+      "url": "https://www.bomcondutor.pt/questao/4375",
+      "pergunta": "Para a lotação de um automóvel ligeiro contam:",
+      "imagem": "4375.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4375.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "As pessoas que nele forem sentadas ou de pé se forem crianças.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "As pessoas que o veículo pode transportar, incluindo o condutor.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Todas as pessoas que nele forem, excepto as crianças de colo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4376",
+      "url": "https://www.bomcondutor.pt/questao/4376",
+      "pergunta": "Para engrenar as mudanças deve-se:",
+      "imagem": "4376.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4376.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Adequar a velocidade.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar a velocidade do motor.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar o travão de serviço.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4377",
+      "url": "https://www.bomcondutor.pt/questao/4377",
+      "pergunta": "Para o cálculo do peso bruto dos automóveis é atribuído ao condutor:",
+      "imagem": "4377.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4377.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Um peso de 65 kg.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Um peso de 75 kg.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Um peso de zero kg.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4378",
+      "url": "https://www.bomcondutor.pt/questao/4378",
+      "pergunta": "Para se dar a combustão no motor é essencial a presença de:",
+      "imagem": "4378.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4378.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Chumbo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Dióxido de carbono.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Oxigénio.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4379",
+      "url": "https://www.bomcondutor.pt/questao/4379",
+      "pergunta": "Para uma condução segura, é necessário que o veículo tenha um bom funcionamento.",
+      "imagem": "4379.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4379.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4380",
+      "url": "https://www.bomcondutor.pt/questao/4380",
+      "pergunta": "Posso parar ou estacionar do lado direito?",
+      "imagem": "4380.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4380.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4381",
+      "url": "https://www.bomcondutor.pt/questao/4381",
+      "pergunta": "Qual a categoria que é necessária para conduzir um automóvel com lotação de 10 lugares?",
+      "imagem": "4381.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4381.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Categoria A.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Categoria B.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Categoria C.",
+          "correta": false
+        },
+        {
+          "letra": "D",
+          "texto": "Categoria D.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "D"
+    },
+    {
+      "numero": "4382",
+      "url": "https://www.bomcondutor.pt/questao/4382",
+      "pergunta": "Qual é a habilitação necessária para conduzir um automóvel de passageiros com lotação de 11 lugares?",
+      "imagem": "4382.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4382.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Carta de condução de automóveis ligeiros.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Carta de condução de automóveis pesados de passageiros.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Carta de condução de tractores agrícolas.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4383",
+      "url": "https://www.bomcondutor.pt/questao/4383",
+      "pergunta": "Quando eu piso o pedal da embraiagem:",
+      "imagem": "4383.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4383.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Desligo o movimento das rodas do movimento do motor.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Ligo o movimento das rodas ao movimento do motor.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Travo o motor.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4384",
+      "url": "https://www.bomcondutor.pt/questao/4384",
+      "pergunta": "Quando o condutor pisa o pedal da embraiagem:",
+      "imagem": "4384.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4384.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Faz-se a ligação do movimento entre o motor e as rodas.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Interrompe-se a ligação do movimento entre o motor e as rodas.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Interrompe-se o movimento do motor.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4385",
+      "url": "https://www.bomcondutor.pt/questao/4385",
+      "pergunta": "Quando um condutor fixa o seu olhar em determinado pormenor distante:",
+      "imagem": "4385.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4385.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "A visão é mais nítida nas zonas laterais do que no pormenor.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "A visão é mais nítida no centro desse pormenor mas mais difusa nas zonas laterais.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "A visão é tão nítida no centro como nas zonas laterais.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4386",
+      "url": "https://www.bomcondutor.pt/questao/4386",
+      "pergunta": "Quando um condutor verificar que o seu veículo produz demasiado fumo, deve reparar a anomalia:",
+      "imagem": "4386.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4386.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "O mais rapidamente possível.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Só no caso dos fumos serem negros.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Somente antes de se apresentar à próxima inspecção periódica obrigatória.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4387",
+      "url": "https://www.bomcondutor.pt/questao/4387",
+      "pergunta": "Que veículos devem estar apetrechados com este sinal?",
+      "imagem": "4387.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4387.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Automóveis ligeiros e pesados .",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Automóveis ligeiros, automóveis pesados e motociclos.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Só os automóveis ligeiros.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4388",
+      "url": "https://www.bomcondutor.pt/questao/4388",
+      "pergunta": "Quem deve fazer a verificação do nível do líquido refrigerante no motor do veículo?",
+      "imagem": "4388.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4388.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Esta verificação só pode ser feita numa oficina especializada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "O seu normal utilizador.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "O seu utilizador no final de cada deslocação.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4389",
+      "url": "https://www.bomcondutor.pt/questao/4389",
+      "pergunta": "Regra geral, a verificação do nível de óleo deve ser feita:",
+      "imagem": "4389.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4389.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Antes de iniciar a marcha, com o motor a frio.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Antes de iniciar a marcha, com o motor a trabalhar.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "No final de cada viagem, com o motor ainda quente.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4390",
+      "url": "https://www.bomcondutor.pt/questao/4390",
+      "pergunta": "Se a pressão dos pneumáticos de um automóvel não estiver correcta este fica:",
+      "imagem": "4390.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4390.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Com mais segurança activa.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Com menos segurança activa.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Mais cómodo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4391",
+      "url": "https://www.bomcondutor.pt/questao/4391",
+      "pergunta": "Se o passageiro transportado no banco da frente não utilizar o cinto de segurança, a responsabilidade é, por regra:",
+      "imagem": "4391.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4391.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Do condutor do veículo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Do proprietário do veículo.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Do próprio passageiro.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4392",
+      "url": "https://www.bomcondutor.pt/questao/4392",
+      "pergunta": "Se tiver necessidade de substituir uma roda, devo em primeiro lugar:",
+      "imagem": "4392.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4392.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Colocar o «macaco».",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Desapertar as porcas totalmente.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Imobilizar o veículo num local seguro.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4393",
+      "url": "https://www.bomcondutor.pt/questao/4393",
+      "pergunta": "Se, em consequência de um acidente de viação, começar um incêndio no veículo o condutor deve desligar o motor e a bateria. Concorda com a afirmação?",
+      "imagem": "4393.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4393.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4394",
+      "url": "https://www.bomcondutor.pt/questao/4394",
+      "pergunta": "Sendo titular de carta de condução da categoria B, posso atrelar ao meu veículo algum reboque?",
+      "imagem": "4394.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4394.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Sim, desde que o peso bruto do reboque não exceda 6000 Kg.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Sim, um reboque de peso bruto até 750 Kg.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4395",
+      "url": "https://www.bomcondutor.pt/questao/4395",
+      "pergunta": "Todos os componentes do veículo devem ser cuidados pelo seu utilizador, com o objectivo de se manterem em perfeitas condições de funcionamento.",
+      "imagem": "4395.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4395.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4396",
+      "url": "https://www.bomcondutor.pt/questao/4396",
+      "pergunta": "Um amortecedor a derramar óleo:",
+      "imagem": "4396.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4396.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não prejudica a estabilidade do automóvel a velocidade moderada.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Não prejudica a estabilidade do veículo desde que circule junto à berma.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Prejudica a segurança da circulação.",
+          "correta": true
+        }
+      ],
+      "letraCorreta": "C"
+    },
+    {
+      "numero": "4397",
+      "url": "https://www.bomcondutor.pt/questao/4397",
+      "pergunta": "Um automóvel cujo peso bruto seja 4500 Kg pode ser considerado um automóvel ligeiro?",
+      "imagem": "4397.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4397.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Não.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Sim.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4398",
+      "url": "https://www.bomcondutor.pt/questao/4398",
+      "pergunta": "Um condutor, ao conduzir um automóvel, deve:",
+      "imagem": "4398.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4398.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Concentrar toda a sua visão no que se pode desenrolar na frente do veículo.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "Olhar de modo a explorar visualmente, e em pouco tempo, o maior número de pormenores que o rodeiam.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Olhar só para os espelhos retrovisores pois pode estar a ser ultrapassado por algum veículo.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4399",
+      "url": "https://www.bomcondutor.pt/questao/4399",
+      "pergunta": "Um dos cuidados a ter em certas baterias é o de adicionar:",
+      "imagem": "4399.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4399.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Água destilada até cobrir as placas.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Líquido de arrefecimento.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4400",
+      "url": "https://www.bomcondutor.pt/questao/4400",
+      "pergunta": "Um veículo que emita fumos em quantidade superior à fixada por lei:",
+      "imagem": "4400.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4400.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Deve ser reparado para poder transitar.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Pode transitar até à data da próxima inspecção periódica.",
+          "correta": false
+        },
+        {
+          "letra": "C",
+          "texto": "Só pode transitar fora das localidades.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4401",
+      "url": "https://www.bomcondutor.pt/questao/4401",
+      "pergunta": "Um veículo reprovado em inspecção deve apresentar-se a reinspecção:",
+      "imagem": "4401.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4401.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "No período máximo de 24h.",
+          "correta": false
+        },
+        {
+          "letra": "B",
+          "texto": "No período máximo de 30 dias.",
+          "correta": true
+        },
+        {
+          "letra": "C",
+          "texto": "Pelo período determinado pelo centro de inspecções.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "B"
+    },
+    {
+      "numero": "4402",
+      "url": "https://www.bomcondutor.pt/questao/4402",
+      "pergunta": "Uma correcta manutenção do veículo ajuda a garantir a protecção ambiental.",
+      "imagem": "4402.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4402.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado.",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    },
+    {
+      "numero": "4403",
+      "url": "https://www.bomcondutor.pt/questao/4403",
+      "pergunta": "Uma correcta manutenção do veículo, é um factor que tem grande influência na segurança rodoviária.",
+      "imagem": "4403.jpg",
+      "imagemUrl": "https://www.bomcondutor.pt/assets/images/questions/4403.jpg",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Certo.",
+          "correta": true
+        },
+        {
+          "letra": "B",
+          "texto": "Errado",
+          "correta": false
+        }
+      ],
+      "letraCorreta": "A"
+    }
+  ]
+}
