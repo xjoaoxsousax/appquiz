@@ -172,7 +172,7 @@ function QuizContent() {
                             <Button
                                 variant="outline"
                                 onClick={finishQuiz}
-                                className="w-full h-14 bg-blue-600 hover:bg-blue-700 text-white border-transparent rounded-2xl font-black uppercase tracking-widest text-xs shadow-xl shadow-blue-100"
+                                className="w-full h-14 bg-blue-50 hover:bg-blue-100 text-blue-900 border-transparent rounded-2xl font-black uppercase tracking-widest text-xs shadow-xl shadow-blue-100/50"
                             >
                                 Sim, Terminar Simulado
                             </Button>
